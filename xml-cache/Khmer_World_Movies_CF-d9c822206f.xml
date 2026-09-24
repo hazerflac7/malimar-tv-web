@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>5</itemCount>
+<totalCount>5</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KHActionMovies24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KHActionMovies24HD.jpg">
+<title>KHMER ACTION MOVIES</title>
+<titlel>ភាពយន្តវាយប្រហារ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KHActionMovies24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KHClassicMovies24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KHClassicMovies24HD.jpg">
+<title>KHMER CLASSIC MOVIES</title>
+<titlel>ភាពយន្តបុរាណ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KHClassicMovies24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KHComedyMovies24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KHComedyMovies24HD.jpg">
+<title>KHMER COMEDY MOVIES</title>
+<titlel>ភាពយន្តកំប្លែង</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KHComedyMovies24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KHHorrorMovies24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KHHorrorMovies24HD.jpg">
+<title>KHMER HORROR MOVIES</title>
+<titlel>ភាពយន្តភ័យរន្ធត់</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KHHorrorMovies24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KHRomanticMovies24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KHRomanticMovies24HD.jpg">
+<title>KHMER ROMANTIC MOVIES</title>
+<titlel>ភាពយន្តមនោសញ្ចេតនា</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KHRomanticMovies24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

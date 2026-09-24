@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>20</itemCount>
+<totalCount>20</totalCount>
+<item>
+<title>KHMER LIVE</title>
+<titlel>ទូរទស្សន៍ខ្មែរផ្សាយផ្ទាល់</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_LiveTV_Premium_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER NEWS</title>
+<titlel>ព័ត៌មានខ្មែរ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_News_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER VARIETY</title>
+<titlel>ខ្មែរគ្រប់យ៉ាង</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Variety_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER DRAMA | ONAIR</title>
+<titlel>ភាពយន្តថ្មីកំពុងផ្សាយ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Drama_Khmer_New_Episodes_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER DRAMA RECENTLY ADDED</title>
+<titlel>រឿងភាគនិយាយខ្មែរ | ទើបបញ្ចូលថ្មី</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Drama_Recently_Added_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER MOVIE NEW RELEASE</title>
+<titlel>ភាពយន្តនិយាយខ្មែរ | ទើបបញ្ចូលថ្មី</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Movie_Recently_Added_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER THAI DRAMA</title>
+<titlel>ភាពយន្តថៃនិយាយភាសាខ្មែរ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Drama_Thai_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER WORLD DRAMA</title>
+<titlel>ភាពយន្តបរទេសនិយាយខ្មែរ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Drama_World_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER DRAMA</title>
+<titlel>រឿងភាគខ្មែរ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Drama_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER WORLD MOVIES</title>
+<titlel>ភាពយន្តបរទេសនិយាយភាសាខ្មែរ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_World_Movies_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER MOVIES</title>
+<titlel>ភាពយន្តខ្មែរ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Movies_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER FOOD AND TRAVEL</title>
+<titlel>អាហារនិងការធ្វើដំណើរ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Food_And_Travel_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER SPORT</title>
+<titlel>កម្មវិធីកីឡា</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Sports_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER SITCOM</title>
+<titlel>កម្មវិធីកំប្លែង</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Sitcom_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER CARTOON</title>
+<titlel>កម្មវិធីគំនូរជីវចល</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Cartoon_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER DOCUMENTARY AND EDUCATION</title>
+<titlel>ឯកសារ និង ការសិក្សា</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Documentary_And_Education_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER LOCAL THEATRE</title>
+<titlel>ល្ខោន|យីកេ|អាយ៉ៃ|ចាបុីខ្មែរ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Local_Theatre_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER BUDDHIST</title>
+<titlel>ពុទ្ធសាសនាខ្មែរ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Buddhist_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER MUSIC</title>
+<titlel>ខ្មែរតន្រ្តី</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Music_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>KHMER BY YEAR</title>
+<titlel>មាតិកាខ្មែរតាមឆ្នាំ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_By_Year_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+</feed>

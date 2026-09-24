@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>5</itemCount>
+<totalCount>5</totalCount>
+<item>
+<title>OH MUANG LAO</title>
+<titlel>ໂອ້ ເມືອງລາວ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Oh_Muang_Lao_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>CHANSOUDA PHAZAP</title>
+<titlel>ຈັນສຸດາ ພາແຊບ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OML_ZAP_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>MA DER KIN KHAO</title>
+<titlel>ມາເດີ້ກິນເຂົ້າ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OML_MaderKinKhao_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>DRONE</title>
+<titlel>ໂດຣນ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Drone_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>LAO MUSIC</title>
+<titlel>ເພງລາວ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_Music_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+</feed>

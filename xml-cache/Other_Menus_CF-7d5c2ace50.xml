@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>4</itemCount>
+<totalCount>4</totalCount>
+<item sdImg="https://i.malimarcdn.com/buddhist.jpg"
+ hdImg="https://i.malimarcdn.com/buddhistHD.jpg">
+<title>BUDDHIST</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/buddhist.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/concerts.jpg"
+ hdImg="https://i.malimarcdn.com/concertsHD.jpg">
+<title>CONCERTS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Lao TV, Drama, Movies, and Music</description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/concerts.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/25MatureNC17.jpg"
+ hdImg="https://i.malimarcdn.com/25MatureNC17HD.jpg">
+<title>18 MATURE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/25MatureNC17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/special.jpg"
+ hdImg="https://i.malimarcdn.com/specialHD.jpg">
+<title>SPECIAL</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Hmong TV, Drama, Movies, and Music</description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/special.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

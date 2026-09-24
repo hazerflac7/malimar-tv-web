@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>9</itemCount>
+<totalCount>9</totalCount>
+<item sdImg="https://i.malimarcdn.com/Action.jpg"
+ hdImg="https://i.malimarcdn.com/ActionHD.jpg">
+<title>ACTION</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Action</description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Action.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Classic.jpg"
+ hdImg="https://i.malimarcdn.com/ClassicHD.jpg">
+<title>CLASSIC</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Classic.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Comedy.jpg"
+ hdImg="https://i.malimarcdn.com/ComedyHD.jpg">
+<title>COMEDY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Comedy.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Drama.jpg"
+ hdImg="https://i.malimarcdn.com/DramaHD.jpg">
+<title>DRAMAS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Drama.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Horror.jpg"
+ hdImg="https://i.malimarcdn.com/HorrorHD.jpg">
+<title>HORROR</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Horror.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Romantic.jpg"
+ hdImg="https://i.malimarcdn.com/RomanticHD.jpg">
+<title>ROMANTIC</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Romantic.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ShortFilms.jpg"
+ hdImg="https://i.malimarcdn.com/ShortFilmsHD.jpg">
+<title>SHORT FILMS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ShortFilms.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiSubtitles.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiSubtitlesHD.jpg">
+<title>THAI SUBTITLES</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiSubtitles.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishSubtitles.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishSubtitlesHD.jpg">
+<title>ENGLISH SUBTITLES</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishSubtitles.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

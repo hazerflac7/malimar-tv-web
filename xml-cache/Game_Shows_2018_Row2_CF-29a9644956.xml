@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>26</itemCount>
+<totalCount>26</totalCount>
+<item sdImg="https://i.malimarcdn.com/StillStanding18.jpg"
+ hdImg="https://i.malimarcdn.com/StillStanding18HD.jpg">
+<title>STILL STANDING 2018</title>
+<titlel>ตกสิบหยิบล้าน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2018 with 253  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/StillStanding18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HitTheStage18.jpg"
+ hdImg="https://i.malimarcdn.com/HitTheStage18HD.jpg">
+<title>HIT THE STAGE</title>
+<titlel>สังเวียนเท้าไฟ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Oct-2018 with 5  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HitTheStage18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Dandara18.jpg"
+ hdImg="https://i.malimarcdn.com/Dandara18HD.jpg">
+<title>DANDARA</title>
+<titlel>ดันดารา</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Sep-2018 with 35  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Dandara18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GamesPanNa18.jpg"
+ hdImg="https://i.malimarcdn.com/GamesPanNa18HD.jpg">
+<title>GAMES PAN NA</title>
+<titlel>เกม 1000 หน้า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Sep-2018 with 39  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GamesPanNa18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SamoraphumChingPhleng18.jpg"
+ hdImg="https://i.malimarcdn.com/SamoraphumChingPhleng18HD.jpg">
+<title>SAMORAPHUM CHING PHLENG</title>
+<titlel>สมรภูมิชิงเพลง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Sep-2018 with 14  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SamoraphumChingPhleng18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ShowerSinger18.jpg"
+ hdImg="https://i.malimarcdn.com/ShowerSinger18HD.jpg">
+<title>SHOWER SINGER</title>
+<titlel>อาบได้ร้องโดน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Sep-2018 with 24  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ShowerSinger18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WorldOfDanceThailand18.jpg"
+ hdImg="https://i.malimarcdn.com/WorldOfDanceThailand18HD.jpg">
+<title>WORLD OF DANCE THAILAND</title>
+<titlel>เต้นบันลือโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Sep-2018 with 13  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WorldOfDanceThailand18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SnatchMillion18.jpg"
+ hdImg="https://i.malimarcdn.com/SnatchMillion18HD.jpg">
+<title>SNATCH MILLION 2018</title>
+<titlel>เกมกระชากล้าน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Sep-2018 with 61  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SnatchMillion18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HotwaveMusicAwards2018.jpg"
+ hdImg="https://i.malimarcdn.com/HotwaveMusicAwards2018HD.jpg">
+<title>HOTWAVE MUSIC AWARDS 2018</title>
+<titlel>ฮอตเวฟ มิวสิค อวอร์ด 2018</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Sep-2018 with 12  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HotwaveMusicAwards2018.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheHunterGame18.jpg"
+ hdImg="https://i.malimarcdn.com/TheHunterGame18HD.jpg">
+<title>THE HUNTER GAME</title>
+<titlel>ล่าท้ารวย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Aug-2018 with 27  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheHunterGame18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BigHeadsThailand18.jpg"
+ hdImg="https://i.malimarcdn.com/BigHeadsThailand18HD.jpg">
+<title>BIG HEADS THAILAND</title>
+<titlel>หัวโตสนั่นเมือง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Aug-2018 with 12  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BigHeadsThailand18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheNextBoyGirlBand18.jpg"
+ hdImg="https://i.malimarcdn.com/TheNextBoyGirlBand18HD.jpg">
+<title>THE NEXT BOY GIRL BAND</title>
+<titlel>ดอะเน็กซ์บอย เกิร์ลแบนด์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Aug-2018 with 10  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheNextBoyGirlBand18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SeukWanduanPlayng18.jpg"
+ hdImg="https://i.malimarcdn.com/SeukWanduanPlayng18HD.jpg">
+<title>SEUK WANDUAN PLAYNG</title>
+<titlel>ศึกวันดวลเพลง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Aug-2018 with 148  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SeukWanduanPlayng18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ShowMeTheMoneyThailand18.jpg"
+ hdImg="https://i.malimarcdn.com/ShowMeTheMoneyThailand18HD.jpg">
+<title>SHOW ME THE MONEY THAILAND</title>
+<titlel>โชว์มีเดอะมันนี่</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Jul-2018 with 14  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ShowMeTheMoneyThailand18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheRapper18.jpg"
+ hdImg="https://i.malimarcdn.com/TheRapper18HD.jpg">
+<title>THE RAPPER</title>
+<titlel>เดอะแร๊ปเปอร์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Jul-2018 with 17  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheRapper18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LittleBigShots18.jpg"
+ hdImg="https://i.malimarcdn.com/LittleBigShots18HD.jpg">
+<title>LITTLE BIG SHOTS</title>
+<titlel>ตัวเล็กโชว์ใหญ่</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Jul-2018 with 13  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LittleBigShots18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GameRiangBoe18.jpg"
+ hdImg="https://i.malimarcdn.com/GameRiangBoe18HD.jpg">
+<title>GAME RIANG BOE</title>
+<titlel>เกมเรียงเบอร์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Jun-2018 with 115  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GameRiangBoe18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/StarWar18.jpg"
+ hdImg="https://i.malimarcdn.com/StarWar18HD.jpg">
+<title>STAR WAR</title>
+<titlel>สงครามดวงดาว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Jun-2018 with 16  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/StarWar18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheShow18.jpg"
+ hdImg="https://i.malimarcdn.com/TheShow18HD.jpg">
+<title>THE SHOW</title>
+<titlel>ศึกชิงเวที</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-May-2018 with 13  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheShow18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SingerAuction18.jpg"
+ hdImg="https://i.malimarcdn.com/SingerAuction18HD.jpg">
+<title>SINGER AUCTION</title>
+<titlel>เสียงนี้มีราคา</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Apr-2018 with 12  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SingerAuction18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TalentWarrior18.jpg"
+ hdImg="https://i.malimarcdn.com/TalentWarrior18HD.jpg">
+<title>TALENT WARRIOR</title>
+<titlel>เกรียนอัจฉริยะ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Apr-2018 with 13  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TalentWarrior18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/starKids18.jpg"
+ hdImg="https://i.malimarcdn.com/starKids18HD.jpg">
+<title>STAR KIDS</title>
+<titlel>สตาร์คิดส์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Mar-2018 with 10  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/starKids18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ReMasterThaiLand18.jpg"
+ hdImg="https://i.malimarcdn.com/ReMasterThaiLand18HD.jpg">
+<title>RE MASTER THAILAND</title>
+<titlel>เพลงดังอีกครั้งหนึ่ง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Feb-2018 with 8  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReMasterThaiLand18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheVoiceSeason617.jpg"
+ hdImg="https://i.malimarcdn.com/TheVoiceSeason617HD.jpg">
+<title>THE VOICE SEASON 6</title>
+<titlel>เดอะวอยซ ซีซั่น6</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Feb-2018 with 15  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheVoiceSeason617.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/AMatterOfTaste217.jpg"
+ hdImg="https://i.malimarcdn.com/AMatterOfTaste217HD.jpg">
+<title>A MATTER OF TASTE 2</title>
+<titlel>ศึกเมนูพิชิตใจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Feb-2018 with 13  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AMatterOfTaste217.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LetMeInThailand317.jpg"
+ hdImg="https://i.malimarcdn.com/LetMeInThailand317HD.jpg">
+<title>LET ME IN THAILAND 3</title>
+<titlel>ศัลยกรรม พลิกชีวิต 3</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Feb-2018 with 13  Episode(s) PLAY:  TUE, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LetMeInThailand317.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

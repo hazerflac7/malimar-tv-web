@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>4</itemCount>
+<totalCount>4</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KHChinese24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KHChinese24HD.jpg">
+<title>KHMER CHINESE</title>
+<titlel>រឿងភាគចិន</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KHChinese24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KHKorean24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KHKorean24HD.jpg">
+<title>KHMER KOREAN</title>
+<titlel>រឿងភាគកូរ៉េ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KHKorean24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KHIndian24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KHIndian24HD.jpg">
+<title>KHMER INDIAN</title>
+<titlel>រឿងភាគឥណ្ឌា</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KHIndian24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KHPhilippines24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KHPhilippines24HD.jpg">
+<title>KHMER PHILIPPINES</title>
+<titlel>រឿងភាគហ្វីលីពីន</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KHPhilippines24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

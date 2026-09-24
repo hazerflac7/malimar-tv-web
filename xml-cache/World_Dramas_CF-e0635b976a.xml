@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>5</itemCount>
+<totalCount>5</totalCount>
+<item sdImg="https://i.malimarcdn.com/chinese.jpg"
+ hdImg="https://i.malimarcdn.com/chineseHD.jpg">
+<title>CHINESE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Chinese and Taiwanese Dramas</description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/chinese.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/indian.jpg"
+ hdImg="https://i.malimarcdn.com/indianHD.jpg">
+<title>INDIAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/indian.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/japanese.jpg"
+ hdImg="https://i.malimarcdn.com/japaneseHD.jpg">
+<title>JAPANESE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Japanese Dramas</description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/japanese.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/korean.jpg"
+ hdImg="https://i.malimarcdn.com/koreanHD.jpg">
+<title>KOREAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/korean.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WorldOther.jpg"
+ hdImg="https://i.malimarcdn.com/WorldOtherHD.jpg">
+<title>OTHER</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WorldOther.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

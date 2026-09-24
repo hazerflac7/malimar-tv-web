@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>7</itemCount>
+<totalCount>7</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KhlenSnePis26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KhlenSnePis26HD.jpg">
+<title>KHLEN SNE PIS KOREAN</title>
+<titlel>រឿង មហិច្ឆិតាព្រះនាងវ៉ូ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Aug-2026 with 5  Episode(s) PLAY: MON  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhlenSnePis26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Eternity.jpg"
+ hdImg="https://i.malimarcdn.com/EternityHD.jpg">
+<id>ruk12039</id>
+<title>RUK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>11080</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-May-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Eternity.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaoKunHoo.jpg"
+ hdImg="https://i.malimarcdn.com/SaoKunHooHD.jpg">
+<id>sao_kun_hoo11475</id>
+<title>SAO KUN HOO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5084</length>
+<PlayerBG></PlayerBG>
+<releaseDate>28-Dec-2017</releaseDate>
+<rating>TV-MA</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/Mature/SaoKunHoo.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GigGuanPuanSah.jpg"
+ hdImg="https://i.malimarcdn.com/GigGuanPuanSahHD.jpg">
+<id>gig_guan_puan_sah11469</id>
+<title>GIG GUAN PUAN SAH</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4883</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-Dec-2017</releaseDate>
+<rating>TV-MA</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/Mature/GigGuanPuanSah.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SinSisters.jpg"
+ hdImg="https://i.malimarcdn.com/SinSistersHD.jpg">
+<id>sin_sisters11466</id>
+<title>SIN SISTERS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6565</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-Dec-2017</releaseDate>
+<rating>TV-MA</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/Mature/SinSisters.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SinSisters2.jpg"
+ hdImg="https://i.malimarcdn.com/SinSisters2HD.jpg">
+<id>sin_sisters_211467</id>
+<title>SIN SISTERS 2</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6280</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-Dec-2017</releaseDate>
+<rating>TV-MA</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/Mature/SinSisters2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SixSex.jpg"
+ hdImg="https://i.malimarcdn.com/SixSexHD.jpg">
+<id>six_sex11468</id>
+<title>SIX SEX</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>7723</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-Dec-2017</releaseDate>
+<rating>TV-MA</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/Mature/SixSex.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

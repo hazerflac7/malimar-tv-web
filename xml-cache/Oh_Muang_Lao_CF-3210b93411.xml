@@ -1,0 +1,822 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>24</itemCount>
+<totalCount>24</totalCount>
+<item sdImg="https://i.malimarcdn.com/SasSaNaIslam.jpg"
+ hdImg="https://i.malimarcdn.com/SasSaNaIslamHD.jpg">
+<title>SAS SA NA ISLAM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Dec-2018 with 6  Episode(s) PLAY:  WED  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SasSaNaIslam.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhobChaiPiNongSouyPaiThiAttpue.jpg"
+ hdImg="https://i.malimarcdn.com/KhobChaiPiNongSouyPaiThiAttpueHD.jpg">
+<id>khob_chai_pi_nong_souy_pai_thiattpue12866</id>
+<title>KHOB CHAI PI NONG SOUY PAI THIATTPUE</title>
+<titlel>ຂອບໃຈພີນ້ອງຊ່ວຍໄພອັດຕະປື</titlel>
+<Mweb>Y</Mweb>
+<length>310</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KhobChaiPiNongSouyPaiThiAttpue.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BounViSaKha.jpg"
+ hdImg="https://i.malimarcdn.com/BounViSaKhaHD.jpg">
+<id>boun_vi_sa_kha10533</id>
+<title>BOUN VI SA KHA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1706</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/BounViSaKha.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Lao-iteccChildren.jpg"
+ hdImg="https://i.malimarcdn.com/Lao-iteccChildrenHD.jpg">
+<id>lao-itecc_children10531</id>
+<title>LAO-ITECC CHILDREN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1497</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/Lao-iteccChildren.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaiybuaReSord.jpg"
+ hdImg="https://i.malimarcdn.com/SaiybuaReSordHD.jpg">
+<id>saiy_bua_re_sord10532</id>
+<title>SAIY BUA RE SORD</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1544</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/SaiybuaReSord.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SuanJumPaMoungKhoun.jpg"
+ hdImg="https://i.malimarcdn.com/SuanJumPaMoungKhounHD.jpg">
+<id>suan_jum_pa_moung_khoun10467</id>
+<title>SUAN JUM PA MOUNG KHOUN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3037</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/SuanJumPaMoungKhoun.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SuanPhuekSa.jpg"
+ hdImg="https://i.malimarcdn.com/SuanPhuekSaHD.jpg">
+<id>suan_phuek_sa10530</id>
+<title>SUAN PHUEK SA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1803</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/SuanPhuekSa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/VatXiengKhuan.jpg"
+ hdImg="https://i.malimarcdn.com/VatXiengKhuanHD.jpg">
+<id>oml_wat_xieng_khuan9857</id>
+<title>OML WAT XIENG KHUAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3077</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Feb-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Travel</genre>
+<genre>Travel</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>HD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>HD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/VatXiengKhuan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TharLart.jpg"
+ hdImg="https://i.malimarcdn.com/TharLartHD.jpg">
+<id>oml_tharlart9822</id>
+<title>OML THARLART</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3077</length>
+<PlayerBG></PlayerBG>
+<releaseDate>30-Jan-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Travel</genre>
+<genre>Travel</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>HD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>HD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/TharLart.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BounThatLouang.jpg"
+ hdImg="https://i.malimarcdn.com/BounThatLouangHD.jpg">
+<id>oml_boun_that_louang_20169683</id>
+<title>OML BOUN THAT LOUANG 2016</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3077</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Jan-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Travel</genre>
+<genre>Travel</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>HD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>HD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/BounThatLouang.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BarnNaxay.jpg"
+ hdImg="https://i.malimarcdn.com/BarnNaxayHD.jpg">
+<id>oml_ban_naxay2622</id>
+<title>OML BAN NAXAY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/BarnNaxay.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ohmunglao07.jpg"
+ hdImg="https://i.malimarcdn.com/ohmunglao07HD.jpg">
+<id>oml_ban_phak_khang_village1883</id>
+<title>OML BAN PHAK KHANG VILLAGE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Ohmuanglao/Ohmuanglao07.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OMLBeungKan.jpg"
+ hdImg="https://i.malimarcdn.com/OMLBeungKanHD.jpg">
+<id>oml_beung_khan_thailand6564</id>
+<title>OML BEUNG KHAN THAILAND</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/OMLBeungKan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ohmunglao06.jpg"
+ hdImg="https://i.malimarcdn.com/ohmunglao06HD.jpg">
+<id>oml_history_of_lao_women1882</id>
+<title>OML HISTORY OF LAO WOMEN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Ohmuanglao/Ohmuanglao06.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OhMungLaoHmong.jpg"
+ hdImg="https://i.malimarcdn.com/OhMungLaoHmongHD.jpg">
+<id>oml_hmong6481</id>
+<title>OML HMONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Ohmuanglao/OhMuangLaoHmong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ohmunglao01.jpg"
+ hdImg="https://i.malimarcdn.com/ohmunglao01HD.jpg">
+<id>oml_jao_anouvong1854</id>
+<title>OML JAO ANOUVONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>866</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Ohmuanglao/Ohmuanglao01.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Km52.jpg"
+ hdImg="https://i.malimarcdn.com/Km52HD.jpg">
+<id>oml_km_52_lao2620</id>
+<title>OML KM 52 LAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/Km52.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NongKhai.jpg"
+ hdImg="https://i.malimarcdn.com/NongKhaiHD.jpg">
+<id>oml_nong_khai_new_year_20143230</id>
+<title>OML NONG KHAI NEW YEAR 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5229</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/NongKhai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OMLPakson.jpg"
+ hdImg="https://i.malimarcdn.com/OMLPaksonHD.jpg">
+<id>oml_pakson6592</id>
+<title>OML PAKSON</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/OMLPakson.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ohmunglao02.jpg"
+ hdImg="https://i.malimarcdn.com/ohmunglao02HD.jpg">
+<id>oml_patuxai1870</id>
+<title>OML PATUXAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>866</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Ohmuanglao/Ohmuanglao02.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OMLSoap.jpg"
+ hdImg="https://i.malimarcdn.com/OMLSoapHD.jpg">
+<id>oml_soap_making6565</id>
+<title>OML SOAP MAKING</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/OhMuangLao/OMLSoap.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ohmunglao08.jpg"
+ hdImg="https://i.malimarcdn.com/ohmunglao08HD.jpg">
+<id>oml_that_luang1884</id>
+<title>OML THAT LUANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Ohmuanglao/Ohmuanglao08.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ohmunglao03.jpg"
+ hdImg="https://i.malimarcdn.com/ohmunglao03HD.jpg">
+<id>oml_wat_si_muang1871</id>
+<title>OML WAT SI MUANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>866</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Ohmuanglao/Ohmuanglao03.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ohmunglao04.jpg"
+ hdImg="https://i.malimarcdn.com/ohmunglao04HD.jpg">
+<id>oml_wat_sisaket_and_hor_pa_keo1872</id>
+<title>OML WAT SISAKET AND HOR PA KEO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>866</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Ohmuanglao/Ohmuanglao04.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

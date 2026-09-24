@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>60</itemCount>
+<totalCount>60</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2026/AhNaKot26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/AhNaKot26HD.jpg">
+<title>AH NA KOT</title>
+<titlel>អនាគត</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 18  Episode(s) PLAY:  THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AhNaKot26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ChomnesdengTmeyThmey26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ChomnesdengTmeyThmey26HD.jpg">
+<title>CHOMNESDENG TMEY THMEY</title>
+<titlel>កម្មវិធី ចំណេះដឹងថ្មីៗ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 76  Episode(s) PLAY:  THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChomnesdengTmeyThmey26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/HighSkillHighIncome26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/HighSkillHighIncome26HD.jpg">
+<title>HIGH SKILL HIGH INCOME</title>
+<titlel>ជំនាញខ្ពស់ចំណូលខ្ពស់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 19  Episode(s) PLAY:  THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HighSkillHighIncome26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/HoarasasBrochamThngai26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/HoarasasBrochamThngai26HD.jpg">
+<title>HOARASAS BROCHAM THNGAI</title>
+<titlel>អប្សរា ហោរាសាស្រ្តប្រចាំថ្ងៃ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HoarasasBrochamThngai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/YoldengSakol26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/YoldengSakol26HD.jpg">
+<title>YOLDENG SAKOL</title>
+<titlel>កម្មវិធី យល់ដឹងសាកល</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 38  Episode(s) PLAY:  THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YoldengSakol26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ApsaraInFocus26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ApsaraInFocus26HD.jpg">
+<title>APSARA IN FOCUS</title>
+<titlel>អប្សរាផ្តោតសំខាន់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Sep-2026 with 19  Episode(s) PLAY:  WED, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ApsaraInFocus26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/DoctorCorner26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/DoctorCorner26HD.jpg">
+<title>DOCTOR CORNER</title>
+<titlel>ជ្រុងមួយវេជ្ជបណ្ឌិត</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Sep-2026 with 9  Episode(s) PLAY: MON  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DoctorCorner26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PiChaRaNa26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PiChaRaNa26HD.jpg">
+<title>PI CHA RA NA</title>
+<titlel>ពិចារណា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Sep-2026 with 23  Episode(s) PLAY: MON, WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PiChaRaNa26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/VitheyHeranhVuthTho26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/VitheyHeranhVuthTho26HD.jpg">
+<title>VITHEY HERANH VUTH THO</title>
+<titlel>កម្មវិធីវិថីហិញ្ញវត្ថុ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Sep-2026 with 21  Episode(s) PLAY: MON, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VitheyHeranhVuthTho26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/D4All26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/D4All26HD.jpg">
+<title>D 4 ALL</title>
+<titlel>ឌីជីថលសម្រាប់ទាំងអស់គ្នា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 16  Episode(s) PLAY:  FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/D4All26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/DJNanaTips26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/DJNanaTips26HD.jpg">
+<title>DJ NANA TIPS</title>
+<titlel>ឌីជេណាណាគន្លឺះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Aug-2026 with 22  Episode(s) PLAY: MON, WED, THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DJNanaTips26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/VabthorDomBon26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/VabthorDomBon26HD.jpg">
+<title>VABTHOR DOM BON</title>
+<titlel>កម្មវិធី វប្បធម៌តំបន់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Jul-2026 with 8  Episode(s) PLAY:  FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VabthorDomBon26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ViTheyYukVakVey26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ViTheyYukVakVey26HD.jpg">
+<title>VI THEY YUK VAK VEY</title>
+<titlel>កម្មវិធី យុវវ័យ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-May-2026 with 30  Episode(s) PLAY: MON, TUE  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ViTheyYukVakVey26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/FengShuiShow26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/FengShuiShow26HD.jpg">
+<title>FENG SHUI SHOW</title>
+<titlel>នាទី ហុងស៊ុយ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Apr-2026 with 17  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FengShuiShow26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PlekPlekPipiphublork26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PlekPlekPipiphublork26HD.jpg">
+<title>PLEK PLEK PIPIPHUBLORK</title>
+<titlel>កម្មវិធី ប្លែកៗពីពិភពលោក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Jan-2026 with 5  Episode(s) PLAY:  FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PlekPlekPipiphublork26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/HealthFirst26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/HealthFirst26HD.jpg">
+<title>HEALTH FIRST</title>
+<titlel>កម្មវិធី សុខភាពជាចម្បង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Jan-2026 with 5  Episode(s) PLAY:  THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HealthFirst26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/AKkhraDigital26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/AKkhraDigital26HD.jpg">
+<title>A KKHRA DIGITAL</title>
+<titlel>អក្ខរកម្មឌីជីថល</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Jan-2026 with 1  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AKkhraDigital26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/AThakBroYorchNak26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/AThakBroYorchNak26HD.jpg">
+<title>A THAK BRO YORCH NAK</title>
+<titlel>អត្ថប្រយោជន៌អ្នក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Jan-2026 with 1  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AThakBroYorchNak26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KamPuCheaBaiTorng26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KamPuCheaBaiTorng26HD.jpg">
+<title>KAM PU CHEA BAI TORNG</title>
+<titlel>កម្ពុជាបែតង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Jan-2026 with 1  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KamPuCheaBaiTorng26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PunLorkBaiTorng26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PunLorkBaiTorng26HD.jpg">
+<title>PUN LORK BAI TORNG</title>
+<titlel>ពន្លកបៃតង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Jan-2026 with 1  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PunLorkBaiTorng26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/Agriculture25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/Agriculture25HD.jpg">
+<title>AGRICULTURE</title>
+<titlel>កម្មវិធី កសិកម្ម</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Nov-2025 with 24  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Agriculture25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/IdeaCorner25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/IdeaCorner25HD.jpg">
+<title>IDEA CORNER</title>
+<titlel>គំនិតច្នៃបង្កើត</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Nov-2025 with 19  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/IdeaCorner25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/MorodokChaPeyDongVeng25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/MorodokChaPeyDongVeng25HD.jpg">
+<title>MORODOK CHA PEY DONG VENG</title>
+<titlel>កម្មវិធី មរតកចាបីដងវៃង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Aug-2025 with 15  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MorodokChaPeyDongVeng25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/MoHaoSropChaPeyDongVeng25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/MoHaoSropChaPeyDongVeng25HD.jpg">
+<title>MO HAO SROP CHA PEY DONG VENG</title>
+<titlel>មហោស្របចាបីដងវែង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Jun-2025 with 3  Episode(s) PLAY:  THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MoHaoSropChaPeyDongVeng25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/OrmNachChbab25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/OrmNachChbab25HD.jpg">
+<title>ORM NACH CHBAB</title>
+<titlel>កម្មវិធី អំណាច្បាប់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Jun-2025 with 6  Episode(s) PLAY:  FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OrmNachChbab25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/SongKomPachChoBon25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/SongKomPachChoBon25HD.jpg">
+<title>SONG KOM PACH CHO BON</title>
+<titlel>កម្មវិធី សង្គមបច្ចុប្បន្ន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Jun-2025 with 5  Episode(s) PLAY:  WED, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SongKomPachChoBon25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/SpecialTalk25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/SpecialTalk25HD.jpg">
+<title>SPECIAL TALK</title>
+<titlel>កម្មវិធី កិច្ចពិភាក្សាពិសេស</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Apr-2025 with 10  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SpecialTalk25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/SvengYolPiKhmer25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/SvengYolPiKhmer25HD.jpg">
+<title>SVENG YOL PI KHMER</title>
+<titlel>កម្មវិធី ស្វៃងយល់ពីខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Apr-2025 with 9  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SvengYolPiKhmer25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/ChoCheakPiChbab25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/ChoCheakPiChbab25HD.jpg">
+<title>CHO CHEAK PI CHBAB</title>
+<titlel>កម្មវិធី ជជែកពីច្បាប់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Apr-2025 with 10  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoCheakPiChbab25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/KarPit25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/KarPit25HD.jpg">
+<title>KAR PIT</title>
+<titlel>កម្មវិធី ការពិត</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Apr-2025 with 10  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KarPit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/TursnaAsai25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/TursnaAsai25HD.jpg">
+<title>TURSNA ASAI</title>
+<titlel>កម្មវិធី ទស្សនាអាស៊ី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Apr-2025 with 10  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TursnaAsai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/YukVakChunThngaiNis25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/YukVakChunThngaiNis25HD.jpg">
+<title>YUK VAK CHUN THNGAI NIS</title>
+<titlel>កម្មវិធី យុវជនថ្ងៃនេះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Apr-2025 with 10  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YukVakChunThngaiNis25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/PrideOfCambodia24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/PrideOfCambodia24HD.jpg">
+<title>PRIDE OF CAMBODIA</title>
+<titlel>កម្មវិធី មោទនភាពនៃប្រទេសកម្ពុជា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2024 with 47  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrideOfCambodia24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/BracheachonNingChbab23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/BracheachonNingChbab23HD.jpg">
+<title>BRACHEACHON NING CHBAB 2023</title>
+<titlel>កម្មវិធី ប្រជាជននិងច្បាប់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2023 with 38  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BracheachonNingChbab23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/SokhomapheapBracheachon23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/SokhomapheapBracheachon23HD.jpg">
+<title>SOKHOMAPHEAP BRACHEACHON 2023</title>
+<titlel>កម្មវិធី សុខមាសភាពប្រជាជន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2023 with 45  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SokhomapheapBracheachon23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/HealthFirst23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/HealthFirst23HD.jpg">
+<title>HEALTH FIRST 2023</title>
+<titlel>កម្មវិធី សុខភាពជាចម្បង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Dec-2023 with 48  Episode(s) PLAY:  THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HealthFirst23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/AchipNoamSopheakMongkolS2.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/AchipNoamSopheakMongkolS2HD.jpg">
+<title>ACHIP NOAM SOPHEAK MONGKOL S 2</title>
+<titlel>កម្មវិធី ដំណើរកំសាន្តក្នុងក្តីស្រមៃ វគ្គ២</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Dec-2023 with 50  Episode(s) PLAY:  WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AchipNoamSopheakMongkolS2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/AhreytusIndai23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/AhreytusIndai23HD.jpg">
+<title>AHREYTUS INDAI 2023</title>
+<titlel>កម្មវិធី អរិយទស្សទ៏</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Dec-2023 with 43  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AhreytusIndai23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/VetikaOrbRom23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/VetikaOrbRom23HD.jpg">
+<title>VETIKA ORB ROM 2023</title>
+<titlel>កម្មវិធី វេទិកាអប់រំ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Jul-2023 with 22  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VetikaOrbRom23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/ReanOrbaKorKhloy23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/ReanOrbaKorKhloy23HD.jpg">
+<title>REAN ORBA KOR KHLOY</title>
+<titlel>កម្មវិធី រៀន ឧបករណ៌ខ្លុយ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Jun-2023 with 24  Episode(s) PLAY: MON, TUE, WED, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReanOrbaKorKhloy23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/ReanOrbaKorTro23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/ReanOrbaKorTro23HD.jpg">
+<title>REAN ORBA KOR TRO</title>
+<titlel>កម្មវិធី រៀនឩបករណ៌ទ្រ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Mar-2023 with 20  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReanOrbaKorTro23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/ReanPhlengOrbaKorRoNeat23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/ReanPhlengOrbaKorRoNeat23HD.jpg">
+<title>REAN PHLENG ORBA KOR RO NEAT</title>
+<titlel>រៀនភ្លេងឧបករណ៏រនាត</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Mar-2023 with 22  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReanPhlengOrbaKorRoNeat23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/ScholarshipForum23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/ScholarshipForum23HD.jpg">
+<title>SCHOLARSHIP FORUM</title>
+<titlel>កម្មវិធី វេទិកាអាហារូបករណ៌</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Feb-2023 with 1  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ScholarshipForum23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/SeeAndShare22.jpg"
+ hdImg="https://i.malimarcdn.com/kh/SeeAndShare22HD.jpg">
+<title>SEE AND SHARE 2022</title>
+<titlel>កម្មវិធី ចែកគ្នាមើល</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Mar-2022 with 13  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SeeAndShare22.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/YourTurn21.jpg"
+ hdImg="https://i.malimarcdn.com/kh/YourTurn21HD.jpg">
+<title>YOUR TURN 2021</title>
+<titlel>វេនអ្នក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-Jul-2021 with 26  Episode(s) PLAY:  FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YourTurn21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/MyTVSekSa21.jpg"
+ hdImg="https://i.malimarcdn.com/kh/MyTVSekSa21HD.jpg">
+<title>MY TV SEK SA</title>
+<titlel>ម៉ាយធីវីសិក្សា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Feb-2021 with 8  Episode(s) PLAY:  WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MyTVSekSa21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/MukRoborSrokYeng20.jpg"
+ hdImg="https://i.malimarcdn.com/kh/MukRoborSrokYeng20HD.jpg">
+<title>MUK ROBOR SROK YENG</title>
+<titlel>មុខរបរស្រុកយើង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Nov-2020 with 9  Episode(s) PLAY: MON, WED, THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MukRoborSrokYeng20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/ChokChey20.jpg"
+ hdImg="https://i.malimarcdn.com/kh/ChokChey20HD.jpg">
+<title>CHOK CHEY</title>
+<titlel>កម្មវិធីជោគជ័យ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-Nov-2020 with 45  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChokChey20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/EnglishWithManiAndMori20.jpg"
+ hdImg="https://i.malimarcdn.com/kh/EnglishWithManiAndMori20HD.jpg">
+<title>ENGLISH WITH MANI AND MORI</title>
+<titlel>រឿងភាសារ អង់គ្លេសជាមួយម៉ានីនិងម៉រី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Mar-2020 with 10  Episode(s) PLAY: MON, TUE, WED, THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishWithManiAndMori20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/GoldenChair.jpg"
+ hdImg="https://i.malimarcdn.com/kh/GoldenChairHD.jpg">
+<title>GOLDEN CHAIR PROGRAMS</title>
+<titlel>កៅអីមាស</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-Dec-2019 with 40  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GoldenChair.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/AchipNoamSopheakmongkol19.jpg"
+ hdImg="https://i.malimarcdn.com/kh/AchipNoamSopheakmongkol19HD.jpg">
+<title>ACHIP NOAM SOPHEAKMONGKOL KHMER</title>
+<titlel>កម្មវិធី អាជីពនាំសុភមង្គល</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Dec-2019 with 71  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AchipNoamSopheakmongkol19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/ReanPheasaChinese19.jpg"
+ hdImg="https://i.malimarcdn.com/kh/ReanPheasaChinese19HD.jpg">
+<title>REAN PHEASA CHINESE</title>
+<titlel>រៀនភាសាចិន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-Nov-2019 with 46  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReanPheasaChinese19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/KomneaPeakKhmer19.jpg"
+ hdImg="https://i.malimarcdn.com/kh/KomneaPeakKhmer19HD.jpg">
+<title>KOMNEA PEAK KHMER</title>
+<titlel>កម្មវិធី កំណែពាក្យខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Oct-2019 with 25  Episode(s) PLAY: MON, TUE, THU, FRI, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KomneaPeakKhmer19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/ReanPheasaEnglish19.jpg"
+ hdImg="https://i.malimarcdn.com/kh/ReanPheasaEnglish19HD.jpg">
+<title>REAN PHEASA ENGLISH</title>
+<titlel>រៀនភាសាអង់គ្លេស</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2019 with 200  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReanPheasaEnglish19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/ReanPheasaKorea19.jpg"
+ hdImg="https://i.malimarcdn.com/kh/ReanPheasaKorea19HD.jpg">
+<title>REAN PHEASA KOREA</title>
+<titlel>រៀនភាសាកូរ៉េ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Sep-2019 with 541  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReanPheasaKorea19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/NetiBrowatSasKhmer19.jpg"
+ hdImg="https://i.malimarcdn.com/kh/NetiBrowatSasKhmer19HD.jpg">
+<title>NETI BROWAT SAS KHMER</title>
+<titlel>នាទីប្រវត្តិសាស្រ្តខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Jan-2019 with 54  Episode(s) PLAY: MON, TUE, WED, THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NetiBrowatSasKhmer19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/OaklandKHNY18.jpg"
+ hdImg="https://i.malimarcdn.com/kh/OaklandKHNY18HD.jpg">
+<title>OAKLAND KHMER NEW YEAR 2018</title>
+<titlel>អបអរសាទពិធីចូលឆ្នាំខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Apr-2018 with 7  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OaklandKHNY18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/WaterFestival17.jpg"
+ hdImg="https://i.malimarcdn.com/kh/WaterFestival17HD.jpg">
+<title>KHMER WATER FESTIVAL 2017</title>
+<titlel>ពិធីបុណ្យអ៊ុំទូក ២០១៧</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Nov-2017 with 16  Episode(s) PLAY:  THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WaterFestival17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/ELearningCharacter1.jpg"
+ hdImg="https://i.malimarcdn.com/kh/ELearningCharacter1HD.jpg">
+<title>E LEARNING CHARACTER KHMER</title>
+<titlel>កម្មវិធីរៀនអក្សរខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Aug-2017 with 40  Episode(s) PLAY:  WED, THU, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ELearningCharacter1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/ELearningMath1.jpg"
+ hdImg="https://i.malimarcdn.com/kh/ELearningMath1HD.jpg">
+<title>E LEARNING MATH 1</title>
+<titlel>កម្មវិធីរៀនលេខខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Jul-2017 with 10  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ELearningMath1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

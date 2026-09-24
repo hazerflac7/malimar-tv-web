@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>13</itemCount>
+<totalCount>13</totalCount>
+<item sdImg="https://i.malimarcdn.com/Variety25/Variety25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/Variety25HD.jpg">
+<title>VARIETY 2025</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Variety25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety2024.jpg"
+ hdImg="https://i.malimarcdn.com/variety2024HD.jpg">
+<title>VARIETY 2024</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety2024.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety23/variety23.jpg"
+ hdImg="https://i.malimarcdn.com/Variety23/variety23HD.jpg">
+<title>VARIETY 2023</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety22.jpg"
+ hdImg="https://i.malimarcdn.com/variety22HD.jpg">
+<title>VARIETY 2022</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety22.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety21.jpg"
+ hdImg="https://i.malimarcdn.com/variety21HD.jpg">
+<title>VARIETY 2021</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety20.jpg"
+ hdImg="https://i.malimarcdn.com/variety20HD.jpg">
+<title>VARIETY 2020</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety19.jpg"
+ hdImg="https://i.malimarcdn.com/variety19HD.jpg">
+<title>VARIETY 2019</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety18.jpg"
+ hdImg="https://i.malimarcdn.com/variety18HD.jpg">
+<title>VARIETY 2018</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety17.jpg"
+ hdImg="https://i.malimarcdn.com/variety17HD.jpg">
+<title>VARIETY 2017</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety16.jpg"
+ hdImg="https://i.malimarcdn.com/variety16HD.jpg">
+<title>VARIETY 2016</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety16.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety15.jpg"
+ hdImg="https://i.malimarcdn.com/variety15HD.jpg">
+<title>VARIETY 2015</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety15.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety14.jpg"
+ hdImg="https://i.malimarcdn.com/variety14HD.jpg">
+<title>VARIETY 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety14.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/variety13.jpg"
+ hdImg="https://i.malimarcdn.com/variety13HD.jpg">
+<title>VARIETY 2013</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/variety13.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

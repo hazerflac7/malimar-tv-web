@@ -1,0 +1,1132 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>70</itemCount>
+<totalCount>70</totalCount>
+<item sdImg="https://i.malimarcdn.com/AjahnAnan.jpg"
+ hdImg="https://i.malimarcdn.com/AjahnAnanHD.jpg">
+<title>AJAHN ANAN</title>
+<titlel>อาจารย์อนันต์ธรรมะ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Nov-2023 with 170  Episode(s) PLAY: Everyday  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AjahnAnan.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuTamNamChewit21.jpg"
+ hdImg="https://i.malimarcdn.com/RuTamNamChewit21HD.jpg">
+<title>RU TAM NAM CHEWIT 2021</title>
+<titlel>รู้ธรรมนำชีวิต</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2021 with 93  Episode(s) PLAY:  TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuTamNamChewit21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YooYenPenSuk21.jpg"
+ hdImg="https://i.malimarcdn.com/YooYenPenSuk21HD.jpg">
+<title>YOO YEN PEN SUK 2021</title>
+<titlel>อยู่เย็นเป็นสุข</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2021 with 41  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YooYenPenSuk21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CheeVitMaiSinWang21.jpg"
+ hdImg="https://i.malimarcdn.com/CheeVitMaiSinWang21HD.jpg">
+<title>CHEE VIT MAI SIN WANG 2021</title>
+<titlel>ชีวิตไม่สิ้นหวัง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2021 with 100  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CheeVitMaiSinWang21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaBeangBun21.jpg"
+ hdImg="https://i.malimarcdn.com/LaBeangBun21HD.jpg">
+<title>LA BEANG BUN 2021</title>
+<titlel>ระเบียงบุญ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2021 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaBeangBun21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Thamma21.jpg"
+ hdImg="https://i.malimarcdn.com/Thamma21HD.jpg">
+<title>THAMMA 2021</title>
+<titlel>ธรรมะ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2021 with 52  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Thamma21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/toommanaijai21.jpg"
+ hdImg="https://i.malimarcdn.com/toommanaijai21HD.jpg">
+<title>TOOMMA NAI JAI 2021</title>
+<titlel>ธรรมในใจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Dec-2021 with 50  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/toommanaijai21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DooDeMeTam21.jpg"
+ hdImg="https://i.malimarcdn.com/DooDeMeTam21HD.jpg">
+<title>DOO DE ME TAM</title>
+<titlel>ดูดีมีธรรม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Jan-2021 with 2  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DooDeMeTam21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuTamNamChewit20.jpg"
+ hdImg="https://i.malimarcdn.com/RuTamNamChewit20HD.jpg">
+<title>RU TAM NAM CHEWIT 2020</title>
+<titlel>รู้ธรรมนำชีวิต</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2020 with 85  Episode(s) PLAY:  TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuTamNamChewit20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YooYenPenSuk20.jpg"
+ hdImg="https://i.malimarcdn.com/YooYenPenSuk20HD.jpg">
+<title>YOO YEN PEN SUK 2020</title>
+<titlel>อยู่เย็นเป็นสุข</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2020 with 42  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YooYenPenSuk20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CheeVitMaiSinWang20.jpg"
+ hdImg="https://i.malimarcdn.com/CheeVitMaiSinWang20HD.jpg">
+<title>CHEEVIT MAI SIN WANG 2020</title>
+<titlel>ชีวิตไม่สิ้นหวัง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2020 with 102  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CheeVitMaiSinWang20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaBeangBun20.jpg"
+ hdImg="https://i.malimarcdn.com/LaBeangBun20HD.jpg">
+<title>LA BEANG BUN 2020</title>
+<titlel>ระเบียงบุญ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2020 with 52  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaBeangBun20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Thamma20.jpg"
+ hdImg="https://i.malimarcdn.com/Thamma20HD.jpg">
+<title>THAMMA 2020</title>
+<titlel>ธรรมะ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2020 with 52  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Thamma20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/toommanaijai20.jpg"
+ hdImg="https://i.malimarcdn.com/toommanaijai20HD.jpg">
+<title>TOOMMA NAI JAI 2020</title>
+<titlel>ธรรมในใจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2020 with 52  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/toommanaijai20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DooDeMeTam20.jpg"
+ hdImg="https://i.malimarcdn.com/DooDeMeTam20HD.jpg">
+<title>DOO DE ME TAM 2020</title>
+<titlel>ดูดีมีธรรม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Dec-2020 with 31  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DooDeMeTam20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhopPhraPhopTham19.jpg"
+ hdImg="https://i.malimarcdn.com/PhopPhraPhopTham19HD.jpg">
+<title>PHOP PHRA PHOP THAM 2019</title>
+<titlel>พบพระพบธรรม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jan-2020 with 331  Episode(s) PLAY: Everyday  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhopPhraPhopTham19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuTamNamChewit19.jpg"
+ hdImg="https://i.malimarcdn.com/RuTamNamChewit19HD.jpg">
+<title>RU TAM NAM CHEWIT 2019</title>
+<titlel>รู้ธรรมนำชีวิต</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Jan-2020 with 101  Episode(s) PLAY:  TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuTamNamChewit19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CheeVitMaiSinWang19.jpg"
+ hdImg="https://i.malimarcdn.com/CheeVitMaiSinWang19HD.jpg">
+<title>CHEEVIT MAI SIN WANG 2019</title>
+<titlel>ชีวิตไม่สิ้นหวัง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 104  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CheeVitMaiSinWang19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DooDeMeTam19.jpg"
+ hdImg="https://i.malimarcdn.com/DooDeMeTam19HD.jpg">
+<title>DOO DE ME TAM 2019</title>
+<titlel>ดูดีมีธรรม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 49  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DooDeMeTam19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaBeangBun19.jpg"
+ hdImg="https://i.malimarcdn.com/LaBeangBun19HD.jpg">
+<title>LA BEANG BUN 2019</title>
+<titlel>ระเบียงบุญ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 52  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaBeangBun19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PanDinTam19.jpg"
+ hdImg="https://i.malimarcdn.com/PanDinTam19HD.jpg">
+<title>PAN DIN TAM 2019</title>
+<titlel>แผ่นดินธรรม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 46  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PanDinTam19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Thamma19.jpg"
+ hdImg="https://i.malimarcdn.com/Thamma19HD.jpg">
+<title>THAMMA 2019</title>
+<titlel>ธรรมะ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Thamma19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/toommanaijai19.jpg"
+ hdImg="https://i.malimarcdn.com/toommanaijai19HD.jpg">
+<title>TOOMMA NAI JAI 2019</title>
+<titlel>ธรรมในใจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2019 with 52  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/toommanaijai19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CheeVitMaiSinWang18.jpg"
+ hdImg="https://i.malimarcdn.com/CheeVitMaiSinWang18HD.jpg">
+<title>CHEEVIT MAI SIN WANG 2018</title>
+<titlel>ชีวิตไม่สิ้นหวัง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2018 with 103  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CheeVitMaiSinWang18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/toommanaijai18.jpg"
+ hdImg="https://i.malimarcdn.com/toommanaijai18HD.jpg">
+<title>TOOMMA NAI JAI 2018</title>
+<titlel>ธรรมในใจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2018 with 51  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/toommanaijai18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuTamNamChewit18.jpg"
+ hdImg="https://i.malimarcdn.com/RuTamNamChewit18HD.jpg">
+<title>RU TAM NAM CHEWIT 2018</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2018 with 95  Episode(s) PLAY:  TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuTamNamChewit18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DooDeMeTam18.jpg"
+ hdImg="https://i.malimarcdn.com/DooDeMeTam18HD.jpg">
+<title>DOO DE ME TAM 2018</title>
+<titlel>ดูดีมีธรรม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Dec-2018 with 50  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DooDeMeTam18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaBeangBun18.jpg"
+ hdImg="https://i.malimarcdn.com/LaBeangBun18HD.jpg">
+<title>LA BEANG BUN 2018</title>
+<titlel>ระเบียงบุญ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Dec-2018 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaBeangBun18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PanDinTam18.jpg"
+ hdImg="https://i.malimarcdn.com/PanDinTam18HD.jpg">
+<title>PAN DIN TAM 2018</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Dec-2018 with 50  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PanDinTam18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TamNaoCeeWid18.jpg"
+ hdImg="https://i.malimarcdn.com/TamNaoCeeWid18HD.jpg">
+<title>TAM NAO CEE WID</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Jun-2018 with 75  Episode(s) PLAY:  WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TamNaoCeeWid18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CheeVitMaiSinWang17.jpg"
+ hdImg="https://i.malimarcdn.com/CheeVitMaiSinWang17HD.jpg">
+<title>CHEEVIT MAI SIN WANG 2017</title>
+<titlel>ชีวิตไม่สิ้นหวัง 2017</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2017 with 65  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CheeVitMaiSinWang17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaBeangBun17.jpg"
+ hdImg="https://i.malimarcdn.com/LaBeangBun17HD.jpg">
+<title>LA BEANG BUN 2017</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2017 with 52  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaBeangBun17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BanKhongRaoo17.jpg"
+ hdImg="https://i.malimarcdn.com/BanKhongRaoo17HD.jpg">
+<title>BAN KHONG RAOO 2017</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2017 with 46  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BanKhongRaoo17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TamNaoCeeWid17.jpg"
+ hdImg="https://i.malimarcdn.com/TamNaoCeeWid17HD.jpg">
+<title>TAM NAO CEE WID 2017</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2017 with 146  Episode(s) PLAY:  WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TamNaoCeeWid17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuTamNamChewit17.jpg"
+ hdImg="https://i.malimarcdn.com/RuTamNamChewit17HD.jpg">
+<title>RU TAM NAM CHEWIT 2017</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2017 with 99  Episode(s) PLAY:  TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuTamNamChewit17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YooYenPenSuk17.jpg"
+ hdImg="https://i.malimarcdn.com/YooYenPenSuk17HD.jpg">
+<title>YOO YEN PEN SUK 2018</title>
+<titlel>อยู่เย็นเป็นสุข</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Jan-2017 with 1  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YooYenPenSuk17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuTamNamChewit16.jpg"
+ hdImg="https://i.malimarcdn.com/RuTamNamChewit16HD.jpg">
+<title>RU TAM NAM CHEWIT 2016</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2016 with 78  Episode(s) PLAY:  TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuTamNamChewit16.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Labeangbun15.jpg"
+ hdImg="https://i.malimarcdn.com/Labeangbun15HD.jpg">
+<title>LA BEANG BUN 2015</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Jan-2016 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Labeangbun15.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuTamNamChewit15.jpg"
+ hdImg="https://i.malimarcdn.com/RuTamNamChewit15HD.jpg">
+<title>RU TAM NAM CHEWIT 2015</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2015 with 102  Episode(s) PLAY: MON, TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuTamNamChewit15.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Tammanaoceewid15.jpg"
+ hdImg="https://i.malimarcdn.com/Tammanaoceewid15HD.jpg">
+<title>TAMMANAOCEEWID 2015</title>
+<titlel>ละครธรรมนําชีวิต 2015</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2015 with 147  Episode(s) PLAY:  WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Tammanaoceewid15.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DooDeMeTam15.jpg"
+ hdImg="https://i.malimarcdn.com/DooDeMeTam15HD.jpg">
+<title>DOO DE ME TAM 2015</title>
+<titlel>ดูดีมีธรรม 2015</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2015 with 51  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DooDeMeTam15.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/cheevitmaisinwang15.jpg"
+ hdImg="https://i.malimarcdn.com/cheevitmaisinwang15HD.jpg">
+<title>CHEEVIT MAI SIN WANG 2015</title>
+<titlel>ชีวิตไม่สิ้นหวัง 2015</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2015 with 100  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/cheevitmaisinwang15.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/toommanaijai15.jpg"
+ hdImg="https://i.malimarcdn.com/toommanaijai15HD.jpg">
+<title>TOOMMANAIJAI 2015</title>
+<titlel>ธรรมในใจ 2015</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2015 with 52  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/toommanaijai15.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JudFaiNaiJaiKun.jpg"
+ hdImg="https://i.malimarcdn.com/JudFaiNaiJaiKunHD.jpg">
+<title>JUD FAI NAI JAI KUN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Sep-2015 with 39  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/JudFaiNaiJaiKun.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChewitTam.jpg"
+ hdImg="https://i.malimarcdn.com/ChewitTamHD.jpg">
+<title>CHEWIT TAM 2015</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2015 with 39  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChewitTam.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuTamNamChewit14.jpg"
+ hdImg="https://i.malimarcdn.com/RuTamNamChewit14HD.jpg">
+<title>RU TAM NAM CHEWIT 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2014 with 89  Episode(s) PLAY: MON, TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuTamNamChewit14.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DooDeMeTam14.jpg"
+ hdImg="https://i.malimarcdn.com/DooDeMeTam14HD.jpg">
+<title>DOO DE ME TAM 2014</title>
+<titlel>ดูดีมีธรรม 2014</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2014 with 39  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DooDeMeTam14.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/cheevitmaisinwang14.jpg"
+ hdImg="https://i.malimarcdn.com/cheevitmaisinwang14HD.jpg">
+<title>CHEEVIT MAI SIN WANG 2014</title>
+<titlel>ชีวิตไม่สิ้นหวัง 2014</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2014 with 80  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/cheevitmaisinwang14.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JudFaiNaiJaiKun14.jpg"
+ hdImg="https://i.malimarcdn.com/JudFaiNaiJaiKun14HD.jpg">
+<title>JUD FAI NAI JAI KUN 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2014 with 35  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/JudFaiNaiJaiKun14.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Labeangbun14.jpg"
+ hdImg="https://i.malimarcdn.com/Labeangbun14HD.jpg">
+<title>LA BEANG BUN 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2014 with 40  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Labeangbun14.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/toommanaijai14.jpg"
+ hdImg="https://i.malimarcdn.com/toommanaijai14HD.jpg">
+<title>TOOMMANAIJAI 2014</title>
+<titlel>ธรรมในใจ 2014</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2014 with 41  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/toommanaijai14.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NimongimOnsadtayt.jpg"
+ hdImg="https://i.malimarcdn.com/NimongimOnsadtaytHD.jpg">
+<title>NIMONYIM ONSADTAYT</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-Jun-2014 with 2  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NimongimOnsadtayt.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/96thLuangPorPanYa.jpg"
+ hdImg="https://i.malimarcdn.com/96thLuangPorPanYaHD.jpg">
+<id>96th_luang_porpanya3308</id>
+<title>96TH LUANG PORPANYA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/LuangPorPanYa/LuangPorPanYa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BuddhaPaNiTanChaLard.jpg"
+ hdImg="https://i.malimarcdn.com/BuddhaPaNiTanChaLardHD.jpg">
+<id>buddha_pa_ni_tan_cha_lard3309</id>
+<title>BUDDHA PA NI TAN CHA LARD</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/BuddhaPaNiTanChaLard/BuddhaPaNiTanChaLard.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChinnaBanChorn9.jpg"
+ hdImg="https://i.malimarcdn.com/ChinnaBanChorn9HD.jpg">
+<id>chinna_ban_chorn_93310</id>
+<title>CHINNA BAN CHORN 9</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/ChinnaBanChorn9/ChinnaBanChorn9.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Dhamma.jpg"
+ hdImg="https://i.malimarcdn.com/DhammaHD.jpg">
+<id>dhamma3312</id>
+<title>DHAMMA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/Dhamma/Dhamma.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DhammaLuangPooSuang.jpg"
+ hdImg="https://i.malimarcdn.com/DhammaLuangPooSuangHD.jpg">
+<id>dhamma_luang_poo_suang3311</id>
+<title>DHAMMA LUANG POO SUANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/DhammaLuangPooSuang/DhammaLuangPooSuang.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/IttaritLuangPuSuk.jpg"
+ hdImg="https://i.malimarcdn.com/IttaritLuangPuSukHD.jpg">
+<id>ittarit_luang_pu_suk3313</id>
+<title>ITTARIT LUANG PU SUK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/IttaritLuangPuSuk/IttaritLuangPuSuk.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Jittapavana.jpg"
+ hdImg="https://i.malimarcdn.com/JittapavanaHD.jpg">
+<id>jittapavana3320</id>
+<title>JITTAPAVANA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/Jittapavana/Jittapavana.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KaiKwamLub.jpg"
+ hdImg="https://i.malimarcdn.com/KaiKwamLubHD.jpg">
+<id>kai_kwam_lub3314</id>
+<title>KAI KWAM LUB</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/KaiKwamLub/KaiKwamLub.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LuangPooMun.jpg"
+ hdImg="https://i.malimarcdn.com/LuangPooMunHD.jpg">
+<id>luang_poo_mun3315</id>
+<title>LUANG POO MUN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/LuangPooMun/LuangPooMun.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LuangPooSri.jpg"
+ hdImg="https://i.malimarcdn.com/LuangPooSriHD.jpg">
+<id>luang_poo_sri3316</id>
+<title>LUANG POO SRI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/LuangPooSri/LuangPooSri.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LuangPorChaRunMeditation.jpg"
+ hdImg="https://i.malimarcdn.com/LuangPorChaRunMeditationHD.jpg">
+<id>luang_por_cha_run_meditation3317</id>
+<title>LUANG POR CHA RUN MEDITATION</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/LuangPorChaRunMeditation/LuangPorChaRunMeditation.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LuangPorToPromRangSri.jpg"
+ hdImg="https://i.malimarcdn.com/LuangPorToPromRangSriHD.jpg">
+<id>luang_por_to_prom_rang_sri3318</id>
+<title>LUANG POR TO PROM RANG SRI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/LuangPorToPromRangSri/LuangPorToPromRangSri.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NippanRawangWan.jpg"
+ hdImg="https://i.malimarcdn.com/NippanRawangWanHD.jpg">
+<id>nippan_rawang_wan3321</id>
+<title>NIPPAN RAWANG WAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/NippanRawangWan/NippanRawangWan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SatiPatthathan.jpg"
+ hdImg="https://i.malimarcdn.com/SatiPatthathanHD.jpg">
+<id>sati_patthathan3322</id>
+<title>SATI PATTHATHAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/SatiPatthathan/SatiPatthathan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TammaLuangPooRien.jpg"
+ hdImg="https://i.malimarcdn.com/TammaLuangPooRienHD.jpg">
+<id>tamma_luang_poo_rien3323</id>
+<title>TAMMA LUANG POO RIEN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-May-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/TammaLuangPooRien/TammaLuangPooRien.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Vvajiramedhi.jpg"
+ hdImg="https://i.malimarcdn.com/VvajiramedhiHD.jpg">
+<title>V VAJIRAMEDHI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Mar-2014 with 10  Episode(s) PLAY:  THU, FRI, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Vvajiramedhi.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheLegendofBuddha.jpg"
+ hdImg="https://i.malimarcdn.com/TheLegendofBuddhaHD.jpg">
+<id>the_legend_of_buddha2057</id>
+<title>THE LEGEND OF BUDDHA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-Nov-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/LaoDhamma14/TheLegendofBuddha.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheLifeofBuddha.jpg"
+ hdImg="https://i.malimarcdn.com/TheLifeofBuddhaHD.jpg">
+<id>the_life_of_the_buddha2056</id>
+<title>THE LIFE OF THE BUDDHA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1466</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-Nov-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/LaoDhamma14/TheLifeofBuddha.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

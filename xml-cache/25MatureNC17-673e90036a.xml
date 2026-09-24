@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>9</itemCount>
+<totalCount>9</totalCount>
+<item>
+<title>MATURE RECENTLY ADDED</title>
+<titlel>ผู้ใหญ่ใหม่ขาเข้า</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_New_Arrivals_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MATURE MOVIES</title>
+<titlel>ผู้ใหญ่ภาพยนตร์</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MATURE KOREAN</title>
+<titlel>ผู้ใหญ่เกาหลี</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_Korean_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MATURE CHINESE</title>
+<titlel>ผู้ใหญ่จีน</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_Chinese_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MATURE THAI A</title>
+<titlel>ผู้ใหญ่ไทย</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_Thai_A_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MATURE THAI B</title>
+<titlel>ผู้ใหญ่ไทย</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_Thai_B_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MATURE THAI C</title>
+<titlel>ผู้ใหญ่ไทย</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_Thai_C_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MATURE THAI D</title>
+<titlel>ผู้ใหญ่ไทย</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_Thai_D_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MATURE JAPANESE</title>
+<titlel>ผู้ใหญ่ญี่ปุ่น</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_Japan_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+</feed>

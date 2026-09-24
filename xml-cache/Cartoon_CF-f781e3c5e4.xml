@@ -1,0 +1,6677 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>257</itemCount>
+<totalCount>257</totalCount>
+<item sdImg="https://i.malimarcdn.com/AppleSeed.jpg"
+ hdImg="https://i.malimarcdn.com/AppleSeedHD.jpg">
+<id>appleseed21298</id>
+<title>APPLESEED</title>
+<titlel>เมล็ดแอปเปิ้ล</titlel>
+<Mweb>N</Mweb>
+<length>6335</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/Appleseed.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/AppleSeedExMachina.jpg"
+ hdImg="https://i.malimarcdn.com/AppleSeedExMachinaHD.jpg">
+<id>appleseed_ex_machina21299</id>
+<title>APPLESEED EX MACHINA</title>
+<titlel>เมล็ดแอปเปิ้ล 2</titlel>
+<Mweb>N</Mweb>
+<length>6335</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/AppleseedExMachina.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JujutsuKaisen0.jpg"
+ hdImg="https://i.malimarcdn.com/JujutsuKaisen0HD.jpg">
+<id>jujutsu_kaisen_021210</id>
+<title>JUJUTSU KAISEN 0</title>
+<titlel>มหาเวทย์ผนึกมาร ซีโร่</titlel>
+<Mweb>N</Mweb>
+<length>6263</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/JujutsuKaisen0.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JoseeTheTigerAndTheFish.jpg"
+ hdImg="https://i.malimarcdn.com/JoseeTheTigerAndTheFishHD.jpg">
+<id>josee_the_tiger_and_the_fish21155</id>
+<title>JOSEE THE TIGER AND THE FISH</title>
+<titlel>โจเซ่ กับเสือและหมู่ปลา</titlel>
+<Mweb>N</Mweb>
+<length>5840</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-Sep-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/JoseeTheTigerAndTheFish.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SwordArtOnline1.jpg"
+ hdImg="https://i.malimarcdn.com/SwordArtOnline1HD.jpg">
+<id>sword_art_online_121057</id>
+<title>SWORD ART ONLINE 1</title>
+<titlel>ซอร์ต อาร์ต ออนไลน์ 1</titlel>
+<Mweb>N</Mweb>
+<length>7187</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Sep-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/SwordArtOnline1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SwordArtOnline.jpg"
+ hdImg="https://i.malimarcdn.com/SwordArtOnlineHD.jpg">
+<id>sword_art_online_221026</id>
+<title>SWORD ART ONLINE 2</title>
+<titlel>ซอร์ต อาร์ต ออนไลน์ 2</titlel>
+<Mweb>N</Mweb>
+<length>5815</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-Sep-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/SwordArtOnline.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HunterXHunter.jpg"
+ hdImg="https://i.malimarcdn.com/HunterXHunterHD.jpg">
+<id>hunter_x_hunter20958</id>
+<title>HUNTER X HUNTER</title>
+<titlel>ฮันเตอร์ X ฮันเตอร์</titlel>
+<Mweb>N</Mweb>
+<length>5787</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Aug-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/HunterXHunter.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Luck.jpg"
+ hdImg="https://i.malimarcdn.com/LuckHD.jpg">
+<id>luck20957</id>
+<title>LUCK</title>
+<titlel>โชค</titlel>
+<Mweb>N</Mweb>
+<length>6261</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Aug-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/Luck.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GhostInTheShell.jpg"
+ hdImg="https://i.malimarcdn.com/GhostInTheShellHD.jpg">
+<id>ghost_in_the_shell_sac_204520455</id>
+<title>GHOST IN THE SHELL SAC 2045</title>
+<titlel>โกสต์ อิน เดอะ เชลล์</titlel>
+<Mweb>N</Mweb>
+<length>7072</length>
+<PlayerBG></PlayerBG>
+<releaseDate>23-May-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/GhostInTheShellSAC2045.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Bubble.jpg"
+ hdImg="https://i.malimarcdn.com/BubbleHD.jpg">
+<id>bubble20354</id>
+<title>BUBBLE</title>
+<titlel>บับเบิ้ล</titlel>
+<Mweb>N</Mweb>
+<length>5935</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-May-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/Bubble.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GintamaTheVeryFinal.jpg"
+ hdImg="https://i.malimarcdn.com/GintamaTheVeryFinalHD.jpg">
+<id>gintama_the_very_final20211</id>
+<title>GINTAMA THE VERY FINAL</title>
+<titlel>กินทามะ เดอะมูฟวี่ ปิดฉากกินทามะ</titlel>
+<Mweb>N</Mweb>
+<length>6216</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-Apr-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/GintamaTheVeryFinal.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChildOfKamiariMonth.jpg"
+ hdImg="https://i.malimarcdn.com/ChildOfKamiariMonthHD.jpg">
+<id>child_of_kamiari_month20123</id>
+<title>CHILD OF KAMIARI MONTH</title>
+<titlel>เด็ก เดือน ตุลา</titlel>
+<Mweb>N</Mweb>
+<length>5939</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Mar-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/ChildOfKamiariMonth.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhunTongdaeng.jpg"
+ hdImg="https://i.malimarcdn.com/KhunTongdaengHD.jpg">
+<id>khun_tong_daeng20044</id>
+<title>KHUN TONG DAENG</title>
+<titlel>คุณทองแดง ดิ อินสไปเรชั่นส์</titlel>
+<Mweb>N</Mweb>
+<length>5744</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Mar-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/KhunTongdaeng.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MyHeroAcademiaWorldHeroesMission.jpg"
+ hdImg="https://i.malimarcdn.com/MyHeroAcademiaWorldHeroesMissionHD.jpg">
+<id>my_hero_academia_world_heroes_mission20013</id>
+<title>MY HERO ACADEMIA WORLD HEROES MISSION</title>
+<titlel>มาย ฮีโร่ อาคาเดเมีย</titlel>
+<Mweb>N</Mweb>
+<length>6252</length>
+<PlayerBG></PlayerBG>
+<releaseDate>28-Feb-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/MyHeroAcademiaWorldHeroesMission.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Degeneration.jpg"
+ hdImg="https://i.malimarcdn.com/DegenerationHD.jpg">
+<id>resident_evil_degeneration19755</id>
+<title>RESIDENT EVIL DEGENERATION</title>
+<titlel>ผีชีวะ สงครามปลุกพันธุ์ไวรัสมฤตยู</titlel>
+<Mweb>N</Mweb>
+<length>5761</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jan-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/ResidentEvilDegeneration.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YakTheGiantKing.jpg"
+ hdImg="https://i.malimarcdn.com/YakTheGiantKingHD.jpg">
+<id>yak_the_giant_king19756</id>
+<title>YAK THE GIANT KING</title>
+<titlel>ราชายักษ์</titlel>
+<Mweb>N</Mweb>
+<length>5975</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jan-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/YakTheGiantKing.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WordsBubbleUpLikeSodaPop.jpg"
+ hdImg="https://i.malimarcdn.com/WordsBubbleUpLikeSodaPopHD.jpg">
+<id>words_bubble_up_like_soda_pop19720</id>
+<title>WORDS BUBBLE UP LIKE SODA POP</title>
+<titlel>ถ้อยคำเอ่อล้นด้วยหัวใจรัก</titlel>
+<Mweb>N</Mweb>
+<length>5161</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Jan-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie22/WordsBubbleUpLikeSodaPop.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HauntedHouseTheSecretOfTheCave.jpg"
+ hdImg="https://i.malimarcdn.com/HauntedHouseTheSecretOfTheCaveHD.jpg">
+<id>haunted_house_the_secret_of_the_cave19172</id>
+<title>HAUNTED HOUSE THE SECRET OF THE CAVE</title>
+<titlel>ท็อกเกบิทองคำและถ้ำลับ</titlel>
+<Mweb>N</Mweb>
+<length>4056</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Dec-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/HauntedHouseTheSecretOfTheCave.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EarwigAndTheWitch.jpg"
+ hdImg="https://i.malimarcdn.com/EarwigAndTheWitchHD.jpg">
+<id>earwig_and_the_witch19097</id>
+<title>EARWIG AND THE WITCH</title>
+<titlel>วิกผมหูและแม่มด</titlel>
+<Mweb>N</Mweb>
+<length>4998</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-Dec-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/EarwigAndTheWitch.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WhiteSnake2.jpg"
+ hdImg="https://i.malimarcdn.com/WhiteSnake2HD.jpg">
+<id>white_snake_219098</id>
+<title>WHITE SNAKE 2</title>
+<titlel>ตำนาน นางพญางูขาว 2 นาคามรกต</titlel>
+<Mweb>N</Mweb>
+<length>7916</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-Dec-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/WhiteSnake2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MyHeroTwoHeroes.jpg"
+ hdImg="https://i.malimarcdn.com/MyHeroTwoHeroesHD.jpg">
+<id>my_hero_academia_two_heroes19073</id>
+<title>MY HERO ACADEMIA TWO HEROES</title>
+<titlel>สถาบันการศึกษาฮีโร่ของฉัน</titlel>
+<Mweb>N</Mweb>
+<length>5748</length>
+<PlayerBG></PlayerBG>
+<releaseDate>30-Nov-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/MyHeroAcademiaTwoHeroes.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SecretsOfTheJungle.jpg"
+ hdImg="https://i.malimarcdn.com/SecretsOfTheJungleHD.jpg">
+<id>pokemon_secrets_of_the_jungle18899</id>
+<title>POKEMON SECRETS OF THE JUNGLE</title>
+<titlel>โปเกมอน เดอะ มูฟวี่ ความลับของป่าลึก</titlel>
+<Mweb>N</Mweb>
+<length>5874</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Oct-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/PokemonSecretsOfTheJungle.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Bright.jpg"
+ hdImg="https://i.malimarcdn.com/BrightHD.jpg">
+<id>bright_samurai_soul18887</id>
+<title>BRIGHT SAMURAI SOUL</title>
+<titlel>ไบรท์ จิตวิญญาณซามูไร</titlel>
+<Mweb>N</Mweb>
+<length>4618</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Oct-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/BrightSamuraiSoul.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SevenDeadlySins.jpg"
+ hdImg="https://i.malimarcdn.com/SevenDeadlySinsHD.jpg">
+<id>seven_deadly_sins_cursed_by_light18870</id>
+<title>SEVEN DEADLY SINS CURSED BY LIGHT</title>
+<titlel>ศึกตํานาน 7 อัศวิน สาปแห่งแสง</titlel>
+<Mweb>N</Mweb>
+<length>4840</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Oct-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/SevenDeadlySinsCursedByLight.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MobileSuitGundamHathaway.jpg"
+ hdImg="https://i.malimarcdn.com/MobileSuitGundamHathawayHD.jpg">
+<id>gundam_hathaway18394</id>
+<title>GUNDAM HATHAWAY</title>
+<titlel>โมบิลสูทกันดั้ม</titlel>
+<Mweb>N</Mweb>
+<length>5671</length>
+<PlayerBG></PlayerBG>
+<releaseDate>9-Jul-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/MobileSuitGundamHathaway.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CatsAndPeachtopia.jpg"
+ hdImg="https://i.malimarcdn.com/CatsAndPeachtopiaHD.jpg">
+<id>cats_and_peachtopia18358</id>
+<title>CATS AND PEACHTOPIA</title>
+<titlel>ก๊วนเหมียวหง่าว</titlel>
+<Mweb>N</Mweb>
+<length>4897</length>
+<PlayerBG></PlayerBG>
+<releaseDate>30-Jun-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/CatsAndPeachtopia.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RayaAndTheLastDragon.jpg"
+ hdImg="https://i.malimarcdn.com/RayaAndTheLastDragonHD.jpg">
+<id>raya_and_the_last_dragon18282</id>
+<title>RAYA AND THE LAST DRAGON</title>
+<titlel>รายากับมังกรตัวสุดท้าย</titlel>
+<Mweb>N</Mweb>
+<length>6360</length>
+<PlayerBG></PlayerBG>
+<releaseDate>16-Jun-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/RayaAndTheLastDragon.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WishDragon.jpg"
+ hdImg="https://i.malimarcdn.com/WishDragonHD.jpg">
+<id>wish_dragon18271</id>
+<title>WISH DRAGON</title>
+<titlel>มังกรอธิษฐาน</titlel>
+<Mweb>N</Mweb>
+<length>5828</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Jun-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/WishDragon.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaliorMoonEternal1.jpg"
+ hdImg="https://i.malimarcdn.com/SaliorMoonEternal1HD.jpg">
+<id>sailor_moon_eternal_118250</id>
+<title>SAILOR MOON ETERNAL 1</title>
+<titlel>เซเลอร์มูนชั่วนิรันดร์ 1</titlel>
+<Mweb>N</Mweb>
+<length>4767</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jun-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/SailorMoonEternal1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaliorMoonEternal2.jpg"
+ hdImg="https://i.malimarcdn.com/SaliorMoonEternal2HD.jpg">
+<id>sailor_moon_eternal_218251</id>
+<title>SAILOR MOON ETERNAL 2</title>
+<titlel>เซเลอร์มูนชั่วนิรันดร์ 2</titlel>
+<Mweb>N</Mweb>
+<length>4781</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jun-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/SailorMoonEternal2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NewGodsNezhaReborn.jpg"
+ hdImg="https://i.malimarcdn.com/NewGodsNezhaRebornHD.jpg">
+<id>new_gods_nezha_reborn18198</id>
+<title>NEW GODS NEZHA REBORN</title>
+<titlel>นาจา เกิดอีกครั้งก็ยังเทพ</titlel>
+<Mweb>N</Mweb>
+<length>6950</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-Jun-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/NewGodsNezhaReborn.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/AncienAndTheMagicTablet.jpg"
+ hdImg="https://i.malimarcdn.com/AncienAndTheMagicTabletHD.jpg">
+<id>ancien_and_the_magic_tablet18122</id>
+<title>ANCIEN AND THE MAGIC TABLET</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6613</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-May-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/AncienAndTheMagicTablet.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DemonSlayer.jpg"
+ hdImg="https://i.malimarcdn.com/DemonSlayerHD.jpg">
+<id>demon_slayer18061</id>
+<title>DEMON SLAYER</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6949</length>
+<PlayerBG></PlayerBG>
+<releaseDate>11-May-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/DemonSlayer.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/StandByMe2.jpg"
+ hdImg="https://i.malimarcdn.com/StandByMe2HD.jpg">
+<id>stand_by_me_doraemon_218060</id>
+<title>STAND BY ME DORAEMON 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5707</length>
+<PlayerBG></PlayerBG>
+<releaseDate>11-May-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/StandByMeDoraemon2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ScarletAlibi.jpg"
+ hdImg="https://i.malimarcdn.com/ScarletAlibiHD.jpg">
+<id>detective_conan_scarlet_alibi17977</id>
+<title>DETECTIVE CONAN SCARLET ALIBI</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5525</length>
+<PlayerBG></PlayerBG>
+<releaseDate>28-Apr-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/DetectiveConanScarletAlibi.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LegendOfHei.jpg"
+ hdImg="https://i.malimarcdn.com/LegendOfHeiHD.jpg">
+<id>legend_of_hei17752</id>
+<title>LEGEND OF HEI</title>
+<titlel>เฮย ภูตแมวมหัศจรรย์</titlel>
+<Mweb>N</Mweb>
+<length>6007</length>
+<PlayerBG></PlayerBG>
+<releaseDate>30-Mar-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/LegendOfHei.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SumikkoGurashi.jpg"
+ hdImg="https://i.malimarcdn.com/SumikkoGurashiHD.jpg">
+<id>sumikko_gurashi17764</id>
+<title>SUMIKKO GURASHI</title>
+<titlel>สุมิกโกะกูราชิ</titlel>
+<Mweb>N</Mweb>
+<length>3888</length>
+<PlayerBG></PlayerBG>
+<releaseDate>30-Mar-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/SumikkoGurashi.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FairyTailHououNoMiko.jpg"
+ hdImg="https://i.malimarcdn.com/FairyTailHououNoMikoHD.jpg">
+<id>fairy_tail_houou_no_miko17088</id>
+<title>FAIRY TAIL HOUOU NO MIKO</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5131</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Dec-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/FairyTailHououNoMiko.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HowlsMovingCastle.jpg"
+ hdImg="https://i.malimarcdn.com/HowlsMovingCastleHD.jpg">
+<id>howls_moving_castle16747</id>
+<title>HOWLS MOVING CASTLE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>7118</length>
+<PlayerBG></PlayerBG>
+<releaseDate>2-Dec-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/HowlsMovingCastle.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Nak2008.jpg"
+ hdImg="https://i.malimarcdn.com/Nak2008HD.jpg">
+<id>nak16692</id>
+<title>NAK</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5346</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Nov-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/Nak.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChieriAndCherry.jpg"
+ hdImg="https://i.malimarcdn.com/ChieriAndCherryHD.jpg">
+<id>chieri_and_cherry16668</id>
+<title>CHIERI AND CHERRY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>3091</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Nov-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/ChieriAndCherry.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OverTheMoon.jpg"
+ hdImg="https://i.malimarcdn.com/OverTheMoonHD.jpg">
+<id>over_the_moon16639</id>
+<title>OVER THE MOON</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5520</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Nov-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/OverTheMoon.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BoBoiBoy.jpg"
+ hdImg="https://i.malimarcdn.com/BoBoiBoyHD.jpg">
+<id>bo_boi_boy16604</id>
+<title>BO BOI BOY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6128</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-Oct-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/BoBoiBoy.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RedVSBlueSingularity.jpg"
+ hdImg="https://i.malimarcdn.com/RedVSBlueSingularityHD.jpg">
+<id>red_vs_blue_singularity16500</id>
+<title>RED VS BLUE SINGULARITY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>8200</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Sep-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/RedVSBlueSingularity.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Evangelion1.jpg"
+ hdImg="https://i.malimarcdn.com/Evangelion1HD.jpg">
+<id>evangelion_116343</id>
+<title>EVANGELION 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6035</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Aug-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/Evangelion1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Evangelion2.jpg"
+ hdImg="https://i.malimarcdn.com/Evangelion2HD.jpg">
+<id>evangelion_216344</id>
+<title>EVANGELION 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6694</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Aug-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/Evangelion2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Evangelion3.jpg"
+ hdImg="https://i.malimarcdn.com/Evangelion3HD.jpg">
+<id>evangelion_316345</id>
+<title>EVANGELION 3</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5710</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Aug-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/Evangelion3.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WhiteSnake.jpg"
+ hdImg="https://i.malimarcdn.com/WhiteSnakeHD.jpg">
+<id>white_snake16350</id>
+<title>WHITE SNAKE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5916</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Aug-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/WhiteSnake.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GintamaFinalMovie.jpg"
+ hdImg="https://i.malimarcdn.com/GintamaFinalMovieHD.jpg">
+<id>gintama_final_movie16307</id>
+<title>GINTAMA FINAL MOVIE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6601</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Aug-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/GintamaFinalMovie.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MillenniumDragon.jpg"
+ hdImg="https://i.malimarcdn.com/MillenniumDragonHD.jpg">
+<id>millennium_dragon16302</id>
+<title>MILLENNIUM DRAGON</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5871</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Aug-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/MillenniumDragon.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Redline.jpg"
+ hdImg="https://i.malimarcdn.com/RedlineHD.jpg">
+<id>redline16304</id>
+<title>REDLINE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6085</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Aug-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/Redline.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CrayonShinChanHoneymoonHuricane.jpg"
+ hdImg="https://i.malimarcdn.com/CrayonShinChanHoneymoonHuricaneHD.jpg">
+<id>crayon_shin_chan_honeymoon_hurricane16292</id>
+<title>CRAYON SHIN CHAN HONEYMOON HURRICANE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5957</length>
+<PlayerBG></PlayerBG>
+<releaseDate>11-Aug-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/CrayonShinChanHoneymoonHurricane.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HelloWorld.jpg"
+ hdImg="https://i.malimarcdn.com/HelloWorldHD.jpg">
+<id>hello_world16256</id>
+<title>HELLO WORLD</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5833</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-Aug-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/HelloWorld.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MyHeroAcademia.jpg"
+ hdImg="https://i.malimarcdn.com/MyHeroAcademiaHD.jpg">
+<id>my_hero_academia16209</id>
+<title>MY HERO ACADEMIA</title>
+<titlel>สถาบันการศึกษาฮีโร่ของฉัน</titlel>
+<Mweb>N</Mweb>
+<length>6221</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Jul-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/MyHeroAcademia.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WeatheringWithYou.jpg"
+ hdImg="https://i.malimarcdn.com/WeatheringWithYouHD.jpg">
+<id>weathering_with_you16197</id>
+<title>WEATHERING WITH YOU</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6688</length>
+<PlayerBG></PlayerBG>
+<releaseDate>16-Jul-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/WeatheringWithYou.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Maquia.jpg"
+ hdImg="https://i.malimarcdn.com/MaquiaHD.jpg">
+<id>maquia16180</id>
+<title>MAQUIA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6850</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Jul-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/Maquia.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NiNoKuni1.jpg"
+ hdImg="https://i.malimarcdn.com/NiNoKuni1HD.jpg">
+<id>ni_no_kuni16181</id>
+<title>NI NO KUNI</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6355</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Jul-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/NiNoKuniNinogun.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RideYourWave.jpg"
+ hdImg="https://i.malimarcdn.com/RideYourWaveHD.jpg">
+<id>ride_your_wave16130</id>
+<title>RIDE YOUR WAVE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5688</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Jul-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/RideYourWave.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KingsAvatar.jpg"
+ hdImg="https://i.malimarcdn.com/KingsAvatarHD.jpg">
+<id>kings_avatar16109</id>
+<title>KINGS AVATAR</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5912</length>
+<PlayerBG></PlayerBG>
+<releaseDate>23-Jun-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/KingsAvatar.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Lupin3TheFirst.jpg"
+ hdImg="https://i.malimarcdn.com/Lupin3TheFirstHD.jpg">
+<id>lupin_3_the_first16093</id>
+<title>LUPIN 3 THE FIRST</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5559</length>
+<PlayerBG></PlayerBG>
+<releaseDate>16-Jun-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/Lupin3TheFirst.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MortalKombatLegends.jpg"
+ hdImg="https://i.malimarcdn.com/MortalKombatLegendsHD.jpg">
+<id>mortal_kombat_legends16022</id>
+<title>MORTAL KOMBAT LEGENDS</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>4774</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-May-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/ScorpionsRevenge.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SpiritedAway.jpg"
+ hdImg="https://i.malimarcdn.com/SpiritedAwayHD.jpg">
+<id>spirited_away15838</id>
+<title>SPIRITED AWAY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>7470</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-Apr-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/SpiritedAway.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/AlteredCarbonResleeved.jpg"
+ hdImg="https://i.malimarcdn.com/AlteredCarbonResleevedHD.jpg">
+<id>altered_carbon_resleeved15783</id>
+<title>ALTERED CARBON RESLEEVED</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>4454</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Mar-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/AlteredCarbonResleeved.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PokemonMewtwo.jpg"
+ hdImg="https://i.malimarcdn.com/PokemonMewtwoHD.jpg">
+<id>pokemon_mew_two15773</id>
+<title>POKEMON MEW TWO</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5765</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Mar-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/PokemonMewtwo.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OnePieceStampede.jpg"
+ hdImg="https://i.malimarcdn.com/OnePieceStampedeHD.jpg">
+<id>one_piece_stampede15754</id>
+<title>ONE PIECE STAMPEDE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6048</length>
+<PlayerBG></PlayerBG>
+<releaseDate>16-Mar-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/OnePieceStampede.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChildrenOfTheSea.jpg"
+ hdImg="https://i.malimarcdn.com/ChildrenOfTheSeaHD.jpg">
+<id>children_of_the_sea15688</id>
+<title>CHILDREN OF THE SEA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6668</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-Feb-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/ChildrenOfTheSea.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CityHunterCartoon.jpg"
+ hdImg="https://i.malimarcdn.com/CityHunterCartoonHD.jpg">
+<id>city_hunter15690</id>
+<title>CITY HUNTER</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5740</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-Feb-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/CityHunter.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Doraemon39.jpg"
+ hdImg="https://i.malimarcdn.com/Doraemon39HD.jpg">
+<id>doraemon_movie_3915689</id>
+<title>DORAEMON MOVIE 39</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6616</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-Feb-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/Doraemon.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/9Satra.jpg"
+ hdImg="https://i.malimarcdn.com/9SatraHD.jpg">
+<id>9_satra15592</id>
+<title>9 SATRA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6220</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Feb-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/9Satra.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Kingsglaive.jpg"
+ hdImg="https://i.malimarcdn.com/KingsglaiveHD.jpg">
+<id>kingsglaive_final_fantasy15543</id>
+<title>KINGSGLAIVE FINAL FANTASY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6907</length>
+<PlayerBG></PlayerBG>
+<releaseDate>28-Jan-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/Kingsglaive.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LORD.jpg"
+ hdImg="https://i.malimarcdn.com/LORDHD.jpg">
+<id>legend_of_ravaging_dynasties15407</id>
+<title>LEGEND OF RAVAGING DYNASTIES</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>7054</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jan-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/LegendOfRavagingDynasties.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/StormRider.jpg"
+ hdImg="https://i.malimarcdn.com/StormRiderHD.jpg">
+<id>storm_rider15393</id>
+<title>STORM RIDER</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5928</length>
+<PlayerBG></PlayerBG>
+<releaseDate>9-Jan-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/StormRiders.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Akira.jpg"
+ hdImg="https://i.malimarcdn.com/AkiraHD.jpg">
+<id>akira14828</id>
+<title>AKIRA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>7457</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Dec-2019</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/Akira.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NeZha.jpg"
+ hdImg="https://i.malimarcdn.com/NeZhaHD.jpg">
+<id>ne_zha14788</id>
+<title>NE ZHA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6529</length>
+<PlayerBG></PlayerBG>
+<releaseDate>11-Dec-2019</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/NeZha.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PenguinHighway.jpg"
+ hdImg="https://i.malimarcdn.com/PenguinHighwayHD.jpg">
+<id>penguin_highway14537</id>
+<title>PENGUIN HIGHWAY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>7023</length>
+<PlayerBG></PlayerBG>
+<releaseDate>23-Sep-2019</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/PenguinHighway.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheFounderOfDiabolism19.jpg"
+ hdImg="https://i.malimarcdn.com/TheFounderOfDiabolism19HD.jpg">
+<title>THE FOUNDER OF DIABOLISM</title>
+<titlel>ปรมาจารย์ลัทธิมาร</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Jul-2019 with 15  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheFounderOfDiabolism19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CaptianHarlock.jpg"
+ hdImg="https://i.malimarcdn.com/CaptianHarlockHD.jpg">
+<id>captain_harlock13996</id>
+<title>CAPTAIN HARLOCK</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6906</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Mar-2019</releaseDate>
+<rating>TV-14</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/CaptainHarlock.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ResidentEvilDamnation.jpg"
+ hdImg="https://i.malimarcdn.com/ResidentEvilDamnationHD.jpg">
+<id>resident_evil_damnation13997</id>
+<title>RESIDENT EVIL DAMNATION</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6002</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Mar-2019</releaseDate>
+<rating>TV-14</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/ResidentEvilDamnation.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ResidentEvilVendetta.jpg"
+ hdImg="https://i.malimarcdn.com/ResidentEvilVendettaHD.jpg">
+<id>resident_evil_vendetta13998</id>
+<title>RESIDENT EVIL VENDETTA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5695</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Mar-2019</releaseDate>
+<rating>TV-14</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/ResidentEvilVendetta.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DragonBallSuperBroly.jpg"
+ hdImg="https://i.malimarcdn.com/DragonBallSuperBrolyHD.jpg">
+<id>dragon_ball_super_broly13761</id>
+<title>DRAGON BALL SUPER BROLY</title>
+<titlel>ดราก้อนบอล ซูเปอร์ โบรลี่</titlel>
+<Mweb>N</Mweb>
+<length>6030</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-Feb-2019</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/DragonBallSuperBroly.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FinalFantasyAdventChildren.jpg"
+ hdImg="https://i.malimarcdn.com/FinalFantasyAdventChildrenHD.jpg">
+<id>final_fantasy_advent_children13732</id>
+<title>FINAL FANTASY ADVENT CHILDREN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6060</length>
+<PlayerBG></PlayerBG>
+<releaseDate>30-Jan-2019</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/FinalFantasyAdventChildren.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CrayonShinChanBurst.jpg"
+ hdImg="https://i.malimarcdn.com/CrayonShinChanBurstHD.jpg">
+<id>crayon_shin_chan_burst_serving13626</id>
+<title>CRAYON SHIN CHAN BURST SERVING</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6166</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Jan-2019</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/CrayonShinChanBurstServing.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GodzillaThePlanetEater.jpg"
+ hdImg="https://i.malimarcdn.com/GodzillaThePlanetEaterHD.jpg">
+<id>godzilla_the_planet_eater13627</id>
+<title>GODZILLA THE PLANET EATER</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5414</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Jan-2019</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/GodzillaThePlanetEater.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KrutTheHimmaphanWarriors.jpg"
+ hdImg="https://i.malimarcdn.com/KrutTheHimmaphanWarriorsHD.jpg">
+<id>krut_the_himmaphan_warriors13011</id>
+<title>KRUT THE HIMMAPHAN WARRIORS</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5867</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Dec-2018</releaseDate>
+<rating>TV-MA</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/KrutTheHimmaphanWarriors.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MazingerZInfinity.jpg"
+ hdImg="https://i.malimarcdn.com/MazingerZInfinityHD.jpg">
+<id>mazinger_z_infinity12897</id>
+<title>MAZINGER Z INFINITY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5698</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Nov-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/MazingerZInfinity.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DoraemonNobitaTreasureIsland.jpg"
+ hdImg="https://i.malimarcdn.com/DoraemonNobitaTreasureIslandHD.jpg">
+<id>doraemon_nobita_treasure_island12815</id>
+<title>DORAEMON NOBITA TREASURE ISLAND</title>
+<titlel>โดราเอมอน</titlel>
+<Mweb>Y</Mweb>
+<length>6492</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DoraemonNobitaNoTakarajima.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/IsleOfDogs.jpg"
+ hdImg="https://i.malimarcdn.com/IsleOfDogsHD.jpg">
+<id>isle_of_dogs12705</id>
+<title>ISLE OF DOGS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6036</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Sep-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/IsleOfDogs.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan22.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan22HD.jpg">
+<id>detective_conan_2212603</id>
+<title>DETECTIVE CONAN 22</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6601</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan22.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GodzillaCityOnTheEdgeOfBattle.jpg"
+ hdImg="https://i.malimarcdn.com/GodzillaCityOnTheEdgeOfBattleHD.jpg">
+<id>godzilla_city_on_the_edge_of_battle12398</id>
+<title>GODZILLA CITY ON THE EDGE OF BATTLE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6024</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/GodzillaCityOnTheEdgeOfBattle1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GodzillaMonsterPlanet.jpg"
+ hdImg="https://i.malimarcdn.com/GodzillaMonsterPlanetHD.jpg">
+<id>godzilla_monster_planet12390</id>
+<title>GODZILLA MONSTER PLANET</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5259</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/GodzillaMonsterPlanet1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan10RequiemOfTheDetectives18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan10RequiemOfTheDetectives18HD.jpg">
+<id>detective_conan_10_requiem_of_the_detectives11983</id>
+<title>DETECTIVE CONAN 10 REQUIEM OF THE DETECTIVES</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6659</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan10RequiemOfTheDetectives.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan11JollyRogerInTheDeepAzure18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan11JollyRogerInTheDeepAzure18HD.jpg">
+<id>detective_conan_11_jolly_roger_in_the_deep_azure11984</id>
+<title>DETECTIVE CONAN 11 JOLLY ROGER IN THE DEEP AZURE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6385</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan11JollyRogerInTheDeepAzure.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan12FullScoreOfFear18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan12FullScoreOfFear18HD.jpg">
+<id>detective_conan_12_full_score_of_fear11985</id>
+<title>DETECTIVE CONAN 12 FULL SCORE OF FEAR</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6945</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan12FullScoreOfFear.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan13TheRavenChaser18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan13TheRavenChaser18HD.jpg">
+<id>detective_conan_13_the_raven_chaser11986</id>
+<title>DETECTIVE CONAN 13 THE RAVEN CHASER</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6663</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan13TheRavenChaser.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan14TheLostShipInTheSky18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan14TheLostShipInTheSky18HD.jpg">
+<id>detective_conan_14_the_lost_ship_in_the_sky11987</id>
+<title>DETECTIVE CONAN 14 THE LOST SHIP IN THE SKY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6138</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan14TheLostShipInTheSky.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan9StrategyAboveTheDepths18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan9StrategyAboveTheDepths18HD.jpg">
+<id>detective_conan_9_strategy_above_the_depths11982</id>
+<title>DETECTIVE CONAN 9 STRATEGY ABOVE THE DEPTHS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6475</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan9StrategyAboveTheDepths.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Fireworks.jpg"
+ hdImg="https://i.malimarcdn.com/FireworksHD.jpg">
+<id>fireworks11958</id>
+<title>FIREWORKS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5404</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Fireworks.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DoraemonKachiKochi.jpg"
+ hdImg="https://i.malimarcdn.com/DoraemonKachiKochiHD.jpg">
+<id>doraemon_kachi_kochi11937</id>
+<title>DORAEMON KACHI KOCHI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6054</length>
+<PlayerBG></PlayerBG>
+<releaseDate>17-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DoraemonKachiKochi.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MaryAndTheWitchsFlower.jpg"
+ hdImg="https://i.malimarcdn.com/MaryAndTheWitchsFlowerHD.jpg">
+<id>mary_and_the_witchs_flower11938</id>
+<title>MARY AND THE WITCHS FLOWER</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6170</length>
+<PlayerBG></PlayerBG>
+<releaseDate>17-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/MaryAndTheWitchsFlower.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MonkeyKingHeroIsBack.jpg"
+ hdImg="https://i.malimarcdn.com/MonkeyKingHeroIsBackHD.jpg">
+<id>monkey_king_hero_is_back11941</id>
+<title>MONKEY KING HERO IS BACK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5331</length>
+<PlayerBG></PlayerBG>
+<releaseDate>17-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/MonkeyKingHeroIsBack.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan1TheTimedSkyscraper18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan1TheTimedSkyscraper18HD.jpg">
+<id>detective_conan_1_the_timed_skyscraper11886</id>
+<title>DETECTIVE CONAN 1 THE TIMED SKYSCRAPER</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5654</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan1TheTimedSkyscraper.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan2TheFourteenthTarget18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan2TheFourteenthTarget18HD.jpg">
+<id>detective_conan_2_the_fourteenth_target11887</id>
+<title>DETECTIVE CONAN 2 THE FOURTEENTH TARGET</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5978</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan2TheFourteenthTarget.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan3TheLastWizardOfTheCentury18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan3TheLastWizardOfTheCentury18HD.jpg">
+<id>detective_conan_3_the_last_wizard_of_the_century11888</id>
+<title>DETECTIVE CONAN 3 THE LAST WIZARD OF THE CENTURY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5964</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan3TheLastWizardOfTheCentury.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan4CapturedInHerEyes18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan4CapturedInHerEyes18HD.jpg">
+<id>detective_conan_4_captured_in_her_eyes11889</id>
+<title>DETECTIVE CONAN 4 CAPTURED IN HER EYES</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5972</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan4CapturedInHerEyes.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan5CountDownToHeaven18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan5CountDownToHeaven18HD.jpg">
+<id>detective_conan_5_count_down_to_heaven11890</id>
+<title>DETECTIVE CONAN 5 COUNT DOWN TO HEAVEN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5978</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan5CountDownToHeaven.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan6ThePhantomOfBakerStreet18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan6ThePhantomOfBakerStreet18HD.jpg">
+<id>detective_conan_6_the_phantom_of_baker_street11891</id>
+<title>DETECTIVE CONAN 6 THE PHANTOM OF BAKER STREET</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6439</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan6ThePhantomOfBakerStreet.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan7CrossroadInTheAncientCapital18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan7CrossroadInTheAncientCapital18HD.jpg">
+<id>detective_conan_7_crossroad_in_the_ancient_capital11892</id>
+<title>DETECTIVE CONAN 7 CROSSROAD IN THE ANCIENT CAPITAL</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6489</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan7CrossroadInTheAncientCapital.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConan8MagicianOfTheSilverSky18.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConan8MagicianOfTheSilverSky18HD.jpg">
+<id>detective_conan_8_magician_of_the_silver_sky11893</id>
+<title>DETECTIVE CONAN 8 MAGICIAN OF THE SILVER SKY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6493</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Apr-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/DetectiveConan8MagicianOfTheSilverSky.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PokemonIChooseYou.jpg"
+ hdImg="https://i.malimarcdn.com/PokemonIChooseYouHD.jpg">
+<id>pokemon_i_choose_you11842</id>
+<title>POKEMON I CHOOSE YOU</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5805</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/PokemonIChooseYou.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FairyTailDragonCry.jpg"
+ hdImg="https://i.malimarcdn.com/FairyTailDragonCryHD.jpg">
+<id>fairy_tail_dragon_cry11769</id>
+<title>FAIRY TAIL DRAGON CRY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5063</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/FairyTailDragonCry.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Naruto1.jpg"
+ hdImg="https://i.malimarcdn.com/Naruto1HD.jpg">
+<id>naruto_111760</id>
+<title>NARUTO 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4956</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Naruto1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Naruto10.jpg"
+ hdImg="https://i.malimarcdn.com/Naruto10HD.jpg">
+<id>naruto_1011767</id>
+<title>NARUTO 10</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6710</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Naruto10.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Naruto2.jpg"
+ hdImg="https://i.malimarcdn.com/Naruto2HD.jpg">
+<id>naruto_211761</id>
+<title>NARUTO 2</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5797</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Naruto2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Naruto3.jpg"
+ hdImg="https://i.malimarcdn.com/Naruto3HD.jpg">
+<id>naruto_311762</id>
+<title>NARUTO 3</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5701</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Naruto3.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Naruto4.jpg"
+ hdImg="https://i.malimarcdn.com/Naruto4HD.jpg">
+<id>naruto_411763</id>
+<title>NARUTO 4</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5687</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Naruto4.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Naruto5.jpg"
+ hdImg="https://i.malimarcdn.com/Naruto5HD.jpg">
+<id>naruto_511764</id>
+<title>NARUTO 5</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5588</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Naruto5.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Naruto7.jpg"
+ hdImg="https://i.malimarcdn.com/Naruto7HD.jpg">
+<id>naruto_711765</id>
+<title>NARUTO 7</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5108</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Naruto7.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Naruto8.jpg"
+ hdImg="https://i.malimarcdn.com/Naruto8HD.jpg">
+<id>naruto_811768</id>
+<title>NARUTO 8</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5656</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Naruto8.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Naruto9.jpg"
+ hdImg="https://i.malimarcdn.com/Naruto9HD.jpg">
+<id>naruto_911766</id>
+<title>NARUTO 9</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6595</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Feb-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/Naruto9.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YourName.jpg"
+ hdImg="https://i.malimarcdn.com/YourNameHD.jpg">
+<id>your_name11214</id>
+<title>YOUR NAME</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6395</length>
+<PlayerBG></PlayerBG>
+<releaseDate>2-Dec-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/YourName.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ASilentVoice.jpg"
+ hdImg="https://i.malimarcdn.com/ASilentVoiceHD.jpg">
+<id>a_silent_voice10204</id>
+<title>A SILENT VOICE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>7782</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-Jun-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/ASilentVoice.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Bleach1.jpg"
+ hdImg="https://i.malimarcdn.com/Bleach1HD.jpg">
+<id>bleach_110207</id>
+<title>BLEACH 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5250</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-Jun-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/Bleach1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Bleach2.jpg"
+ hdImg="https://i.malimarcdn.com/Bleach2HD.jpg">
+<id>bleach_210208</id>
+<title>BLEACH 2</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5565</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-Jun-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/Bleach2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Bleach3.jpg"
+ hdImg="https://i.malimarcdn.com/Bleach3HD.jpg">
+<id>bleach_310209</id>
+<title>BLEACH 3</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5332</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-Jun-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/Bleach3.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ShinChanTheMovie.jpg"
+ hdImg="https://i.malimarcdn.com/ShinChanTheMovieHD.jpg">
+<id>shin_chan_the_movie10205</id>
+<title>SHIN CHAN THE MOVIE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5899</length>
+<PlayerBG></PlayerBG>
+<releaseDate>7-Jun-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/ShinChanTheMovie.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DoraemonNobitaBirthOfJapan.jpg"
+ hdImg="https://i.malimarcdn.com/DoraemonNobitaBirthOfJapanHD.jpg">
+<id>doraemon_nobita_birth_of_japan9993</id>
+<title>DORAEMON NOBITA BIRTH OF JAPAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6234</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Mar-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/DoraemonNobitaBirthOfJapan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RudolfTheBlackCat.jpg"
+ hdImg="https://i.malimarcdn.com/RudolfTheBlackCatHD.jpg">
+<id>rudolf_the_black_cat9988</id>
+<title>RUDOLF THE BLACK CAT</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5313</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Mar-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/RudolfTheBlackCat2016.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/108DemonKings.jpg"
+ hdImg="https://i.malimarcdn.com/108DemonKingsHD.jpg">
+<id>108_demon_kings9840</id>
+<title>108 DEMON KINGS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6435</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Feb-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/108DemonKings2015.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DragonBallZResurrectionF.jpg"
+ hdImg="https://i.malimarcdn.com/DragonBallZResurrectionFHD.jpg">
+<id>dragon_ball_z_resurrection_f9839</id>
+<title>DRAGON BALL Z RESURRECTION F</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5637</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Feb-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/DragonBallZResurrectionF2015.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OnePieceFilmGold.jpg"
+ hdImg="https://i.malimarcdn.com/OnePieceFilmGoldHD.jpg">
+<id>one_piece_film_gold9842</id>
+<title>ONE PIECE FILM GOLD</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>7210</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Feb-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/OnePieceFilmGold2016.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SeoulStation.jpg"
+ hdImg="https://i.malimarcdn.com/SeoulStationHD.jpg">
+<id>seoul_station9841</id>
+<title>SEOUL STATION</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5543</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Feb-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/SeoulStation2016.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/StoryOfMahajanaka.jpg"
+ hdImg="https://i.malimarcdn.com/StoryOfMahajanakaHD.jpg">
+<id>story_of_mahajanaka9838</id>
+<title>STORY OF MAHAJANAKA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6036</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Feb-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/StoryOfMahajanaka2014.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConanTheMovie.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConanTheMovieHD.jpg">
+<id>detective_conan_the_movie9018</id>
+<title>DETECTIVE CONAN THE MOVIE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6692</length>
+<PlayerBG></PlayerBG>
+<releaseDate>16-Nov-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/DetectiveConanTheMovie.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BorutoNarutoTheMovie.jpg"
+ hdImg="https://i.malimarcdn.com/BorutoNarutoTheMovieHD.jpg">
+<id>boruto_naruto_the_movie8978</id>
+<title>BORUTO NARUTO THE MOVIE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5707</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Oct-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/BorutoNarutoTheMovie.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrettyCure.jpg"
+ hdImg="https://i.malimarcdn.com/PrettyCureHD.jpg">
+<title>PRETTY CURE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 21-Aug-2016 with 1  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrettyCure.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Conan16.jpg"
+ hdImg="https://i.malimarcdn.com/Conan16HD.jpg">
+<title>CONAN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 24-Jul-2016 with 49  Episode(s) PLAY: Everyday  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Conan16.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NuNoiARaLe.jpg"
+ hdImg="https://i.malimarcdn.com/NuNoiARaLeHD.jpg">
+<title>NU NOI ARALE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 24-Jul-2016 with 28  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NuNoiARaLe.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SailorMoonCrystal.jpg"
+ hdImg="https://i.malimarcdn.com/SailorMoonCrystalHD.jpg">
+<title>SAILOR MOON CRYSTAL</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 24-Jul-2016 with 20  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SailorMoonCrystal.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YoKaiWatch.jpg"
+ hdImg="https://i.malimarcdn.com/YoKaiWatchHD.jpg">
+<title>YO KAI WATCH</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 24-Jul-2016 with 32  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YoKaiWatch.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SanoNoi.jpg"
+ hdImg="https://i.malimarcdn.com/SanoNoiHD.jpg">
+<title>SANO NOI</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Jun-2016 with 6  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SanoNoi.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheBoyAndTheBeast.jpg"
+ hdImg="https://i.malimarcdn.com/TheBoyAndTheBeastHD.jpg">
+<id>the_boy_and_the_beast8482</id>
+<title>THE BOY AND THE BEAST</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>7146</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Jun-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/TheBoyAndTheBeast.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HelloKittyStumpVillage.jpg"
+ hdImg="https://i.malimarcdn.com/HelloKittyStumpVillageHD.jpg">
+<title>HELLO KITTY STUMP VILLAGE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-May-2016 with 3  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HelloKittyStumpVillage.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheInspirations.jpg"
+ hdImg="https://i.malimarcdn.com/TheInspirationsHD.jpg">
+<id>the_inspirations8199</id>
+<title>THE INSPIRATIONS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5762</length>
+<PlayerBG></PlayerBG>
+<releaseDate>30-Mar-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/TheInspirations.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MyVillageSeason2.jpg"
+ hdImg="https://i.malimarcdn.com/MyVillageSeason2HD.jpg">
+<title>MY VILLAGE SEASON 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 21-Jul-2015 with 8  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MyVillageSeason2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Esop.jpg"
+ hdImg="https://i.malimarcdn.com/EsopHD.jpg">
+<title>ESOP</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 9-Jul-2015 with 49  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Esop.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MagicKaito.jpg"
+ hdImg="https://i.malimarcdn.com/MagicKaitoHD.jpg">
+<id>magic_kaito7169</id>
+<title>MAGIC KAITO</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>1180</length>
+<PlayerBG></PlayerBG>
+<releaseDate>28-Jun-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/MagicKaito.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SecretWorldofArrietty.jpg"
+ hdImg="https://i.malimarcdn.com/SecretWorldofArriettyHD.jpg">
+<id>secret_world_of_arrietty7150</id>
+<title>SECRET WORLD OF ARRIETTY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5636</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Jun-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/SecretWorldofArrietty.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KamenRiderFourze.jpg"
+ hdImg="https://i.malimarcdn.com/KamenRiderFourzeHD.jpg">
+<title>KAMEN RIDER FOURZE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 20-Jun-2015 with 15  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KamenRiderFourze.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrincessMononoke.jpg"
+ hdImg="https://i.malimarcdn.com/PrincessMononokeHD.jpg">
+<id>princess_mononoke7123</id>
+<title>PRINCESS MONONOKE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>8003</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Jun-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/PrincessMononoke.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SummerWars.jpg"
+ hdImg="https://i.malimarcdn.com/SummerWarsHD.jpg">
+<id>summer_wars7099</id>
+<title>SUMMER WARS</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6846</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Jun-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/SummerWars.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheCivilizationBlaster.jpg"
+ hdImg="https://i.malimarcdn.com/TheCivilizationBlasterHD.jpg">
+<title>THE CIVILIZATION BLASTER</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 13-Jun-2015 with 24  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheCivilizationBlaster.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YuriKumaArashi.jpg"
+ hdImg="https://i.malimarcdn.com/YuriKumaArashiHD.jpg">
+<title>YURI KUMA ARASHI</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 8-Jun-2015 with 12  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YuriKumaArashi.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Bakuman2.jpg"
+ hdImg="https://i.malimarcdn.com/Bakuman2HD.jpg">
+<title>BAKUMAN 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 5-Jun-2015 with 21  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Bakuman2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DanshiKoukouseinoNichijou.jpg"
+ hdImg="https://i.malimarcdn.com/DanshiKoukouseinoNichijouHD.jpg">
+<title>DANSHI KOUKOUSEINO NICHIJOU</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 5-Jun-2015 with 12  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DanshiKoukouseinoNichijou.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GaroHonoonoKokuin.jpg"
+ hdImg="https://i.malimarcdn.com/GaroHonoonoKokuinHD.jpg">
+<title>GARO HONOONO KOKUIN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 5-Jun-2015 with 24  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GaroHonoonoKokuin.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HellsingUltimateTheDawn.jpg"
+ hdImg="https://i.malimarcdn.com/HellsingUltimateTheDawnHD.jpg">
+<title>HELLSING ULTIMATE THE DAWN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 5-Jun-2015 with 3  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HellsingUltimateTheDawn.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KaitouJoker.jpg"
+ hdImg="https://i.malimarcdn.com/KaitouJokerHD.jpg">
+<title>KAITOU JOKER</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 5-Jun-2015 with 13  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KaitouJoker.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KantaiCollectionKancolle.jpg"
+ hdImg="https://i.malimarcdn.com/KantaiCollectionKancolleHD.jpg">
+<title>KANTAI COLLECTION KANCOLLE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 5-Jun-2015 with 12  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KantaiCollectionKancolle.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheAdventuresOfJinbao.jpg"
+ hdImg="https://i.malimarcdn.com/TheAdventuresOfJinbaoHD.jpg">
+<id>the_adventures_of_jinbao7008</id>
+<title>THE ADVENTURES OF JINBAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4622</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Jun-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/TheAdventuresOfJinbao.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/UtanoPrinceSama.jpg"
+ hdImg="https://i.malimarcdn.com/UtanoPrinceSamaHD.jpg">
+<title>UTANO PRINCE SAMA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 4-Jun-2015 with 13  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/UtanoPrinceSama.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GodJi.jpg"
+ hdImg="https://i.malimarcdn.com/GodJiHD.jpg">
+<title>GOD JI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-May-2015 with 12  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GodJi.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Avatar.jpg"
+ hdImg="https://i.malimarcdn.com/AvatarHD.jpg">
+<title>AVATAR</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 30-May-2015 with 57  Episode(s) PLAY:  THU, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Avatar.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MyVillageSeason1.jpg"
+ hdImg="https://i.malimarcdn.com/MyVillageSeason1HD.jpg">
+<title>MY VILLAGE SEASON 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 30-May-2015 with 15  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MyVillageSeason1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChinJung.jpg"
+ hdImg="https://i.malimarcdn.com/ChinJungHD.jpg">
+<title>CHIN JUNG</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 4-May-2015 with 15  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChinJung.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ACertainMagicalIndex.jpg"
+ hdImg="https://i.malimarcdn.com/ACertainMagicalIndexHD.jpg">
+<title>A CERTAIN MAGICAL INDEX</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 9-Apr-2015 with 4  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ACertainMagicalIndex.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PokemonMovLucario.jpg"
+ hdImg="https://i.malimarcdn.com/PokemonMovLucarioHD.jpg">
+<id>pokemon_mov_lucario6549</id>
+<title>POKEMON MOV LUCARIO</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5983</length>
+<PlayerBG></PlayerBG>
+<releaseDate>9-Apr-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/PokemonMovLucario.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/StandByMeDoraemon.jpg"
+ hdImg="https://i.malimarcdn.com/StandByMeDoraemonHD.jpg">
+<id>stand_by_me_doraemon6550</id>
+<title>STAND BY ME DORAEMON</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5670</length>
+<PlayerBG></PlayerBG>
+<releaseDate>9-Apr-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/StandByMeDoraemon.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HellGirl1.jpg"
+ hdImg="https://i.malimarcdn.com/HellGirl1HD.jpg">
+<title>HELL GIRL 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 18-Mar-2015 with 26  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HellGirl1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KeroroGunso.jpg"
+ hdImg="https://i.malimarcdn.com/KeroroGunsoHD.jpg">
+<title>KERORO GUNSO</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 18-Mar-2015 with 199  Episode(s) PLAY: MON, WED, THU, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KeroroGunso.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BayonettaBloodyFate.jpg"
+ hdImg="https://i.malimarcdn.com/BayonettaBloodyFateHD.jpg">
+<id>bayonetta_bloody_fate6436</id>
+<title>BAYONETTA BLOODY FATE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5401</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Mar-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/BayonettaBloodyFate.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BlackJack.jpg"
+ hdImg="https://i.malimarcdn.com/BlackJackHD.jpg">
+<title>BLACK JACK</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 12-Mar-2015 with 56  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BlackJack.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CharmmyKitty.jpg"
+ hdImg="https://i.malimarcdn.com/CharmmyKittyHD.jpg">
+<title>CHARMMY KITTY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 12-Mar-2015 with 13  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CharmmyKitty.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ShinRyaKuIka.jpg"
+ hdImg="https://i.malimarcdn.com/ShinRyaKuIkaHD.jpg">
+<title>SHIN RYA KUIKA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 12-Mar-2015 with 12  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ShinRyaKuIka.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Bleach.jpg"
+ hdImg="https://i.malimarcdn.com/BleachHD.jpg">
+<title>BLEACH</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Feb-2015 with 201  Episode(s) PLAY:  TUE, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Bleach.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WolfChildren.jpg"
+ hdImg="https://i.malimarcdn.com/WolfChildrenHD.jpg">
+<id>wolf_children6199</id>
+<title>WOLF CHILDREN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>7050</length>
+<PlayerBG></PlayerBG>
+<releaseDate>4-Feb-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/WolfChildren.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Conan4.jpg"
+ hdImg="https://i.malimarcdn.com/Conan4HD.jpg">
+<title>CONAN 4</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 11-Jan-2015 with 26  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Conan4.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Conan5.jpg"
+ hdImg="https://i.malimarcdn.com/Conan5HD.jpg">
+<title>CONAN 5</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 11-Jan-2015 with 50  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Conan5.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaintSeiyaLegendOfSanctuary.jpg"
+ hdImg="https://i.malimarcdn.com/SaintSeiyaLegendOfSanctuaryHD.jpg">
+<id>saint_seiya_legend_of_sanctuary6009</id>
+<title>SAINT SEIYA LEGEND OF SANCTUARY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5559</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Jan-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie14/SaintSeiyaLegendOfSanctuary.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Hyouka.jpg"
+ hdImg="https://i.malimarcdn.com/HyoukaHD.jpg">
+<title>HYOUKA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 7-Jan-2015 with 23  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Hyouka.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DetectiveConanDimensionalSniper.jpg"
+ hdImg="https://i.malimarcdn.com/DetectiveConanDimensionalSniperHD.jpg">
+<id>detective_conan_dimensional_sniper5740</id>
+<title>DETECTIVE CONAN DIMENSIONAL SNIPER</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6616</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Dec-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/DetectiveConanDimensionalSniper.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PraMaHaChaNok.jpg"
+ hdImg="https://i.malimarcdn.com/PraMaHaChaNokHD.jpg">
+<title>PRA MA HA CHA NOK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Dec-2014 with 3  Episode(s) PLAY: MON, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PraMaHaChaNok.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NuNoiARaLeSpecial.jpg"
+ hdImg="https://i.malimarcdn.com/NuNoiARaLeSpecialHD.jpg">
+<title>NU NOI ARA LE SPECIAL</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 7-Dec-2014 with 20  Episode(s) PLAY:  THU, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NuNoiARaLeSpecial.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OuranHighschoolHost.jpg"
+ hdImg="https://i.malimarcdn.com/OuranHighschoolHostHD.jpg">
+<title>OURAN HIGH SCHOOL HOST</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 4-Dec-2014 with 13  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OuranHighschoolHost.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Inuyacha3.jpg"
+ hdImg="https://i.malimarcdn.com/Inuyacha3HD.jpg">
+<title>INU YA CHA 3</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 24-Nov-2014 with 20  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Inuyacha3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Inuyacha2.jpg"
+ hdImg="https://i.malimarcdn.com/Inuyacha2HD.jpg">
+<title>INU YA CHA 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 22-Nov-2014 with 27  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Inuyacha2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YuGiOhGXS3.jpg"
+ hdImg="https://i.malimarcdn.com/YuGiOhGXS3HD.jpg">
+<title>YU GI OH GX S3</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 20-Nov-2014 with 52  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YuGiOhGXS3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YuGiOhGXS4.jpg"
+ hdImg="https://i.malimarcdn.com/YuGiOhGXS4HD.jpg">
+<title>YU GI OH GX S4</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 20-Nov-2014 with 24  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YuGiOhGXS4.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ToaruKagakuNoRailgunS.jpg"
+ hdImg="https://i.malimarcdn.com/ToaruKagakuNoRailgunSHD.jpg">
+<title>TOARU KAGAKU NO RAILGUN S</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 16-Nov-2014 with 24  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ToaruKagakuNoRailgunS.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NaruenoSekai.jpg"
+ hdImg="https://i.malimarcdn.com/NaruenoSekaiHD.jpg">
+<title>NARUENO SEKAI</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Nov-2014 with 12  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NaruenoSekai.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RedDataGirl.jpg"
+ hdImg="https://i.malimarcdn.com/RedDataGirlHD.jpg">
+<title>RED DATA GIRL</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Nov-2014 with 12  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RedDataGirl.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RoKyuBu.jpg"
+ hdImg="https://i.malimarcdn.com/RoKyuBuHD.jpg">
+<title>RO KYU BU</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Nov-2014 with 12  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RoKyuBu.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YumeiroPatissiere.jpg"
+ hdImg="https://i.malimarcdn.com/YumeiroPatissiereHD.jpg">
+<title>YUMEIRO PATISSIERE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Nov-2014 with 50  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YumeiroPatissiere.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChibiMarukoChan.jpg"
+ hdImg="https://i.malimarcdn.com/ChibiMarukoChanHD.jpg">
+<title>CHIBI MARUKO CHAN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 13-Nov-2014 with 15  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChibiMarukoChan.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DoraemonNobitaInvasionWonderland.jpg"
+ hdImg="https://i.malimarcdn.com/DoraemonNobitaInvasionWonderlandHD.jpg">
+<id>doraemon_nobita_invasion_wonderland5560</id>
+<title>DORAEMON NOBITA INVASION WONDERLAND</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6573</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Nov-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/DoraemonNobitaInvasionWonderland.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Inuyacha.jpg"
+ hdImg="https://i.malimarcdn.com/InuyachaHD.jpg">
+<title>INU YA CHA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 13-Nov-2014 with 28  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Inuyacha.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SailorMoonSuperS.jpg"
+ hdImg="https://i.malimarcdn.com/SailorMoonSuperSHD.jpg">
+<title>SAILOR MOON SUPER S</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 13-Nov-2014 with 38  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SailorMoonSuperS.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/07GhostTH.jpg"
+ hdImg="https://i.malimarcdn.com/07GhostTHHD.jpg">
+<title>7 GHOST</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 8-Nov-2014 with 25  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/07GhostTH.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SailorMoonSuperSTheMovie.jpg"
+ hdImg="https://i.malimarcdn.com/SailorMoonSuperSTheMovieHD.jpg">
+<id>sailor_moon_super_s_the_movie5510</id>
+<title>SAILOR MOON SUPER S THE MOVIE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>3598</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Nov-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/SailorMoonSuperSTheMovie.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Conan2Year2.jpg"
+ hdImg="https://i.malimarcdn.com/Conan2Year2HD.jpg">
+<title>CONAN 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 2-Nov-2014 with 44  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Conan2Year2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Conan3.jpg"
+ hdImg="https://i.malimarcdn.com/Conan3HD.jpg">
+<title>CONAN 3</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 2-Nov-2014 with 41  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Conan3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Conan1.jpg"
+ hdImg="https://i.malimarcdn.com/Conan1HD.jpg">
+<title>CONAN 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 27-Oct-2014 with 44  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Conan1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Haruhi1.jpg"
+ hdImg="https://i.malimarcdn.com/Haruhi1HD.jpg">
+<title>HARUHI 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 20-Oct-2014 with 5  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Haruhi1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BuddhaThusHaveIHeard.jpg"
+ hdImg="https://i.malimarcdn.com/BuddhaThusHaveIHeardHD.jpg">
+<id>buddha_thus_have_i_herrd5306</id>
+<title>BUDDHA THUS HAVE I HERRD</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>16930</length>
+<PlayerBG></PlayerBG>
+<releaseDate>17-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/BuddhaThusHaveIHeard.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BornOfBuddha.jpg"
+ hdImg="https://i.malimarcdn.com/BornOfBuddhaHD.jpg">
+<id>born_of_buddha5298</id>
+<title>BORN OF BUDDHA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5880</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/BornOfBuddha.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheDevilIsAPartTimer.jpg"
+ hdImg="https://i.malimarcdn.com/TheDevilIsAPartTimerHD.jpg">
+<title>THE DEVIL IS A PART TIMER</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Oct-2014 with 13  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheDevilIsAPartTimer.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheDisappearanceofHaruhiSuzumiya.jpg"
+ hdImg="https://i.malimarcdn.com/TheDisappearanceofHaruhiSuzumiyaHD.jpg">
+<id>the_disappearance_of_aruhi_suzumiya5295</id>
+<title>THE DISAPPEARANCE OF ARUHI SUZUMIYA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>9353</length>
+<PlayerBG></PlayerBG>
+<releaseDate>14-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/TheDisappearanceofHaruhiSuzumiya.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TokyoGhoul.jpg"
+ hdImg="https://i.malimarcdn.com/TokyoGhoulHD.jpg">
+<title>TOKYO GHOUL</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Oct-2014 with 10  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TokyoGhoul.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FreeEternalSummer.jpg"
+ hdImg="https://i.malimarcdn.com/FreeEternalSummerHD.jpg">
+<title>FREE ETERNAL SUMMER</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 11-Oct-2014 with 13  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FreeEternalSummer.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MaoyuuMaouYuusha.jpg"
+ hdImg="https://i.malimarcdn.com/MaoyuuMaouYuushaHD.jpg">
+<title>MAOYUU MAOU YUUSHA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 11-Oct-2014 with 12  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MaoyuuMaouYuusha.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Deathnote.jpg"
+ hdImg="https://i.malimarcdn.com/DeathnoteHD.jpg">
+<title>DEATH NOTE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 11-Sep-2014 with 37  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Deathnote.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FairyTailTH2.jpg"
+ hdImg="https://i.malimarcdn.com/FairyTailTH2HD.jpg">
+<title>FAIRY TAIL 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 3-Sep-2014 with 92  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FairyTailTH2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/InitailD.jpg"
+ hdImg="https://i.malimarcdn.com/InitailDHD.jpg">
+<title>INITIAL D</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 3-Sep-2014 with 26  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/InitailD.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/initialDstage2.jpg"
+ hdImg="https://i.malimarcdn.com/initialDstage2HD.jpg">
+<title>INITIAL DSTAGE 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 3-Sep-2014 with 13  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/initialDstage2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/initialDstage3.jpg"
+ hdImg="https://i.malimarcdn.com/initialDstage3HD.jpg">
+<title>INITIAL DSTAGE 3</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 3-Sep-2014 with 2  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/initialDstage3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/initialDstage4.jpg"
+ hdImg="https://i.malimarcdn.com/initialDstage4HD.jpg">
+<title>INITIAL DSTAGE 4</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 3-Sep-2014 with 24  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/initialDstage4.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrinceOfTennisOVA.jpg"
+ hdImg="https://i.malimarcdn.com/PrinceOfTennisOVAHD.jpg">
+<title>PRINCE OF TENNIS OVA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 24-Jul-2014 with 30  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrinceOfTennisOVA.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThePrinceOfTennisII.jpg"
+ hdImg="https://i.malimarcdn.com/ThePrinceOfTennisIIHD.jpg">
+<title>THE PRINCE OF TENNIS 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 16-Jul-2014 with 13  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThePrinceOfTennisII.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FairyTail.jpg"
+ hdImg="https://i.malimarcdn.com/FairyTailHD.jpg">
+<title>FAIRY TAIL</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 15-Jul-2014 with 48  Episode(s) PLAY:  TUE, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FairyTail.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrinceOfTennis4.jpg"
+ hdImg="https://i.malimarcdn.com/PrinceOfTennis4HD.jpg">
+<title>PRINCE OF TENNIS 4</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 15-Jul-2014 with 41  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrinceOfTennis4.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BlackButler4.jpg"
+ hdImg="https://i.malimarcdn.com/BlackButler4HD.jpg">
+<title>BLACK BUTLER 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 3-Jul-2014 with 9  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BlackButler4.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BlackButler3.jpg"
+ hdImg="https://i.malimarcdn.com/BlackButler3HD.jpg">
+<title>BLACK BUTLER 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 2-Jul-2014 with 25  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BlackButler3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrinceOfTennis2.jpg"
+ hdImg="https://i.malimarcdn.com/PrinceOfTennis2HD.jpg">
+<title>PRINCE OF TENNIS 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 2-Jul-2014 with 49  Episode(s) PLAY: MON, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrinceOfTennis2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrinceOfTennis3.jpg"
+ hdImg="https://i.malimarcdn.com/PrinceOfTennis3HD.jpg">
+<title>PRINCE OF TENNIS 3</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 2-Jul-2014 with 39  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrinceOfTennis3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrinceOfTennis1.jpg"
+ hdImg="https://i.malimarcdn.com/PrinceOfTennis1HD.jpg">
+<title>PRINCE OF TENNIS 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 29-Jun-2014 with 48  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrinceOfTennis1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Conan.jpg"
+ hdImg="https://i.malimarcdn.com/ConanHD.jpg">
+<title>CONAN 2014</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 28-Jun-2014 with 49  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Conan.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Ippo.jpg"
+ hdImg="https://i.malimarcdn.com/IppoHD.jpg">
+<title>IPPO 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 28-Jun-2014 with 76  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Ippo.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Ippo2.jpg"
+ hdImg="https://i.malimarcdn.com/Ippo2HD.jpg">
+<title>IPPO 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 28-Jun-2014 with 26  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Ippo2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/IppoBackgrond.jpg"
+ hdImg="https://i.malimarcdn.com/IppoBackgrondHD.jpg">
+<title>IPPO BACKGROND</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 28-Jun-2014 with 2  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/IppoBackgrond.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/IppoMovieSpecial.jpg"
+ hdImg="https://i.malimarcdn.com/IppoMovieSpecialHD.jpg">
+<id>ippo_movie_special4099</id>
+<title>IPPO MOVIE SPECIAL</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>3591</length>
+<PlayerBG></PlayerBG>
+<releaseDate>28-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/IppoMovieSpecial.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KurokonoBasket.jpg"
+ hdImg="https://i.malimarcdn.com/KurokonoBasketHD.jpg">
+<title>KUROKONO BASKET</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 27-Jun-2014 with 26  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KurokonoBasket.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OnePiece.jpg"
+ hdImg="https://i.malimarcdn.com/OnePieceHD.jpg">
+<title>ONE PIECE 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 27-Jun-2014 with 52  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OnePiece.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KeroroGunsoTheMovie.jpg"
+ hdImg="https://i.malimarcdn.com/KeroroGunsoTheMovieHD.jpg">
+<id>keroro_gunso_the_movie4081</id>
+<title>KERORO GUNSO THE MOVIE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>7166</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/KeroroGunsoTheMovie.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KeroroGunsoTheMovie2.jpg"
+ hdImg="https://i.malimarcdn.com/KeroroGunsoTheMovie2HD.jpg">
+<id>keroro_gunso_the_movie_24082</id>
+<title>KERORO GUNSO THE MOVIE 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>4663</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/KeroroGunsoTheMovie2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KeroroGunsoTheMovie3.jpg"
+ hdImg="https://i.malimarcdn.com/KeroroGunsoTheMovie3HD.jpg">
+<id>keroro_gunso_the_movie_34083</id>
+<title>KERORO GUNSO THE MOVIE 3</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5736</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/KeroroGunsoTheMovie3.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KeroroGunsoTheMovie4.jpg"
+ hdImg="https://i.malimarcdn.com/KeroroGunsoTheMovie4HD.jpg">
+<id>keroro_gunso_the_movie_44084</id>
+<title>KERORO GUNSO THE MOVIE 4</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5668</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/KeroroGunsoTheMovie4.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OnePieceFilmZ.jpg"
+ hdImg="https://i.malimarcdn.com/OnePieceFilmZHD.jpg">
+<id>one_piece_film_z4085</id>
+<title>ONE PIECE FILM Z</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6478</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/OnePieceFilmZ.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Durarara.jpg"
+ hdImg="https://i.malimarcdn.com/DurararaHD.jpg">
+<title>DURARARA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 16-Jun-2014 with 26  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Durarara.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChoujinSentaiJetman.jpg"
+ hdImg="https://i.malimarcdn.com/ChoujinSentaiJetmanHD.jpg">
+<title>CHOUJIN SENTAI JETMAN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 15-Jun-2014 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoujinSentaiJetman.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/InazumaEleven.jpg"
+ hdImg="https://i.malimarcdn.com/InazumaElevenHD.jpg">
+<title>INAZUMA ELEVEN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Jun-2014 with 127  Episode(s) PLAY:  FRI, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/InazumaEleven.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/REBORN.jpg"
+ hdImg="https://i.malimarcdn.com/REBORNHD.jpg">
+<title>REBORN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Jun-2014 with 196  Episode(s) PLAY:  TUE, WED, THU, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/REBORN.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EurekaSevenAOAstralOcean19.jpg"
+ hdImg="https://i.malimarcdn.com/EurekaSevenAOAstralOcean19HD.jpg">
+<title>EUREKA SEVEN AO ASTRAL OCEAN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Jun-2014 with 24  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EurekaSevenAOAstralOcean19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HiironoKakera.jpg"
+ hdImg="https://i.malimarcdn.com/HiironoKakeraHD.jpg">
+<title>HIIRONO KAKERA SEASON 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Jun-2014 with 5  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HiironoKakera.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KannazukiNoMiko.jpg"
+ hdImg="https://i.malimarcdn.com/KannazukiNoMikoHD.jpg">
+<title>KANNAZUKI NO MIKO</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Jun-2014 with 12  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KannazukiNoMiko.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KyoukaiSenjounoHorizon.jpg"
+ hdImg="https://i.malimarcdn.com/KyoukaiSenjounoHorizonHD.jpg">
+<title>KYOUKAI SENJOUNO HORIZON SEASON 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Jun-2014 with 13  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KyoukaiSenjounoHorizon.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MobileSuitGundamAGE.jpg"
+ hdImg="https://i.malimarcdn.com/MobileSuitGundamAGEHD.jpg">
+<title>MOBILE SUIT GUNDAM AGE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Jun-2014 with 13  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MobileSuitGundamAGE.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MobileSuitGundamOO.jpg"
+ hdImg="https://i.malimarcdn.com/MobileSuitGundamOOHD.jpg">
+<title>MOBILE SUIT GUNDAM OO</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Jun-2014 with 8  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MobileSuitGundamOO.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MobileSuitGundamSEED.jpg"
+ hdImg="https://i.malimarcdn.com/MobileSuitGundamSEEDHD.jpg">
+<title>MOBILE SUIT GUNDAM SEED</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Jun-2014 with 51  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MobileSuitGundamSEED.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MobileSuitGundamWing.jpg"
+ hdImg="https://i.malimarcdn.com/MobileSuitGundamWingHD.jpg">
+<title>MOBILE SUIT GUNDAM WING</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Jun-2014 with 49  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MobileSuitGundamWing.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TengenToppa.jpg"
+ hdImg="https://i.malimarcdn.com/TengenToppaHD.jpg">
+<title>TENGEN TOPPA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 10-Jun-2014 with 28  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TengenToppa.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TengenToppaGurrenLagannTheMovieGurrenhen.jpg"
+ hdImg="https://i.malimarcdn.com/TengenToppaGurrenLagannTheMovieGurrenhenHD.jpg">
+<id>tengen_toppa_gurren_lagann_the_movie_13849</id>
+<title>TENGEN TOPPA GURREN LAGANN THE MOVIE 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6726</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/TengenToppaGurrenLagannTheMovieGurrenhen.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TengenToppaGurrenLagannTheMovieGurrenhen2.jpg"
+ hdImg="https://i.malimarcdn.com/TengenToppaGurrenLagannTheMovieGurrenhen2HD.jpg">
+<id>tengen_toppa_gurren_lagann_the_movie_23850</id>
+<title>TENGEN TOPPA GURREN LAGANN THE MOVIE 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>7560</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/TengenToppaGurrenLagannTheMovieGurrenhen2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Doraemon2.jpg"
+ hdImg="https://i.malimarcdn.com/Doraemon2HD.jpg">
+<id>doraemon_23804</id>
+<title>DORAEMON 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6004</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/Doraemon2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Doraemon3.jpg"
+ hdImg="https://i.malimarcdn.com/Doraemon3HD.jpg">
+<id>doramon_dai_no_soar_nobita3803</id>
+<title>DORAMON DAI NO SOAR NOBITA</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/Doraemon3.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Doremon1.jpg"
+ hdImg="https://i.malimarcdn.com/Doremon1HD.jpg">
+<id>doremon_13805</id>
+<title>DOREMON 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/Doraemon1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LittleKrishna2.jpg"
+ hdImg="https://i.malimarcdn.com/LittleKrishna2HD.jpg">
+<id>little_krishna_the_darling_of_vrindavan3801</id>
+<title>LITTLE KRISHNA THE DARLING OF VRINDAVAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/LittleKrishna2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LittleKrishna1.jpg"
+ hdImg="https://i.malimarcdn.com/LittleKrishna1HD.jpg">
+<id>little_krishna_the_legendary_warrior3802</id>
+<title>LITTLE KRISHNA THE LEGENDARY WARRIOR</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Jun-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Cartoon19/LittleKrishna1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ShellDonseason5.jpg"
+ hdImg="https://i.malimarcdn.com/ShellDonseason5HD.jpg">
+<title>SHELL DON SEASON 5</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-May-2014 with 8  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ShellDonseason5.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

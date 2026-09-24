@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>9</itemCount>
+<totalCount>9</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2025/Khmer2025.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/Khmer2025HD.jpg">
+<title>KHMER 2025</title>
+<titlel>ខ្មែរឆ្នាំ ២០២៥</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer2025.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/Khmer2024.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/Khmer2024HD.jpg">
+<title>KHMER 2024</title>
+<titlel>ខ្មែរឆ្នាំ ២០២៤</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer2024.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/Khmer2023.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/Khmer2023HD.jpg">
+<title>KHMER 2023</title>
+<titlel>ខ្មែរឆ្នាំ ២០២៣</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer2023.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/Khmer2022.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/Khmer2022HD.jpg">
+<title>KHMER 2022</title>
+<titlel>ខ្មែរឆ្នាំ ២០២២</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer2022.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/Khmer2021.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/Khmer2021HD.jpg">
+<title>KHMER 2021</title>
+<titlel>ខ្មែរឆ្នាំ ២០២១</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer2021.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/Khmer2020.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/Khmer2020HD.jpg">
+<title>KHMER 2020</title>
+<titlel>ខ្មែរឆ្នាំ ២០២០</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer2020.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/Khmer2019.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/Khmer2019HD.jpg">
+<title>KHMER 2019</title>
+<titlel>ខ្មែរឆ្នាំ ២០១៩</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer2019.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/Khmer2018.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/Khmer2018HD.jpg">
+<title>KHMER 2018</title>
+<titlel>ខ្មែរឆ្នាំ ២០១៨</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer2018.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/Khmer2017.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/Khmer2017HD.jpg">
+<title>KHMER 2017</title>
+<titlel>ខ្មែរឆ្នាំ ២០១៧</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer2017.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

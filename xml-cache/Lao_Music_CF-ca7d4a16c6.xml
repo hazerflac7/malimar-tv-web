@@ -1,0 +1,2822 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>84</itemCount>
+<totalCount>84</totalCount>
+<item sdImg="https://i.malimarcdn.com/BaoMuangXiengKhoyXou.jpg"
+ hdImg="https://i.malimarcdn.com/BaoMuangXiengKhoyXouHD.jpg">
+<id>bao_muang_xieng_khoy_xou21352</id>
+<title>BAO MUANG XIENG KHOY XOU</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>267</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/BaoMuangXiengKhoyXou.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNJumPaMuangLao11.jpg"
+ hdImg="https://i.malimarcdn.com/SSNJumPaMuangLao11HD.jpg">
+<id>jum_pa_muang_lao21359</id>
+<title>JUM PA MUANG LAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>277</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/JumPaMuangLao.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LumTungVaiy.jpg"
+ hdImg="https://i.malimarcdn.com/LumTungVaiyHD.jpg">
+<id>lum_tung_vaiy21351</id>
+<title>LUM TUNG VAIY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>336</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/LumTungVaiy.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNKhitThuengMuangLao.jpg"
+ hdImg="https://i.malimarcdn.com/SSNKhitThuengMuangLaoHD.jpg">
+<id>ssn_khit_thueng_muang_lao21342</id>
+<title>SSN KHIT THUENG MUANG LAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>242</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNKhitThuengMuangLao.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNLomNao.jpg"
+ hdImg="https://i.malimarcdn.com/SSNLomNaoHD.jpg">
+<id>ssn_lom_nao21349</id>
+<title>SSN LOM NAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>229</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNLomNao.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNLumBanSok.jpg"
+ hdImg="https://i.malimarcdn.com/SSNLumBanSokHD.jpg">
+<id>ssn_lum_ban_sok21346</id>
+<title>SSN LUM BAN SOK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>260</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNLumBanSok.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNMangPhou.jpg"
+ hdImg="https://i.malimarcdn.com/SSNMangPhouHD.jpg">
+<id>ssn_mang_phou21341</id>
+<title>SSN MANG PHOU</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>2998</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNMangPhou.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNMiaAiyNgarm.jpg"
+ hdImg="https://i.malimarcdn.com/SSNMiaAiyNgarmHD.jpg">
+<id>ssn_mia_aiy_ngarm21343</id>
+<title>SSN MIA AIY NGARM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>336</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNMiaAiyNgarm.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNNamSongSee.jpg"
+ hdImg="https://i.malimarcdn.com/SSNNamSongSeeHD.jpg">
+<id>ssn_nam_song_see21357</id>
+<title>SSN NAM SONG SEE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>260</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNNamSongSee.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNNgarmSaoVungVieng.jpg"
+ hdImg="https://i.malimarcdn.com/SSNNgarmSaoVungViengHD.jpg">
+<id>ssn_ngarm_sao_vung_vieng21350</id>
+<title>SSN NGARM SAO VUNG VIENG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>238</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNNgarmSaoVungVieng.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNNokKhaoLuemKhone.jpg"
+ hdImg="https://i.malimarcdn.com/SSNNokKhaoLuemKhoneHD.jpg">
+<id>ssn_nok_khao_luem_khone21356</id>
+<title>SSN NOK KHAO LUEM KHONE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>252</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNNokKhaoLuemKhone.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNPakSeDanNgarm.jpg"
+ hdImg="https://i.malimarcdn.com/SSNPakSeDanNgarmHD.jpg">
+<id>ssn_pak_se_dan_ngarm21344</id>
+<title>SSN PAK SE DAN NGARM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>243</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNPakSeDanNgarm.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNSaoTaiDamLumTumPan.jpg"
+ hdImg="https://i.malimarcdn.com/SSNSaoTaiDamLumTumPanHD.jpg">
+<id>ssn_sao_tai_dam_lum_tum_pan21345</id>
+<title>SSN SAO TAI DAM LUM TUM PAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>304</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNSaoTaiDamLumTumPan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNThamKhaoSaoVientiane.jpg"
+ hdImg="https://i.malimarcdn.com/SSNThamKhaoSaoVientianeHD.jpg">
+<id>ssn_tham_khao_sao_vientiane21348</id>
+<title>SSN THAM KHAO SAO VIENTIANE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>255</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNThamKhaoSaoVientiane.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThiewThuaMuangLao.jpg"
+ hdImg="https://i.malimarcdn.com/ThiewThuaMuangLaoHD.jpg">
+<id>ssn_thiew_thua_muang_lao21353</id>
+<title>SSN THIEW THUA MUANG LAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>248</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNThiewThuaMuangLao.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YaLuemBanHao.jpg"
+ hdImg="https://i.malimarcdn.com/YaLuemBanHaoHD.jpg">
+<id>ssn_ya_luem_ban_hao21358</id>
+<title>SSN YA LUEM BAN HAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>238</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNYaLuemBanHao.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SSNYarkPenYoungLaiy.jpg"
+ hdImg="https://i.malimarcdn.com/SSNYarkPenYoungLaiyHD.jpg">
+<id>ssn_yark_pen_young_laiy21347</id>
+<title>SSN YARK PEN YOUNG LAIY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>266</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Oct-2022</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SSNYarkPenYoungLaiy.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PealJai20.jpg"
+ hdImg="https://i.malimarcdn.com/PealJai20HD.jpg">
+<title>PEAL JAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Nov-2020 with 1  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PealJai20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Phone3.jpg"
+ hdImg="https://i.malimarcdn.com/Phone3HD.jpg">
+<id>hak_boll_somvang16574</id>
+<title>HAK BOLL SOMVANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>222</length>
+<PlayerBG></PlayerBG>
+<releaseDate>15-Oct-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Phonesavanh Misisavath</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/Phone3.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Phone6.jpg"
+ hdImg="https://i.malimarcdn.com/Phone6HD.jpg">
+<id>nong_leum_sanya16577</id>
+<title>NONG LEUM SANYA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>262</length>
+<PlayerBG></PlayerBG>
+<releaseDate>15-Oct-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Phonesavanh Misisavath</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/Phone6.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Phone4.jpg"
+ hdImg="https://i.malimarcdn.com/Phone4HD.jpg">
+<id>ouay_phone_veeva16575</id>
+<title>OUAY PHONE VEEVA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>224</length>
+<PlayerBG></PlayerBG>
+<releaseDate>15-Oct-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Phonesavanh Misisavath</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/Phone4.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Phone2.jpg"
+ hdImg="https://i.malimarcdn.com/Phone2HD.jpg">
+<id>sieng_hong_jak_pou_koy16573</id>
+<title>SIENG HONG JAK POU KOY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>233</length>
+<PlayerBG></PlayerBG>
+<releaseDate>15-Oct-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Phonesavanh Misisavath</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/Phone2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Phone1.jpg"
+ hdImg="https://i.malimarcdn.com/Phone1HD.jpg">
+<id>songsane_mae_hang16572</id>
+<title>SONGSANE MAE HANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>263</length>
+<PlayerBG></PlayerBG>
+<releaseDate>15-Oct-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Phonesavanh Misisavath</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/Phone1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Phone5.jpg"
+ hdImg="https://i.malimarcdn.com/Phone5HD.jpg">
+<id>thuan_sao_ban_hao16576</id>
+<title>THUAN SAO BAN HAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>250</length>
+<PlayerBG></PlayerBG>
+<releaseDate>15-Oct-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Phonesavanh Misisavath</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/Phone5.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BorPenNyang.jpg"
+ hdImg="https://i.malimarcdn.com/BorPenNyangHD.jpg">
+<id>bor_pen_yang12861</id>
+<title>BOR PEN YANG</title>
+<titlel>ບໍ່ເປັນຫຍັງ</titlel>
+<Mweb>Y</Mweb>
+<length>207</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/BorPenNyang.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CoverFaOunPhunKueKhounOumNong.jpg"
+ hdImg="https://i.malimarcdn.com/CoverFaOunPhunKueKhounOumNongHD.jpg">
+<id>far_oum_fon_khue_khon_oum_nong12855</id>
+<title>FAR OUM FON KHUE KHON OUM NONG</title>
+<titlel>ຟ້າອູ້ມຝົນຄືຄົນອູ້ມນ້ອງ</titlel>
+<Mweb>Y</Mweb>
+<length>255</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/CoverFaOunPhunKueKhounOumNong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HoungJaoSaoAttapue.jpg"
+ hdImg="https://i.malimarcdn.com/HoungJaoSaoAttapueHD.jpg">
+<id>huang_jao_sao_attapue12865</id>
+<title>HUANG JAO SAO ATTAPUE</title>
+<titlel>ຫວ່ງເຈົ້າຊາວອັດຕະປື</titlel>
+<Mweb>Y</Mweb>
+<length>258</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/HoungJaoSaoAttapue.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhounThiTeukLeum.jpg"
+ hdImg="https://i.malimarcdn.com/KhounThiTeukLeumHD.jpg">
+<id>khoun_thi_teuk_leum12867</id>
+<title>KHOUN THI TEUK LEUM</title>
+<titlel>ຄົນທີຖຶກລືມ</titlel>
+<Mweb>Y</Mweb>
+<length>267</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KhounThiTeukLeum.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhvamNaiJai.jpg"
+ hdImg="https://i.malimarcdn.com/KhvamNaiJaiHD.jpg">
+<id>khuam_nai_jai12868</id>
+<title>KHUAM NAI JAI</title>
+<titlel>ຄວາມໃນໃຈ</titlel>
+<Mweb>Y</Mweb>
+<length>265</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KhvamNaiJai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CoverKodJubLoubKham.jpg"
+ hdImg="https://i.malimarcdn.com/CoverKodJubLoubKhamHD.jpg">
+<id>kod_jub_loub_kham12862</id>
+<title>KOD JUB LOUB KHAM</title>
+<titlel>ກອດຈູບລູບຄໍາ</titlel>
+<Mweb>Y</Mweb>
+<length>201</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/CoverKodJubLoubKham.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrakThatluang450Pee.jpg"
+ hdImg="https://i.malimarcdn.com/PrakThatluang450PeeHD.jpg">
+<id>pra_thatluang_450_pee12869</id>
+<title>PRA THATLUANG 450 PEE</title>
+<titlel>ພຣະທາດຫຼວງ450ປີ</titlel>
+<Mweb>Y</Mweb>
+<length>265</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/PrakThatluang450Pee.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaoThoungLuangLuemNaMia.jpg"
+ hdImg="https://i.malimarcdn.com/SaoThoungLuangLuemNaMiaHD.jpg">
+<id>sao_thoung_luang_luem_na_mia12871</id>
+<title>SAO THOUNG LUANG LUEM NA MIA</title>
+<titlel>ສາວທົົ່ງຫຼົງລືມນາ</titlel>
+<Mweb>Y</Mweb>
+<length>282</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SaoThoungLuangLuemNaMia.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CoverSayNenHourJai.jpg"
+ hdImg="https://i.malimarcdn.com/CoverSayNenHourJaiHD.jpg">
+<id>say_naen_houa_jai12863</id>
+<title>SAY NAEN HOUA JAI</title>
+<titlel>ສາຍແນນຫົວໃຈ</titlel>
+<Mweb>Y</Mweb>
+<length>234</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/CoverSayNenHourJai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SongHeangJaiPaiAttapue.jpg"
+ hdImg="https://i.malimarcdn.com/SongHeangJaiPaiAttapueHD.jpg">
+<id>song_heang_jai_pai_attapue12872</id>
+<title>SONG HEANG JAI PAI ATTAPUE</title>
+<titlel>ສົ່ງແຮງໃຈໄປອັດຕະປື</titlel>
+<Mweb>Y</Mweb>
+<length>283</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SongHeangJaiPaiAttapue.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CoverSangDaiSangLev.jpg"
+ hdImg="https://i.malimarcdn.com/CoverSangDaiSangLevHD.jpg">
+<id>sung_dai_sung_leo12870</id>
+<title>SUNG DAI SUNG LEO</title>
+<titlel>ຊັງໄດ້ຊັງແລ້ວ</titlel>
+<Mweb>Y</Mweb>
+<length>277</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SangDaiSangLev.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Coverwhenyou.jpg"
+ hdImg="https://i.malimarcdn.com/CoverwhenyouHD.jpg">
+<id>when_you_say_nothing_at_all12864</id>
+<title>WHEN YOU SAY NOTHING AT ALL</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>267</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Oct-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/Coverwhenyou.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NamTaYodYungKodLike.jpg"
+ hdImg="https://i.malimarcdn.com/NamTaYodYungKodLikeHD.jpg">
+<id>nam_ta_yod_yung_kod_like12394</id>
+<title>NAM TA YOD YUNG KOD LIKE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>260</length>
+<PlayerBG></PlayerBG>
+<releaseDate>23-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/NamTaYodYungKodLike.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Perfect.jpg"
+ hdImg="https://i.malimarcdn.com/PerfectHD.jpg">
+<id>perfect12372</id>
+<title>PERFECT</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>273</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/PerFect.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/XangVa.jpg"
+ hdImg="https://i.malimarcdn.com/XangVaHD.jpg">
+<id>xang_va10452</id>
+<title>XANG VA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>257</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/XangVa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BounPhaLa.jpg"
+ hdImg="https://i.malimarcdn.com/BounPhaLaHD.jpg">
+<id>boun_pha_la11827</id>
+<title>BOUN PHA LA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>281</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/BounPhaLa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PakSeDaenNgam.jpg"
+ hdImg="https://i.malimarcdn.com/PakSeDaenNgamHD.jpg">
+<id>pak_se_daen_ngam10451</id>
+<title>PAK SE DAEN NGAM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>211</length>
+<PlayerBG></PlayerBG>
+<releaseDate>11-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/PakSeDaenNgam.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HorMokHuakPaiFakPa.jpg"
+ hdImg="https://i.malimarcdn.com/HorMokHuakPaiFakPaHD.jpg">
+<id>hor_mok_huak_pai_fak_pa1279</id>
+<title>HOR MOK HUAK PAI FAK PA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>210</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/HorMokHuakPaiFakPa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhadTherKhadJai.jpg"
+ hdImg="https://i.malimarcdn.com/KhadTherKhadJaiHD.jpg">
+<id>khad_ther_khad_jai12285</id>
+<title>KHAD THER KHAD JAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>211</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KhadTherKhadJai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhiengSobTa.jpg"
+ hdImg="https://i.malimarcdn.com/PhiengSobTaHD.jpg">
+<id>phieng_sob_ta12281</id>
+<title>PHIENG SOB TA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>257</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/PhiengSobTa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YouLetMeDown.jpg"
+ hdImg="https://i.malimarcdn.com/YouLetMeDownHD.jpg">
+<id>you_let_me_down10622</id>
+<title>YOU LET ME DOWN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>283</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Jul-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/YouLetMeDown.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThatLuangMingMaung.jpg"
+ hdImg="https://i.malimarcdn.com/ThatLuangMingMaungHD.jpg">
+<id>that_luang_ming_maung11859</id>
+<title>THAT LUANG MING MAUNG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>279</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/ThatLuangMingMaung.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BaoXiengKhouangKhoiFan.jpg"
+ hdImg="https://i.malimarcdn.com/BaoXiengKhouangKhoiFanHD.jpg">
+<id>bao_xieng_khouang_khoi_fan11818</id>
+<title>BAO XIENG KHOUANG KHOI FAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>217</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/BaoXiengKhouangKhoiFan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HuamJaiVaiPhaThatLuang.jpg"
+ hdImg="https://i.malimarcdn.com/HuamJaiVaiPhaThatLuangHD.jpg">
+<id>huam_jai_vai_pha_that_luang11819</id>
+<title>HUAM JAI VAI PHA THAT LUANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>291</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/HuamJaiVaiPhaThatLuang.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JutNueng.jpg"
+ hdImg="https://i.malimarcdn.com/JutNuengHD.jpg">
+<id>jut_nueng11820</id>
+<title>JUT NUENG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>291</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/JutNueng.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhaoHormSangThong.jpg"
+ hdImg="https://i.malimarcdn.com/KhaoHormSangThongHD.jpg">
+<id>khao_horm_sang_thong11821</id>
+<title>KHAO HORM SANG THONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>247</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KhaoHormSangThong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaSaoThong.jpg"
+ hdImg="https://i.malimarcdn.com/LaSaoThongHD.jpg">
+<id>la_sao_thong11822</id>
+<title>LA SAO THONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>267</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/LaSaoThong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LuemNongBrDai.jpg"
+ hdImg="https://i.malimarcdn.com/LuemNongBrDaiHD.jpg">
+<id>luem_nong_br_dai11823</id>
+<title>LUEM NONG BR DAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>267</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/LuemNongBrDai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NamThuamThinPhia.jpg"
+ hdImg="https://i.malimarcdn.com/NamThuamThinPhiaHD.jpg">
+<id>nam_thuam_thin_phia11824</id>
+<title>NAM THUAM THIN PHIA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>257</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/NamThuamThinPhia.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OukKhounKaiBan.jpg"
+ hdImg="https://i.malimarcdn.com/OukKhounKaiBanHD.jpg">
+<id>ouk_khoun_kai_ban11825</id>
+<title>OUK KHOUN KAI BAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>282</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/OukKhounKaiBan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaNeNakKhonLuang.jpg"
+ hdImg="https://i.malimarcdn.com/SaNeNakKhonLuangHD.jpg">
+<id>sa_ne_nak_khon_luang11826</id>
+<title>SA NE NAK KHON LUANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>289</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SaNeNakKhonLuang.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThatLuangPuangZon.jpg"
+ hdImg="https://i.malimarcdn.com/ThatLuangPuangZonHD.jpg">
+<id>that_luang_puang_zon11828</id>
+<title>THAT LUANG PUANG ZON</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>325</length>
+<PlayerBG></PlayerBG>
+<releaseDate>13-Mar-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/ThatLuangPuangZon.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EuayHukNong.jpg"
+ hdImg="https://i.malimarcdn.com/EuayHukNongHD.jpg">
+<id>euay_huk_nong12318</id>
+<title>EUAY HUK NONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>211</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/EuayHukNong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BanPhoneThiFungJai.jpg"
+ hdImg="https://i.malimarcdn.com/BanPhoneThiFungJaiHD.jpg">
+<id>ban_phone_thi_fung_jai10617</id>
+<title>BAN PHONE THI FUNG JAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>247</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/BanPhoneThiFungJai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhamVaJonKhueHedPhonThiSiaHuk.jpg"
+ hdImg="https://i.malimarcdn.com/KhamVaJonKhueHedPhonThiSiaHukHD.jpg">
+<id>kham_va_jon_khue_hed_phon_thi_sia_huk10616</id>
+<title>KHAM VA JON KHUE HED PHON THI SIA HUK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>247</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KhamVaJonKhueHedPhonThiSiaHuk.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhonJonThonSam.jpg"
+ hdImg="https://i.malimarcdn.com/KhonJonThonSamHD.jpg">
+<id>khon_jon_thon_sam10619</id>
+<title>KHON JON THON SAM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>305</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KhonJonThonSam.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiHukPhaiHaiKhueAiy.jpg"
+ hdImg="https://i.malimarcdn.com/SiHukPhaiHaiKhueAiyHD.jpg">
+<id>si_huk_phai_hai_khue_aiy10618</id>
+<title>SI HUK PHAI HAI KHUE AIY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>267</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SiHukPhaiHaiKhueAiy.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TuaHaiTaiyAiyKaYungHuk.jpg"
+ hdImg="https://i.malimarcdn.com/TuaHaiTaiyAiyKaYungHukHD.jpg">
+<id>tua_hai_taiy_aiy_ka_yung_huk10621</id>
+<title>TUA HAI TAIY AIY KA YUNG HUK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>246</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/TuaHaiTaiyAiyKaYungHuk.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KangKhvangKhor.jpg"
+ hdImg="https://i.malimarcdn.com/KangKhvangKhorHD.jpg">
+<id>kang_khvang_khor10586</id>
+<title>KANG KHVANG KHOR</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>263</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KangKhvangKhor.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhonViVa.jpg"
+ hdImg="https://i.malimarcdn.com/PhonViVaHD.jpg">
+<id>phon_vi_va10576</id>
+<title>PHON VI VA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>262</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/PhonViVa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhuoPaiAoDer.jpg"
+ hdImg="https://i.malimarcdn.com/PhuoPaiAoDerHD.jpg">
+<id>phuo_pai_ao_der10577</id>
+<title>PHUO PAI AO DER</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>320</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/PhuaPhaiAoPaiDer.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PouChan.jpg"
+ hdImg="https://i.malimarcdn.com/PouChanHD.jpg">
+<id>pou_chan10578</id>
+<title>POU CHAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>259</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/PouChan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaoHanNoy.jpg"
+ hdImg="https://i.malimarcdn.com/SaoHanNoyHD.jpg">
+<id>sao_han_noy10579</id>
+<title>SAO HAN NOY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>198</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SaoHanNoy.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaoLongJaeng.jpg"
+ hdImg="https://i.malimarcdn.com/SaoLongJaengHD.jpg">
+<id>sao_long_jaeng10583</id>
+<title>SAO LONG JAENG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>245</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SaoLongJaeng.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaoNaPhaVaHuk.jpg"
+ hdImg="https://i.malimarcdn.com/SaoNaPhaVaHukHD.jpg">
+<id>sao_na_pha_va_huk10582</id>
+<title>SAO NA PHA VA HUK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>263</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SaoNaPhaVaHuk.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SeauKhiewTiHuk.jpg"
+ hdImg="https://i.malimarcdn.com/SeauKhiewTiHukHD.jpg">
+<id>seau_khiew_ti_huk10580</id>
+<title>SEAU KHIEW TI HUK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>224</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SeauKhiewTiHuk.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangKhaen.jpg"
+ hdImg="https://i.malimarcdn.com/SiangKhaenHD.jpg">
+<id>siang_khaen10581</id>
+<title>SIANG KHAEN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>210</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SiangKhaen.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaDonJonJoy.jpg"
+ hdImg="https://i.malimarcdn.com/ThaDonJonJoyHD.jpg">
+<id>tha_don_jon_joy10584</id>
+<title>THA DON JON JOY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>266</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/ThaDonJonJoy.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThimAiySa.jpg"
+ hdImg="https://i.malimarcdn.com/ThimAiySaHD.jpg">
+<id>thim_aiy_sa10585</id>
+<title>THIM AIY SA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>293</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/ThimAiySa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YaLuemSanYa.jpg"
+ hdImg="https://i.malimarcdn.com/YaLuemSanYaHD.jpg">
+<id>ya_luem_san_ya10587</id>
+<title>YA LUEM SAN YA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>244</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Sep-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/YaLuemSanYa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhorPhiengMeeHaoSongKhon.jpg"
+ hdImg="https://i.malimarcdn.com/KhorPhiengMeeHaoSongKhonHD.jpg">
+<id>khor_phieng_mee_hao_song_khon10471</id>
+<title>KHOR PHIENG MEE HAO SONG KHON</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>257</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KhorPhiengMeeHaoSongKhon.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MuanThaeBarnHao.jpg"
+ hdImg="https://i.malimarcdn.com/MuanThaeBarnHaoHD.jpg">
+<id>muan_thae_barn_hao10453</id>
+<title>MUAN THAE BARN HAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>235</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/MuanThaeBarnHao.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaoPhouThaiNgaoJai.jpg"
+ hdImg="https://i.malimarcdn.com/SaoPhouThaiNgaoJaiHD.jpg">
+<id>sao_phou_thai_ngao_jai10472</id>
+<title>SAO PHOU THAI NGAO JAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>322</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/SaoPhouThaiNgaoJai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhamSunYhaKhongBaoSumNuea.jpg"
+ hdImg="https://i.malimarcdn.com/KhamSunYhaKhongBaoSumNueaHD.jpg">
+<id>kham_sun_yha_khong_bao_sum_nuea10455</id>
+<title>KHAM SUN YHA KHONG BAO SUM NUEA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>271</length>
+<PlayerBG></PlayerBG>
+<releaseDate>17-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/KhamSunYhaKhongBaoSumNuea.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PostSodPaXodPhai.jpg"
+ hdImg="https://i.malimarcdn.com/PostSodPaXodPhaiHD.jpg">
+<id>post_sod_pa_xod_phai10463</id>
+<title>POST SOD PA XOD PHAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>278</length>
+<PlayerBG></PlayerBG>
+<releaseDate>17-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Music/PostSodPaXodPhai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LAOPOP.jpg"
+ hdImg="https://i.malimarcdn.com/LAOPOPHD.jpg">
+<title>LAO POP</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LAOPOP.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaoAlphabetSong.jpg"
+ hdImg="https://i.malimarcdn.com/LaoAlphabetSongHD.jpg">
+<id>lao_alphabet_song7026</id>
+<title>LAO ALPHABET SONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>240</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/LaoAlphabetSong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhonesavanhMisasivath.jpg"
+ hdImg="https://i.malimarcdn.com/PhonesavanhMisasivathHD.jpg">
+<title>PHONESAVANH PHETMEUANGTHONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Aug-2014 with 9  Episode(s) PLAY:  THU  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhonesavanhMisasivath.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Chitdara.jpg"
+ hdImg="https://i.malimarcdn.com/ChitdaraHD.jpg">
+<title>SENGSOUVANH CHITDARA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Mar-2014 with 3  Episode(s) PLAY:  WED, THU, SAT  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Chitdara.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/mukdawan.jpg"
+ hdImg="https://i.malimarcdn.com/mukdawanHD.jpg">
+<title>MUK DAWAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Mar-2014 with 6  Episode(s) PLAY: MON  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/mukdawan.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

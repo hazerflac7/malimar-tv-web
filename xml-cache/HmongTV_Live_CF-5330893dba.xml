@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>2</itemCount>
+<totalCount>2</totalCount>
+<item sdImg="https://i.malimarcdn.com/hm/cvahmong.jpg"
+ hdImg="https://i.malimarcdn.com/hm/cvahmongHD.jpg">
+<id>cva_hmong_fresno</id>
+<title>CVA HMONG FRESNO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor>Hmong TV</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Hmong Fresno Broadcasting</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hmongstartv.jpg"
+ hdImg="https://i.malimarcdn.com/hmongstartvHD.jpg">
+<id>hmong_star_tv</id>
+<title>HMONG STAR TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor>Lao TV</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Hmong TV Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>HD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>HD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>8</itemCount>
+<totalCount>8</totalCount>
+<item sdImg="https://i.malimarcdn.com/ohmuanglaolive.jpg"
+ hdImg="https://i.malimarcdn.com/ohmuanglaoliveHD.jpg">
+<id>oh_muang_lao_live</id>
+<title>OH MUANG LAO LIVE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live from Vientiane Laos.</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>HD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>HD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/pstv.jpg"
+ hdImg="https://i.malimarcdn.com/pstvHD.jpg">
+<id>lao_pstv</id>
+<title>LAO PSTV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Lao Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/laliveedge00/laopstv.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/lntv1A.jpg"
+ hdImg="https://i.malimarcdn.com/lntv1AHD.jpg">
+<id>lao_national_tv_1</id>
+<title>LAO NATIONAL TV 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Lao Channel</synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/laliveedge00/lntv1.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/lntv3A.jpg"
+ hdImg="https://i.malimarcdn.com/lntv3AHD.jpg">
+<id>lao_national_tv_3</id>
+<title>LAO NATIONAL TV 3</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Lao Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/laliveedge00/lntv3.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/vte9.jpg"
+ hdImg="https://i.malimarcdn.com/vte9HD.jpg">
+<id>vte9</id>
+<title>VTE9</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>10800</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>24 Hours Lao Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/laliveedge00/vte9.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/latv7.jpg"
+ hdImg="https://i.malimarcdn.com/latv7HD.jpg">
+<id>latv7</id>
+<title>LATV7</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>10800</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Lao Channel</synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/laliveedge00/latv7.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaoRFA25.jpg"
+ hdImg="https://i.malimarcdn.com/LaoRFA25HD.jpg">
+<title>RFA LAOS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Mar-2025 with 85  Episode(s) PLAY: Everyday  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaoRFA25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/VOALao25.jpg"
+ hdImg="https://i.malimarcdn.com/VOALao25HD.jpg">
+<title>VOA LAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Mar-2025 with 71  Episode(s) PLAY: Everyday  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VOALao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

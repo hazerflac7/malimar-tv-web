@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>22</itemCount>
+<totalCount>22</totalCount>
+<item>
+<title>THAI LIVE TV | PREMIUM</title>
+<titlel>ทีวีไทย | พรีเมี่ยม</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Thai_LiveTV_Premium_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>THAI DRAMA NEW RELEASE</title>
+<titlel>ละครไทย | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Drama_Thai_New_Episodes_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>THAI DRAMAS</title>
+<titlel>ละครไทย</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Thai_Dramas_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>WORLD DRAMA NEW RELEASE</title>
+<titlel>ละครโลก | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Drama_World_New_Episodes_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>WORLD DRAMAS</title>
+<titlel>ละครโลก</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/World_Dramas_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>NEW RELEASE</title>
+<titlel>ที่เพิ่มเข้ามาเมื่อเร็ว ๆ นี้</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Recently_Added_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>THAI MOVIE NEW RELEASE</title>
+<titlel>ภาพยนตร์ใหม่ที่เพิ่งเพิ่ม</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Movie_New_Arrivals_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MOVIES</title>
+<titlel>ฟิล์ม</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Movies_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>SITCOMS NEW RELEASE</title>
+<titlel>ซิทคอม | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Sitcom_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>SITCOMS</title>
+<titlel>ซิทคอม</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Sitcoms_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>NEWS NEW RELEASE</title>
+<titlel>ข่าว | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/News_New_Episodes_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>VARIETY SHOWS NEW RELEASE</title>
+<titlel>รายการวาไรตี้ | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Variety_New_Episodes_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>VARIETY SHOWS</title>
+<titlel>รายการวาไรตี้</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Variety_Shows_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>FOOD AND TRAVEL NEW RELEASE</title>
+<titlel>อาหารและการเดินทาง</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Food_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>FOOD AND TRAVEL</title>
+<titlel>อาหารและการเดินทาง</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Food_and_Travel_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>GAME SHOWS NEW RELEASE</title>
+<titlel>เกมโชว์ | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Game_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>LOCAL | THEATER</title>
+<titlel>ท้องถิ่น | โรงละคร</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Local_Theater_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>SPORTS</title>
+<titlel>กีฬา</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Sport_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>CARTOONS</title>
+<titlel>การ์ตูน</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Cartoon_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>DOCUMENTARY AND EDUCATION</title>
+<titlel>สารคดีและการศึกษา</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Documentary_and_Education_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>MUSIC</title>
+<titlel>เพลง</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Music_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>OTHER MENUS</title>
+<titlel>เมนูอื่น</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Other_Menus_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+</feed>

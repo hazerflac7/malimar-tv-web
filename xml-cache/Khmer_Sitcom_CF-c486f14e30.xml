@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>22</itemCount>
+<totalCount>22</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2026/SocolaTeam26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/SocolaTeam26HD.jpg">
+<title>SOCOLA TEAM</title>
+<titlel>ក្រុមសូកូឡា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Sep-2026 with 28  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SocolaTeam26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/FunnyHouse26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/FunnyHouse26HD.jpg">
+<title>FUNNY HOUSE</title>
+<titlel>កំប្លែង ផ្ទះសំណើច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 71  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FunnyHouse26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KomPlengSrokSre26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KomPlengSrokSre26HD.jpg">
+<title>KOM PLENG SROK SRE</title>
+<titlel>កំប្លែងស្រុកស្រែ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 37  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KomPlengSrokSre26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/IdolPtesLek1PtesLek2026.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/IdolPtesLek1PtesLek2026HD.jpg">
+<title>IDOL PTES LEK 1 PTES LEK 2</title>
+<titlel>កំប្លែង អាយឌុលផ្ទះលេខ១ ផ្ទះលេខ២</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 34  Episode(s) PLAY:  TUE, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/IdolPtesLek1PtesLek2026.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/MerlSerchMerlSerch26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/MerlSerchMerlSerch26HD.jpg">
+<title>MERL SERCH MERL SERCH</title>
+<titlel>កំប្លែង មើលសើច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 11  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MerlSerchMerlSerch26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ChasChouChot26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ChasChouChot26HD.jpg">
+<title>CHAS CHOU CHOT KHMER</title>
+<titlel>រឿង ចាស់ជួរសត់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Sep-2026 with 5  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChasChouChot26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ChomNomSomNerch26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ChomNomSomNerch26HD.jpg">
+<title>CHOM NOM SOM NERCH</title>
+<titlel>កំប្លែង ជំនុំសំណើច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Sep-2026 with 17  Episode(s) PLAY:  THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChomNomSomNerch26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TosReanPheasaS4.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TosReanPheasaS4HD.jpg">
+<title>TOS REAN PHEASA S 4</title>
+<titlel>កម្មវិធី តោះរៀនភាសា រដូវកាលទី៤</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-Sep-2026 with 16  Episode(s) PLAY:  TUE  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TosReanPheasaS4.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TikKreoungFunFunChallenge26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TikKreoungFunFunChallenge26HD.jpg">
+<title>TIK KREOUNG FUN FUN CHALLENGE</title>
+<titlel>កំប្លែង ទឺកគ្រឿងFUN FUN CHALLENGE</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Aug-2026 with 97  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TikKreoungFunFunChallenge26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/SomneuchBoostrong26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/SomneuchBoostrong26HD.jpg">
+<title>SOMNEUCH BOOSTRONG</title>
+<titlel>កំប្លែង សំណើចប៊ូសស្រ្តង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Aug-2026 with 11  Episode(s) PLAY:  WED, FRI, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SomneuchBoostrong26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TverSreDealKe26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TverSreDealKe26HD.jpg">
+<title>TVER SRE DEAL KE KHMER</title>
+<titlel>រឿង ធ្វើស្រែដែលគេ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Aug-2026 with 8  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TverSreDealKe26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KumnumChomnongDaiSongsaiMeba26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KumnumChomnongDaiSongsaiMeba26HD.jpg">
+<title>KUMNUM CHOMNONG DAI SONGSAI MEBA KHMER</title>
+<titlel>រឿង គំនុំចំណងដៃសង្ស័យមេបា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Jun-2026 with 7  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KumnumChomnongDaiSongsaiMeba26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KrusaTikKreoung26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KrusaTikKreoung26HD.jpg">
+<title>KRUSA TIK KREOUNG</title>
+<titlel>កំប្លែង គ្រួសារទឹកគ្រឿង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Jun-2026 with 24  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KrusaTikKreoung26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/LaughLounge25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/LaughLounge25HD.jpg">
+<title>LAUGH LOUNGE</title>
+<titlel>កំប្លែង កន្លែងលេងសើច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-May-2026 with 17  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaughLounge25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BrosKhanteySreyNoamReung26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BrosKhanteySreyNoamReung26HD.jpg">
+<title>BROS KHANTEY SREY NOAM REUNG KHMER</title>
+<titlel>រឿង ប្រុសខន្តីស្រីនាំរឿង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Apr-2026 with 8  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BrosKhanteySreyNoamReung26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/MeaNhomEchingMen26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/MeaNhomEchingMen26HD.jpg">
+<title>MEA NHOM ECHING MEN KHMER</title>
+<titlel>រឿង ម៉ែខ្ញុំអញ្ចឹងមែន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Feb-2026 with 8  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MeaNhomEchingMen26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/ChongSronokOmpulTokDolKlun25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/ChongSronokOmpulTokDolKlun25HD.jpg">
+<title>CHONG SRONOK OMPUL TOK DOL KLUN KHMER</title>
+<titlel>រឿង ចង់ស្រណុកអំពលទុក្ខដល់ខ្លួន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Jan-2026 with 9  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChongSronokOmpulTokDolKlun25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/IdolFunHouse26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/IdolFunHouse26HD.jpg">
+<title>IDOL FUN HOUSE</title>
+<titlel>កម្មវិធី ផ្ទះសប្បាយជាមួយអាយដុល</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jan-2026 with 1  Episode(s) PLAY:  FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/IdolFunHouse26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/SomneuchKakSeKam25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/SomneuchKakSeKam25HD.jpg">
+<title>SOMNEUCH KAK SE KAM</title>
+<titlel>កំប្លែង សំណើចកសិកម្ម</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Nov-2025 with 14  Episode(s) PLAY: MON, WED, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SomneuchKakSeKam25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/OyTeaDakKeuDenhKon25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/OyTeaDakKeuDenhKon25HD.jpg">
+<title>OY TEA DAK KEU DENH KON KHMER</title>
+<titlel>រឿង អោយតែដាក់គឺដេញកូន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Mar-2025 with 5  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OyTeaDakKeuDenhKon25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KhmerKomphlengKuyKreum26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KhmerKomphlengKuyKreum26HD.jpg">
+<title>KHMER KOMPHLENG KUY KREUM</title>
+<titlel>កំប្លែងខ្មែរ កុយក្រឹម</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerKomphlengKuyKreum26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KhmerKomphlengPekmiKoreun26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KhmerKomphlengPekmiKoreun26HD.jpg">
+<title>KHMER KOMPHLENG PEKMI KOREUN</title>
+<titlel>កំប្លែងខ្មែរ ពាក់មីគ្រឿន</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerKomphlengPekmiKoreun26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

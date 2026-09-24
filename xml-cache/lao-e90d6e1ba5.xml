@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>11</itemCount>
+<totalCount>11</totalCount>
+<item>
+<title>LAO LIVE</title>
+<titlel>ຊ່ອງລາວສົດ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_LiveTV_Premium_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>LAO LIVE TV | FREE</title>
+<titlel>ຊ່ອງລາວຟຣີ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_LiveTV_Free_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>OH MUANG LAO</title>
+<titlel>ໂອ້ ເມືອງລາວ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Oh_Muang_Lao_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>LAO NEWS AND DOCUMENTARY</title>
+<titlel>ຂ່າວ ແລະ ສາລະຄະດີລາວ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_News_And_Doc_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>LAO MOVIE</title>
+<titlel>ຫນັງລາວ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_Movie_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>LAO BUDDHIST</title>
+<titlel>ลาวศาสนาพุทธ | ລາວ ສາສະຫນາພຸດ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_Buddhist_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>BUDDHIST SHOWS</title>
+<titlel>รายการพระ | ສາສະຫນາພູດໂຊ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Buddhist_Shows_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>LAO MUSIC</title>
+<titlel>ເພງລາວ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_Music_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>LAO POP MUSIC</title>
+<titlel>ເພງ ພ໊ອບ ລາວ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_Pop_Music_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>LAO SERIES</title>
+<titlel>ລະຄອນລາວ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_Series_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>MATURE MOVIES</title>
+<titlel>ผู้ใหญ่ภาพยนตร์</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Mature_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+</feed>

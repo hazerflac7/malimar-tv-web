@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>24</itemCount>
+<totalCount>24</totalCount>
+<item sdImg="https://i.malimarcdn.com/GoldenRings19.jpg"
+ hdImg="https://i.malimarcdn.com/GoldenRings19HD.jpg">
+<title>GOLDEN RINGS 2019</title>
+<titlel>แหวน 5 ท้าแสน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2019 with 176  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GoldenRings19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheLift5LanSathanFa19.jpg"
+ hdImg="https://i.malimarcdn.com/TheLift5LanSathanFa19HD.jpg">
+<title>THE LIFT 5 LAN SATHAN FA</title>
+<titlel>5ล้านสะท้านฟ้า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2019 with 128  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheLift5LanSathanFa19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CloningSingers19.jpg"
+ hdImg="https://i.malimarcdn.com/CloningSingers19HD.jpg">
+<title>CLONING SINGERS 2019</title>
+<titlel>เสียงซ่อนรูป</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2019 with 7  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CloningSingers19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GoldenMicrophone819.jpg"
+ hdImg="https://i.malimarcdn.com/GoldenMicrophone819HD.jpg">
+<title>GOLDEN MICROPHONE 8 2019</title>
+<titlel>ไมค์ทองคำ8</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 87  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GoldenMicrophone819.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JamuatNajor19.jpg"
+ hdImg="https://i.malimarcdn.com/JamuatNajor19HD.jpg">
+<title>JAMUAT NAJOR 2019</title>
+<titlel>จำอวดหน้าจอ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 51  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/JamuatNajor19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ManoVSMahachon19.jpg"
+ hdImg="https://i.malimarcdn.com/ManoVSMahachon19HD.jpg">
+<title>MANO VS MAHACHON 2019</title>
+<titlel>มโน VS มหาชน</titlel>
+<Mweb>N</Mweb>
+<description>Updated: 29-Dec-2019 with 4  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ManoVSMahachon19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Super10019.jpg"
+ hdImg="https://i.malimarcdn.com/Super10019HD.jpg">
+<title>SUPER 100 2019</title>
+<titlel>อัจฉะริยะเกินร้อย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Super10019.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheMoneyDrop19.jpg"
+ hdImg="https://i.malimarcdn.com/TheMoneyDrop19HD.jpg">
+<title>THE MONEY DROP 2019</title>
+<titlel>เกมแจกเงิน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 21  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheMoneyDrop19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WethiThongWethiThoe19.jpg"
+ hdImg="https://i.malimarcdn.com/WethiThongWethiThoe19HD.jpg">
+<title>WETHI THONG WETHI THOE 2019</title>
+<titlel>เวทีทองเวทีเธอ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2019 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WethiThongWethiThoe19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DavinciDek19.jpg"
+ hdImg="https://i.malimarcdn.com/DavinciDek19HD.jpg">
+<title>DAVINCI DEK 2019</title>
+<titlel>เด็กถอดรหัส</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2019 with 45  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DavinciDek19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DuanPhlengDangDaraThatWon19.jpg"
+ hdImg="https://i.malimarcdn.com/DuanPhlengDangDaraThatWon19HD.jpg">
+<title>DUAN PHLENG DANG DARA THAT WON 2019</title>
+<titlel>ดวลเพลงดัง ดาราท้าดวล</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2019 with 3  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DuanPhlengDangDaraThatWon19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhapLapNapBaeng19.jpg"
+ hdImg="https://i.malimarcdn.com/PhapLapNapBaeng19HD.jpg">
+<title>PHAP LAP NAP BAENG 2019</title>
+<titlel>ภาพลับนับแบงก์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2019 with 71  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhapLapNapBaeng19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ReTurn19.jpg"
+ hdImg="https://i.malimarcdn.com/ReTurn19HD.jpg">
+<title>RE TURN 2019</title>
+<titlel>ท้าพิสูจน์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2019 with 51  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReTurn19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TakeMeOutThailand19.jpg"
+ hdImg="https://i.malimarcdn.com/TakeMeOutThailand19HD.jpg">
+<title>TAKE ME OUT THAILAND 2019</title>
+<titlel>เทคมีเอ้าท์ไทยแลนด์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2019 with 50  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TakeMeOutThailand19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LukthungSuFat19.jpg"
+ hdImg="https://i.malimarcdn.com/LukthungSuFat19HD.jpg">
+<title>LUKTHUNG SU FAT 2019</title>
+<titlel>ลูกทุ่งสู้ฟัด</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2019 with 164  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LukthungSuFat19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WhoIsMyChef19.jpg"
+ hdImg="https://i.malimarcdn.com/WhoIsMyChef19HD.jpg">
+<title>WHO IS MY CHEF 2019</title>
+<titlel>โต๊ะนี้มีจอง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2019 with 44  Episode(s) PLAY:  FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WhoIsMyChef19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MyWifeIsASinger19.jpg"
+ hdImg="https://i.malimarcdn.com/MyWifeIsASinger19HD.jpg">
+<title>MY WIFE IS A SINGER 2019</title>
+<titlel>หลงเสียงเธอ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Dec-2019 with 43  Episode(s) PLAY:  WED, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MyWifeIsASinger19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KikDuNgoenLan19.jpg"
+ hdImg="https://i.malimarcdn.com/KikDuNgoenLan19HD.jpg">
+<title>KIK DU NGOEN LAN 2019</title>
+<titlel>กิ๊กดู๋ เงินล้าน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Dec-2019 with 51  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KikDuNgoenLan19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KingOfGamers19.jpg"
+ hdImg="https://i.malimarcdn.com/KingOfGamers19HD.jpg">
+<title>KING OF GAMERS 2019</title>
+<titlel>ซีซั่น 3</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Dec-2019 with 17  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KingOfGamers19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheVoice2019.jpg"
+ hdImg="https://i.malimarcdn.com/TheVoice2019HD.jpg">
+<title>THE VOICE 2019</title>
+<titlel>เดอะ วอยซ์ 2019</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Dec-2019 with 15  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheVoice2019.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HollyWoodGameNightThailand19.jpg"
+ hdImg="https://i.malimarcdn.com/HollyWoodGameNightThailand19HD.jpg">
+<title>HOLLY WOOD GAME NIGHT THAILAND 2019</title>
+<titlel>ฮอลลีวูดเกมไนท์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Dec-2019 with 39  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HollyWoodGameNightThailand19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuMaiKhraiSot19.jpg"
+ hdImg="https://i.malimarcdn.com/RuMaiKhraiSot19HD.jpg">
+<title>RU MAI KHRAI SOT 2019</title>
+<titlel>รู้ไหมใครโสด</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Dec-2019 with 47  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuMaiKhraiSot19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YutthakanKhayapNgueak19.jpg"
+ hdImg="https://i.malimarcdn.com/YutthakanKhayapNgueak19HD.jpg">
+<title>YUTTHAKAN KHAYAP NGUEAK 2019</title>
+<titlel>ยุทธการขยับเหงือก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Dec-2019 with 28  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YutthakanKhayapNgueak19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DuanPhlengChingThun19.jpg"
+ hdImg="https://i.malimarcdn.com/DuanPhlengChingThun19HD.jpg">
+<title>DUAN PHLENG CHING THUN 2019</title>
+<titlel>ดวลเพลงชิงทุน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Dec-2019 with 216  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DuanPhlengChingThun19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

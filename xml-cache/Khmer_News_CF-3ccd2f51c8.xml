@@ -1,0 +1,657 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>65</itemCount>
+<totalCount>65</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2026/Apsara11MinuteNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/Apsara11MinuteNews26HD.jpg">
+<title>APSARA 11 MINUTE NEWS</title>
+<titlel>ព័ត៌មាន១១នាទីពីអប្សារា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 101  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Apsara11MinuteNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ApsaraAfternoonNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ApsaraAfternoonNews26HD.jpg">
+<title>APSARA AFTERNOON NEWS</title>
+<titlel>ព័ត៌មានអប្សរាថ្ងៃត្រង់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ApsaraAfternoonNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ApsaraMorningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ApsaraMorningNews26HD.jpg">
+<title>APSARA MORNING NEWS</title>
+<titlel>ព័ត៌មានអប្សរាព្រឹកនេះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 203  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ApsaraMorningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ApsaraSportNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ApsaraSportNews26HD.jpg">
+<title>APSARA SPORT NEWS</title>
+<titlel>កីឡាល្ងាចនេះពីអប្សារា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 81  Episode(s) PLAY: MON, TUE, WED, THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ApsaraSportNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ApsaraTonightNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ApsaraTonightNews26HD.jpg">
+<title>APSARA TONIGHT NEWS</title>
+<titlel>ព័ត៌មានអប្សរាយប់នេះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ApsaraTonightNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BayonTVAfternoonNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BayonTVAfternoonNews26HD.jpg">
+<title>BAYON TV AFTERNOON NEWS</title>
+<titlel>បាយ័នដំណឹងពេលរសៀល</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BayonTVAfternoonNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BayonTVEveningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BayonTVEveningNews26HD.jpg">
+<title>BAYON TV EVENING NEWS</title>
+<titlel>បាយ័នដំណឹងពេលរសៀល</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 150  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BayonTVEveningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BayonTVMorningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BayonTVMorningNews26HD.jpg">
+<title>BAYON TV MORNING NEWS</title>
+<titlel>បាយ័នដំណឹងពេលព្រឹក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 386  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BayonTVMorningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVAfternoonTopStoryNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVAfternoonTopStoryNews26HD.jpg">
+<title>BTV AFTERNOON TOP STORY NEWS</title>
+<titlel>ព័ត៏មានពេលថ្ងៃត្រង់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVAfternoonTopStoryNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVEconomicsNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVEconomicsNews26HD.jpg">
+<title>BTV ECONOMICS NEWS</title>
+<titlel>ព័ត៌មានសេដ្ឋកិច្ច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 99  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVEconomicsNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVEveningTopStoryNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVEveningTopStoryNews26HD.jpg">
+<title>BTV EVENING TOP STORY NEWS</title>
+<titlel>ព័ត៏មានពេលល្ងាច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 180  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVEveningTopStoryNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVLocalNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVLocalNews26HD.jpg">
+<title>BTV LOCAL NEWS</title>
+<titlel>ព័ត៌មានក្នុងស្រុក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 73  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVLocalNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVNightNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVNightNews26HD.jpg">
+<title>BTV NIGHT NEWS</title>
+<titlel>ព័ត៏មានពេលយប់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 170  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVNightNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVSocialNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVSocialNews26HD.jpg">
+<title>BTV SOCIAL NEWS</title>
+<titlel>ព័ត៌មានសង្គម</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 87  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVSocialNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVSportNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVSportNews26HD.jpg">
+<title>BTV SPORT NEWS</title>
+<titlel>ព័ត៌មានកីឡា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 98  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVSportNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVSportTalk26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVSportTalk26HD.jpg">
+<title>BTV SPORT TALK</title>
+<titlel>ការពិភាក្សាអំពីកីឡា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 59  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVSportTalk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVTheWorldToNight26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVTheWorldToNight26HD.jpg">
+<title>BTV THE WORLD TO NIGHT</title>
+<titlel>ព័ត៌មានពិភពលោករាត្រីនេះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 70  Episode(s) PLAY: MON, TUE, WED, THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVTheWorldToNight26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTNEveningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTNEveningNews26HD.jpg">
+<title>CTN EVENING NEWS</title>
+<titlel>ស៊ីធីអិន ពត៏មានពេលល្ងាច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTNEveningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTNMorningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTNMorningNews26HD.jpg">
+<title>CTN MORNING NEWS</title>
+<titlel>ស៊ីធីអិន ពត៏មានពេលព្រឹក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 188  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTNMorningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTNNightNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTNNightNews26HD.jpg">
+<title>CTN NIGHT NEWS</title>
+<titlel>ស៊ីធីអិន ពត៏មានពេលល្ងាច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTNNightNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTV8EightMinutesBreakingNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTV8EightMinutesBreakingNews26HD.jpg">
+<title>CTV 8 EIGHT MINUTES BREAKING NEWS</title>
+<titlel>ព័ត៌មានទាន់ហេតុការណ៍ប្រាំបីនាទី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTV8EightMinutesBreakingNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTV8EveningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTV8EveningNews26HD.jpg">
+<title>CTV 8 EVENING NEWS</title>
+<titlel>ព័ត៏មានប៉ុស្ត៏លេខ៨ប្រចាំថ្ងៃ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 185  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTV8EveningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTV8MorningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTV8MorningNews26HD.jpg">
+<title>CTV 8 MORNING NEWS</title>
+<titlel>ព័ត៏មានប៉ុស្ត៏លេខ៨ពេលព្រឹក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTV8MorningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTV9EveningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTV9EveningNews26HD.jpg">
+<title>CTV 9 EVENING NEWS</title>
+<titlel>ព័ត៌មានពេលល្ងាចទូរទស្សន៍លេខ៩</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 186  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTV9EveningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/FacebookBreakingNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/FacebookBreakingNews26HD.jpg">
+<title>FACEBOOK BREAKING NEWS</title>
+<titlel>ព័ត៌មានថ្មីតាមបន្តាញហ្វេសប៊ុក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 129  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FacebookBreakingNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/HMFlashNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/HMFlashNews26HD.jpg">
+<title>HM FLASH NEWS</title>
+<titlel>ហង្សមាសព័ត៌មានថ្មី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HMFlashNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/HMMorningExpressNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/HMMorningExpressNews26HD.jpg">
+<title>HM MORNING EXPRESS NEWS</title>
+<titlel>ហង្សមាសព័ត៌មានពេលព្រឹក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 374  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HMMorningExpressNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/HMUpdatesTodayNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/HMUpdatesTodayNews26HD.jpg">
+<title>HM UPDATES TODAY NEWS</title>
+<titlel>ហង្សមាសព័ត៌មានថ្មីថ្ងៃនេះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 99  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HMUpdatesTodayNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/HoarasasBrochamThngai26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/HoarasasBrochamThngai26HD.jpg">
+<title>HOARASAS BROCHAM THNGAI</title>
+<titlel>អប្សរា ហោរាសាស្រ្តប្រចាំថ្ងៃ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HoarasasBrochamThngai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KhmerDailyNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KhmerDailyNews26HD.jpg">
+<title>KHMER DAILY NEWS</title>
+<titlel>ព័ត៌មានថ្មីប្រចាំថ្ងៃ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 252  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDailyNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/RFIDailyNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/RFIDailyNews26HD.jpg">
+<title>RFI DAILY NEWS</title>
+<titlel>ពត៏មានប្រចាំថ្ងៃវិទ្យុបារាំងអន្តរជាតិ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 266  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RFIDailyNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/RHMBreakingNightNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/RHMBreakingNightNews26HD.jpg">
+<title>RHM BREAKING NIGHT NEWS</title>
+<titlel>ព័ត៏មានពេលយប់រស្មីហង្សមាស</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RHMBreakingNightNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/RHMTheNoonFlashNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/RHMTheNoonFlashNews26HD.jpg">
+<title>RHM THE NOON FLASH NEWS</title>
+<titlel>រស្មីហង្សមាសព័ត៌មានថ្មីពេលថ្ងៃត្រង់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RHMTheNoonFlashNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TFANews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TFANews26HD.jpg">
+<title>TFA NEWS</title>
+<titlel>ទូរទស្សន៏អាស៊ីសេរី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 184  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TFANews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TownTVMorningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TownTVMorningNews26HD.jpg">
+<title>TOWN TV MORNING NEWS</title>
+<titlel>ទីក្រុងព័ត៌មានពេលព្រឺក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 188  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TownTVMorningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TV5EveningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TV5EveningNews26HD.jpg">
+<title>TV 5 EVENING NEWS</title>
+<titlel>ធីវី ៥ ព័ត៌មានពេលល្ងាច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TV5EveningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TV5MorningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TV5MorningNews26HD.jpg">
+<title>TV 5 MORNING NEWS</title>
+<titlel>ធីវី ៥ ព័ត៌មានរឿងរ៉ាវព្រឹកនេះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 197  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TV5MorningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TVKAfternoonNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TVKAfternoonNews26HD.jpg">
+<title>TVK AFTERNOON NEWS</title>
+<titlel>ព័ត៌មានពេលថ្ងៃត្រង់ ទទក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 171  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TVKAfternoonNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TVKEveningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TVKEveningNews26HD.jpg">
+<title>TVK EVENING NEWS</title>
+<titlel>ព័ត៌មានពេលល្ងាច ទទក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 178  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TVKEveningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TVKMorningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TVKMorningNews26HD.jpg">
+<title>TVK MORNING NEWS</title>
+<titlel>ព័ត៌មានពេលល្ងាច ទទក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 197  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TVKMorningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TVKNightNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TVKNightNews26HD.jpg">
+<title>TVK NIGHT NEWS</title>
+<titlel>ព័ត៌មានពេលល្ងាច ទទក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 179  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TVKNightNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/VODKhmerNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/VODKhmerNews26HD.jpg">
+<title>VOD KHMER NEWS</title>
+<titlel>ពត៏មានប្រចាំថ្ងៃ វី អូ ឌី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 186  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VODKhmerNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVHealthNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVHealthNews26HD.jpg">
+<title>BTV HEALTH NEWS</title>
+<titlel>ព័ត៌មានសុខភាព</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Sep-2026 with 57  Episode(s) PLAY: MON, TUE, WED, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVHealthNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/WomenRadioMorningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/WomenRadioMorningNews26HD.jpg">
+<title>WOMEN RADIO MORNING NEWS</title>
+<titlel>វិទ្យុស្រ្តីពេលព្រឹក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Sep-2026 with 100  Episode(s) PLAY: MON, TUE, WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WomenRadioMorningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/WomenRadioEveningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/WomenRadioEveningNews26HD.jpg">
+<title>WOMEN RADIO EVENING NEWS</title>
+<titlel>វិទ្យុស្រ្តីពេលល្ងាច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 172  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WomenRadioEveningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TV5LocalNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TV5LocalNews26HD.jpg">
+<title>TV 5 LOCAL NEWS</title>
+<titlel>ព័ត៌មានក្នុងប្រទេស</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 66  Episode(s) PLAY: MON, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TV5LocalNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTV8GoalZone26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTV8GoalZone26HD.jpg">
+<title>CTV 8 GOAL ZONE</title>
+<titlel>ព័ត៏មានប៉ុស្ត៏លេខ៨ប្រចាំថ្ងៃ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 72  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTV8GoalZone26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVSpecialTalk26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVSpecialTalk26HD.jpg">
+<title>BTV SPECIAL TALK</title>
+<titlel>កិច្ចពិភាក្សាពិសេស</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 17  Episode(s) PLAY:  THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVSpecialTalk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVTheWorldThisWeek26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVTheWorldThisWeek26HD.jpg">
+<title>BTV THE WORLD THIS WEEK</title>
+<titlel>ព័ត៌មានពិភពលោកសប្តាហ៏នេះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 17  Episode(s) PLAY:  FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVTheWorldThisWeek26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TownTVEveningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TownTVEveningNews26HD.jpg">
+<title>TOWN TV EVENING NEWS</title>
+<titlel>ទីក្រុងព័ត៌មានពេលព្រឺក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 74  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TownTVEveningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TV5SportWeekly26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TV5SportWeekly26HD.jpg">
+<title>TV 5 SPORT WEEKLY</title>
+<titlel>ទូរទស្សន៍លេខ៥ កីឡាប្រចាំសប្តាហ៍</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Sep-2026 with 14  Episode(s) PLAY: MON  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TV5SportWeekly26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TV5Sport26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TV5Sport26HD.jpg">
+<title>TV 5 SPORT</title>
+<titlel>ទូរទស្សន៍លេខ៥ កីឡាប្រចាំសប្តាហ៍</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Sep-2026 with 9  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TV5Sport26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CambodiaDaily26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CambodiaDaily26HD.jpg">
+<title>CAMBODIA DAILY NEWS</title>
+<titlel>ពត៏មានប្រចាំថ្ងៃ ខេមបូឌាដេលី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-Jul-2026 with 37  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CambodiaDaily26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNN5MinuteNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNN5MinuteNews26HD.jpg">
+<title>PNN 5 MINUTE NEWS</title>
+<titlel>ផីអិនអិន ព័ត៌មាន ៥នាទី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2026 with 66  Episode(s) PLAY: MON, TUE, WED, THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNN5MinuteNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNCambodiaThisAfternoon26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNCambodiaThisAfternoon26HD.jpg">
+<title>PNN CAMBODIA THIS AFTERNOON</title>
+<titlel>ភីអ៊ែនអ៊ែន ពត៏មានពេលរសៀល</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2026 with 86  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNCambodiaThisAfternoon26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNCambodiaThisEvening26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNCambodiaThisEvening26HD.jpg">
+<title>PNN CAMBODIA THIS EVENING</title>
+<titlel>ភីអ៊ែនអ៊ែន ពត៏មានពេលល្ងាច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2026 with 83  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNCambodiaThisEvening26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNCambodiaThisNight26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNCambodiaThisNight26HD.jpg">
+<title>PNN CAMBODIA THIS NIGHT</title>
+<titlel>ភីអ៊ែនអ៊ែន ពត៏មានពេលយប់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2026 with 84  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNCambodiaThisNight26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNNewsNow26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNNewsNow26HD.jpg">
+<title>PNN NEWS NOW</title>
+<titlel>ព្រឹត្តិការណ៏ថ្មី ផីអិនអិន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2026 with 83  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNNewsNow26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNSportsDaily26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNSportsDaily26HD.jpg">
+<title>PNN SPORTS DAILY NEWS</title>
+<titlel>ភីអ៊ែនអ៊ែន កីឡាប្រចាំថ្ងៃ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2026 with 86  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNSportsDaily26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNCambodiaThisMorning26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNCambodiaThisMorning26HD.jpg">
+<title>PNN CAMBODIA THIS MORNING</title>
+<titlel>ភីអ៊ែនអ៊ែន ពត៏មានពេលព្រឹក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Apr-2026 with 85  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNCambodiaThisMorning26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNMissionOfTheWeek26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNMissionOfTheWeek26HD.jpg">
+<title>PNN MISSION OF THE WEEK</title>
+<titlel>ភីអ៊ែនអ៊ែន បេសកកម្មប្រចាំសប្តាហ៌</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Apr-2026 with 17  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNMissionOfTheWeek26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNSaturdayNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNSaturdayNews26HD.jpg">
+<title>PNN SATURDAY NEWS</title>
+<titlel>ភីអ៊ែនអ៊ែន ពត៏មានថ្ងៃសៅរ៏</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Apr-2026 with 17  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNSaturdayNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNSaturdayTalk26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNSaturdayTalk26HD.jpg">
+<title>PNN SATURDAY TALK</title>
+<titlel>ភីអ៊ែនអ៊ែន សន្ទនាថ្ងៃសៅរ៏</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Apr-2026 with 17  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNSaturdayTalk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVMorningNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVMorningNews26HD.jpg">
+<title>BTV MORNING NEWS</title>
+<titlel>ព័ត៏មានពេលព្រឹក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Mar-2026 with 55  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVMorningNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TV5TheWorldToday26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TV5TheWorldToday26HD.jpg">
+<title>TV 5 THE WORLD TODAY</title>
+<titlel>ព័ត៌មាន ពិភពលោកបច្ចុប្បន្ន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Jan-2026 with 5  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TV5TheWorldToday26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

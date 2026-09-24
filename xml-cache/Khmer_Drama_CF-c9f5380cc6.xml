@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>12</itemCount>
+<totalCount>12</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KhmerKomphlengKuyKreum26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KhmerKomphlengKuyKreum26HD.jpg">
+<title>KHMER KOMPHLENG KUY KREUM</title>
+<titlel>កំប្លែងខ្មែរ កុយក្រឹម</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerKomphlengKuyKreum26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KhmerKomphlengPekmiKoreun26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KhmerKomphlengPekmiKoreun26HD.jpg">
+<title>KHMER KOMPHLENG PEKMI KOREUN</title>
+<titlel>កំប្លែងខ្មែរ ពាក់មីគ្រឿន</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerKomphlengPekmiKoreun26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/KhmerDrama25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/KhmerDrama25HD.jpg">
+<title>KHMER DRAMA 2025</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០២៥</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama24HD.jpg">
+<title>KHMER DRAMA 2024</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០២៤</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama23HD.jpg">
+<title>KHMER DRAMA 2023</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០២៣</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama22.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama22HD.jpg">
+<title>KHMER DRAMA 2022</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០២២</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama22.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama21.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama21HD.jpg">
+<title>KHMER DRAMA 2021</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០២១</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama20.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama20HD.jpg">
+<title>KHMER DRAMA 2020</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០២០</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama19.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama19HD.jpg">
+<title>KHMER DRAMA 2019</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០១៩</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama18.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama18HD.jpg">
+<title>KHMER DRAMA 2018</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០១៨</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama17.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama17HD.jpg">
+<title>KHMER DRAMA 2016 TO 2017</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០១៦ ដល់ ២០១៧</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama15.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KhmerDrama15HD.jpg">
+<title>KHMER DRAMA 2014 TO 2015</title>
+<titlel>ភាពយន្តភាគខ្មែរ ២០១៤ ដល់ ២០១៥</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerDrama15.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

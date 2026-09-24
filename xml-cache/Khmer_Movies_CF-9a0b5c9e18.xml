@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>5</itemCount>
+<totalCount>5</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2023/KhmerClassic03.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/KhmerClassic03HD.jpg">
+<title>KHMER CLASSIC</title>
+<titlel>ភាពយន្តខ្មែរបុរាណ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerClassic03.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/KhmerComedy03.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/KhmerComedy03HD.jpg">
+<title>KHMER COMEDY</title>
+<titlel>ភាពយន្តខ្មែរកំប្លែង</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerComedy03.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/KhmerContemporary03.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/KhmerContemporary03HD.jpg">
+<title>KHMER CONTEMPORARY</title>
+<titlel>ភាពយន្តខ្មែរសម័យ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerContemporary03.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/KhmerHorror03.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/KhmerHorror03HD.jpg">
+<title>KHMER HORROR</title>
+<titlel>ភាពយន្តខ្មែរភ័យរន្ធត់</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerHorror03.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/KhmerShortFilm03.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/KhmerShortFilm03HD.jpg">
+<title>KHMER SHORT FILM</title>
+<titlel>ភាពយន្តខ្មែរខ្លីៗ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerShortFilm03.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

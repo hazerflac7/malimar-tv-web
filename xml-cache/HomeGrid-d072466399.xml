@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--HomeGrd-->
+<startIndex>0</startIndex>
+<itemCount>25</itemCount>
+<totalCount>25</totalCount>
+<item>
+<title>ROW 1  Free Live TV</title>
+<titlel>ถ่ายทอดสดทางโทรทัศน์ | ช่องโลโค</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiveTV_Local_Channels_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 2  Language Category</title>
+<titlel>ถ่ายทอดสดทางโทรทัศน์ | พรีเมี่ยมแบบ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Language_Menu_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 3  Category</title>
+<titlel>พรีเมี่ยมวิว</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Category_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 4  Thai Live</title>
+<titlel>ถ่ายทอดสดทางโทรทัศน์ | พรีเมี่ยมแบบ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiveTV_Premium_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 5  Lao Live</title>
+<titlel>ຊ່ອງລາວສົດ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_LiveTV_Premium_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 6  Khmer Live</title>
+<titlel>ទូរទស្សន៍ខ្មែរផ្សាយផ្ទាល់</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_LiveTV_Premium_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 7  Thai Drama New Release</title>
+<titlel>ละครไทย | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Drama_Thai_New_Episodes_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 8  World Drama New Release</title>
+<titlel>ละครโลก | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Drama_World_New_Episodes_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 9  World Dramas</title>
+<titlel>ละครโลก</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/World_Dramas_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 10  New Release</title>
+<titlel>ที่เพิ่มเข้ามาเมื่อเร็ว ๆ นี้</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Recently_Added_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 11  Thai Movie New Release</title>
+<titlel>ภาพยนตร์ใหม่ที่เพิ่งเพิ่ม</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Movie_New_Arrivals_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 12  Khmer Movie New Release</title>
+<titlel>ភាពយន្តនិយាយខ្មែរ | ទើបបញ្ចូលថ្មី</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Movie_Recently_Added_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 13  Movies</title>
+<titlel>ฟิล์ม</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Movies_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 14  Sitcoms New Release</title>
+<titlel>ซิทคอม | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Sitcom_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 15  News New Release</title>
+<titlel>ข่าว | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/News_New_Episodes_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 16  Variety Shows New Release</title>
+<titlel>รายการวาไรตี้ | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Variety_New_Episodes_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 17  Variety Shows</title>
+<titlel>รายการวาไรตี้</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Variety_Shows_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 18  Food and Travel New Release</title>
+<titlel>อาหารและการเดินทาง</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Food_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 19  Food and Travel</title>
+<titlel>อาหารและการเดินทาง</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Food_and_Travel_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 20  Game Shows New Release</title>
+<titlel>เกมโชว์ | ออกอากาศ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Game_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 21  Game Shows</title>
+<titlel>เกมโชว์</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Game_Shows_CF.xml</feed>
+<refreshInterval>1800</refreshInterval>
+</item>
+<item>
+<title>ROW 22  Sports</title>
+<titlel>กีฬา</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Sport_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 23  Cartoons</title>
+<titlel>การ์ตูน</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Cartoon_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 24  Documentary and Education</title>
+<titlel>สารคดีและการศึกษา</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Documentary_and_Education_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+<item>
+<title>ROW 25  Local | Theater</title>
+<titlel>ท้องถิ่น | โรงละคร</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Local_Theater_CF.xml</feed>
+<refreshInterval>0</refreshInterval>
+</item>
+</feed>

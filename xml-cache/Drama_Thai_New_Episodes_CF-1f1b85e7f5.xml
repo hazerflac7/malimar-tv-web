@@ -1,0 +1,747 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>74</itemCount>
+<totalCount>74</totalCount>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/AParasitesHeart26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/AParasitesHeart26HD.jpg">
+<title>A PARASITES HEART</title>
+<titlel>หัวใจกาฝาก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 9  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AParasitesHeart26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/NaktopBanKhokpang226.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/NaktopBanKhokpang226HD.jpg">
+<title>NAKTOP BAN KHOKPANG 2</title>
+<titlel>นักตบวัดโคกปัง 2</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 9  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NaktopBanKhokpang226.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TreasureLovers26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TreasureLovers26HD.jpg">
+<title>TREASURE LOVERS</title>
+<titlel>อุบัติรักเกาะสวรรค์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 10  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TreasureLovers26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/Brothers26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/Brothers26HD.jpg">
+<title>BROTHERS</title>
+<titlel>สองหัวใจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 13  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Brothers26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/SkyCastleThailand26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/SkyCastleThailand26HD.jpg">
+<title>SKY CASTLE THAILAND</title>
+<titlel>วิมานอากาศ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 16  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SkyCastleThailand26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/ThukAnuRuethai26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/ThukAnuRuethai26HD.jpg">
+<title>THUK ANU RUETHAI</title>
+<titlel>ทุกอณูฤทัย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 32  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThukAnuRuethai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/FillTheBeat26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/FillTheBeat26HD.jpg">
+<title>FILL THE BEAT</title>
+<titlel>จังหวะรักต่างเจน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 11  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FillTheBeat26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/KaeoPhitsadan26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/KaeoPhitsadan26HD.jpg">
+<title>KAEO PHITSADAN</title>
+<titlel>แก้วพิสดาร</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 32  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KaeoPhitsadan26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/MyHeartbeat26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/MyHeartbeat26HD.jpg">
+<title>MY HEARTBEAT</title>
+<titlel>สเต็ปรักละลายเธอ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 10  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MyHeartbeat26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/AnAffairofLife26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/AnAffairofLife26HD.jpg">
+<title>AN AFFAIR OF LIFE</title>
+<titlel>มหกรรมมนุษย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 14  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AnAffairofLife26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/PrakanSaengChan26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/PrakanSaengChan26HD.jpg">
+<title>PRAKAN SAENG CHAN</title>
+<titlel>ปราการแสงจันทร์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Sep-2026 with 24  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrakanSaengChan26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/ManOfVirtue26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/ManOfVirtue26HD.jpg">
+<title>MAN OF VIRTUE</title>
+<titlel>หลวงพ่อเสือ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Sep-2026 with 30  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ManOfVirtue26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/DaengBaiLe26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/DaengBaiLe26HD.jpg">
+<title>DAENG BAI LE</title>
+<titlel>แดง ไบเล่ย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Sep-2026 with 8  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DaengBaiLe26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TheRunningOfloveAndMoney26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TheRunningOfloveAndMoney26HD.jpg">
+<title>THE RUNNING OF LOVE AND MONEY</title>
+<titlel>เงิน  งาน ความรัก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Aug-2026 with 19  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheRunningOfloveAndMoney26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/Th3sc4mmergame526.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/Th3sc4mmergame526HD.jpg">
+<title>TH3 SC4MMER GAME5</title>
+<titlel>เกมส์โกงเกมส์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Aug-2026 with 19  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Th3sc4mmergame526.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/PaKaRangsiDam26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/PaKaRangsiDam26HD.jpg">
+<title>PA KA RANGSI DAM</title>
+<titlel>ปะการังสีดำ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Aug-2026 with 30  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PaKaRangsiDam26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TwoFacesOfThatri26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TwoFacesOfThatri26HD.jpg">
+<title>TWO FACES OF THATRI</title>
+<titlel>ธาตรี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Aug-2026 with 19  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TwoFacesOfThatri26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/LukphuchaiHuachaiPhet26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/LukphuchaiHuachaiPhet26HD.jpg">
+<title>LUKPHUCHAI HUACHAI PHET</title>
+<titlel>ลูกผู้ชายหัวใจเพชร</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Jul-2026 with 30  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LukphuchaiHuachaiPhet26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/HemanTawanRon26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/HemanTawanRon26HD.jpg">
+<title>HEMAN TAWAN RON</title>
+<titlel>เหมันต์ตะวันรอน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Jul-2026 with 20  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HemanTawanRon26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/SingtoLamSing26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/SingtoLamSing26HD.jpg">
+<title>SINGTO LAM SING</title>
+<titlel>สิงโตลำซิ่ง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Jul-2026 with 28  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SingtoLamSing26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TheOutlawsRevengefulJudgement26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TheOutlawsRevengefulJudgement26HD.jpg">
+<title>THE OUTLAWS REVENGEFUL JUDGEMENT</title>
+<titlel>สี่เสือแดนสยาม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Jul-2026 with 6  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheOutlawsRevengefulJudgement26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/ChiwitThiThukLuem26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/ChiwitThiThukLuem26HD.jpg">
+<title>CHIWIT THI THUK LUEM</title>
+<titlel>ชีวิตที่ถูกลืม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Jul-2026 with 4  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChiwitThiThukLuem26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/SanehaWaYo26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/SanehaWaYo26HD.jpg">
+<title>SANEHA WA YO</title>
+<titlel>คุณปู่วุ่น Y หลานชาย Y วุ่น</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Jul-2026 with 8  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SanehaWaYo26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/LetsBeginAgain26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/LetsBeginAgain26HD.jpg">
+<title>LETS BEGIN AGAIN</title>
+<titlel>รักได้หรือ YOUNG</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Jun-2026 with 19  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LetsBeginAgain26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/WickedTemptation26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/WickedTemptation26HD.jpg">
+<title>WICKED TEMPTATION</title>
+<titlel>พยัคฆ์ร้ายซ่อนลาย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Jun-2026 with 24  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WickedTemptation26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/KhunpuWunY26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/KhunpuWunY26HD.jpg">
+<title>KHUNPU WUN Y</title>
+<titlel>คุณปู่วุ่น Y หลานชาย Y วุ่น</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Jun-2026 with 12  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhunpuWunY26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/EternalRain26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/EternalRain26HD.jpg">
+<title>ETERNAL RAIN</title>
+<titlel>ฝนล้านฤดู</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Jun-2026 with 14  Episode(s) PLAY:  THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EternalRain26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TheBangkokRedOpera26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TheBangkokRedOpera26HD.jpg">
+<title>THE BANGKOK RED OPERA</title>
+<titlel>สอดสร้อยมาลา</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Jun-2026 with 18  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheBangkokRedOpera26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/LovesShatteredReflections26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/LovesShatteredReflections26HD.jpg">
+<title>LOVES SHATTERED REFLECTIONS</title>
+<titlel>โทษฐานที่รักเธอ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Jun-2026 with 19  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LovesShatteredReflections26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TheEvilLawyer26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TheEvilLawyer26HD.jpg">
+<title>THE EVIL LAWYER</title>
+<titlel>ทนายปีศาจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Jun-2026 with 8  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheEvilLawyer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TheRhythmOfRevenge26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TheRhythmOfRevenge26HD.jpg">
+<title>THE RHYTHM OF REVENGE</title>
+<titlel>เพลงรักพยัคฆ์ร้าย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Jun-2026 with 30  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheRhythmOfRevenge26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/FriendsonFire26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/FriendsonFire26HD.jpg">
+<title>FRIENDS ON FIRE</title>
+<titlel>กุหลาบเล่นไฟ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jun-2026 with 34  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FriendsonFire26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/WrongSideoftheRainbow26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/WrongSideoftheRainbow26HD.jpg">
+<title>WRONG SIDE OF THE RAINBOW</title>
+<titlel>รักหักหลัง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jun-2026 with 19  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WrongSideoftheRainbow26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/KeawNaMa26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/KeawNaMa26HD.jpg">
+<title>KEAW NA MA</title>
+<titlel>แก้วหน้าม้า 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-May-2026 with 32  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KeawNaMa26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TheGift26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TheGift26HD.jpg">
+<title>THE GIFT</title>
+<titlel>ลางปริศนา</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-May-2026 with 34  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheGift26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/OKTHORANI26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/OKTHORANI26HD.jpg">
+<title>OK THORANI</title>
+<titlel>อกทรนี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-May-2026 with 27  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OKTHORANI26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/WhisperOfDesire26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/WhisperOfDesire26HD.jpg">
+<title>WHISPER OF DESIRE</title>
+<titlel>สกุณาซ่อนรัก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-May-2026 with 8  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WhisperOfDesire26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/LoveYou10MillionMiles26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/LoveYou10MillionMiles26HD.jpg">
+<title>LOVE YOU 10 MILLION MILES</title>
+<titlel>เอเลี่ยน ตาฮัก รักนะนายต่างดาว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-May-2026 with 6  Episode(s) PLAY: MON, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LoveYou10MillionMiles26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/4Elements26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/4Elements26HD.jpg">
+<title>4 ELEMENTS</title>
+<titlel>บ้านวาทินวณิช</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-May-2026 with 8  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/4Elements26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/BanNangram26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/BanNangram26HD.jpg">
+<title>BAN NANGRAM</title>
+<titlel>บ้านนางรำ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-May-2026 with 30  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BanNangram26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TheLastDuel26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TheLastDuel26HD.jpg">
+<title>THE LAST DUEL</title>
+<titlel>หงสาวดี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Apr-2026 with 10  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheLastDuel26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/MugirlMiracleMatchmaking26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/MugirlMiracleMatchmaking26HD.jpg">
+<title>MU GIRL MIRACLE MATCHMAKING</title>
+<titlel>มูเกิร์ลเดทที่วัดนัดที่ศาลเจ้า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Apr-2026 with 12  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MugirlMiracleMatchmaking26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/KlinMalee26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/KlinMalee26HD.jpg">
+<title>KLIN MALEE</title>
+<titlel>กลิ่นมาลี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-Apr-2026 with 14  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KlinMalee26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/MoneyMyLove26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/MoneyMyLove26HD.jpg">
+<title>MONEY MY LOVE</title>
+<titlel>ก็รักมันปักใจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-Apr-2026 with 20  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MoneyMyLove26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/PinAnong26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/PinAnong26HD.jpg">
+<title>PIN ANONG</title>
+<titlel>ปิ่นอนงค์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-Apr-2026 with 25  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PinAnong26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TheHeartOfYiwhaOfLoveVengeance26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TheHeartOfYiwhaOfLoveVengeance26HD.jpg">
+<title>THE HEART OF YIWHA OF LOVE VENGEANCE</title>
+<titlel>ยิหวาดาตัง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Mar-2026 with 23  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheHeartOfYiwhaOfLoveVengeance26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/PhloiNamPhet26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/PhloiNamPhet26HD.jpg">
+<title>PHLOI NAM PHET</title>
+<titlel>พลอยน้ำเพชร</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Mar-2026 with 27  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhloiNamPhet26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/LoveMeLoveMyBuffalo26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/LoveMeLoveMyBuffalo26HD.jpg">
+<title>LOVE ME LOVE MY BUFFALO</title>
+<titlel>เลดี้ทุ่งกระบือบาล</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Mar-2026 with 30  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LoveMeLoveMyBuffalo26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/TheSevenLegends26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/TheSevenLegends26HD.jpg">
+<title>THE SEVEN LEGENDS</title>
+<titlel>7 ประจัญบาน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Mar-2026 with 10  Episode(s) PLAY:  THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheSevenLegends26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Sitcom26/MISSING2626.jpg"
+ hdImg="https://i.malimarcdn.com/Sitcom26/MISSING2626HD.jpg">
+<title>MISSING</title>
+<titlel>ห่วง หาย ตาย จาก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Feb-2026 with 12  Episode(s) PLAY: MON, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MISSING2626.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/Theschool26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/Theschool26HD.jpg">
+<title>THE SCHOOL</title>
+<titlel>ศักดินาวิทยาลัย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Feb-2026 with 10  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Theschool26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama25/DetAsunKhanKaeoNopphakao25.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama25/DetAsunKhanKaeoNopphakao25HD.jpg">
+<title>DET ASUN KHAN KAEO NOPPHAKAO</title>
+<titlel>เดชอสูรขันแก้วนพเก้า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Feb-2026 with 48  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DetAsunKhanKaeoNopphakao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama26/BeginsNecromancer26.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama26/BeginsNecromancer26HD.jpg">
+<title>BEGINS NECROMANCER</title>
+<titlel>จอมขมังเวทย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Feb-2026 with 10  Episode(s) PLAY: MON, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BeginsNecromancer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama25/BeautyReborn25.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama25/BeautyReborn25HD.jpg">
+<title>BEAUTY REBORN</title>
+<titlel>แผนรักฉบับร้าย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Feb-2026 with 18  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BeautyReborn25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama25/Lying25.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama25/Lying25HD.jpg">
+<title>LYING</title>
+<titlel>ลวง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Jan-2026 with 24  Episode(s) PLAY:  WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lying25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama25/TheTastesofLives25.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama25/TheTastesofLives25HD.jpg">
+<title>THE TASTES OF LIVES</title>
+<titlel>เลือดใหม่หัวใจนักปรุง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Jan-2026 with 16  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheTastesofLives25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama2025.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama2025HD.jpg">
+<title>THAI DRAMA 2025</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama2025.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama24.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama24HD.jpg">
+<title>THAI DRAMA 2024</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiDrama23/thaidrama23.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiDrama23/thaidrama23HD.jpg">
+<title>THAI DRAMA 2023</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama22.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama22HD.jpg">
+<title>THAI DRAMA 2022</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama22.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama21.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama21HD.jpg">
+<title>THAI DRAMA 2021</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama20.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama20HD.jpg">
+<title>THAI DRAMA 2020</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama19.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama19HD.jpg">
+<title>THAI DRAMA 2019</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama18.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama18HD.jpg">
+<title>THAI DRAMA 2018</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama17.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama17HD.jpg">
+<title>THAI DRAMA 2017</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama16.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama16HD.jpg">
+<title>THAI DRAMA 2016</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama16.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama15.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama15HD.jpg">
+<title>THAI DRAMA 2015</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama15.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama14.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama14HD.jpg">
+<title>THAI DRAMA 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama14.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama13.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama13HD.jpg">
+<title>THAI DRAMA 2013</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama13.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama12.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama12HD.jpg">
+<title>THAI DRAMA 2012</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama12.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama11.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama11HD.jpg">
+<title>THAI DRAMA 2011</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama11.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama10.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama10HD.jpg">
+<title>THAI DRAMA 2010</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama10.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama09a.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama09aHD.jpg">
+<title>THAI DRAMA 2009</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama09a.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thaidrama08a.jpg"
+ hdImg="https://i.malimarcdn.com/thaidrama08aHD.jpg">
+<title>THAI DRAMA 2008</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thaidrama08a.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

@@ -1,0 +1,2087 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>118</itemCount>
+<totalCount>118</totalCount>
+<item sdImg="https://i.malimarcdn.com/TheStandUpComedyShow21.jpg"
+ hdImg="https://i.malimarcdn.com/TheStandUpComedyShow21HD.jpg">
+<title>THE STAND UP COMEDY SHOW</title>
+<titlel>โย่งทอล์ค 7</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Jun-2021 with 1  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheStandUpComedyShow21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SongKhunpol.jpg"
+ hdImg="https://i.malimarcdn.com/SongKhunpolHD.jpg">
+<title>SONG KHUNPOL</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-Oct-2020 with 3  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SongKhunpol.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Diew12.jpg"
+ hdImg="https://i.malimarcdn.com/Diew12HD.jpg">
+<title>DIEW 12</title>
+<titlel>เดี่ยว 12</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Feb-2019 with 1  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Diew12.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan31.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsan31HD.jpg">
+<id>siang_esan_3112117</id>
+<title>SIANG ESAN 31</title>
+<titlel>เสียงอิสาน 31</titlel>
+<Mweb>Y</Mweb>
+<length>3871</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-May-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/SiangEsan31.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan32.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsan32HD.jpg">
+<id>siang_esan_3212118</id>
+<title>SIANG ESAN 32</title>
+<titlel>เสียงอิสาน 32</titlel>
+<Mweb>Y</Mweb>
+<length>4344</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-May-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/SiangEsan32.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LikeHd.jpg"
+ hdImg="https://i.malimarcdn.com/LikeHdHD.jpg">
+<title>LIKE HD</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Sep-2016 with 8  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LikeHd.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhunTupPuaTuen.jpg"
+ hdImg="https://i.malimarcdn.com/KhunTupPuaTuenHD.jpg">
+<title>KHUN TUP PUA TUEN</title>
+<titlel>ขุนทัพผัวเถื่อน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-May-2016 with 3  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhunTupPuaTuen.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LiKayLonViChai.jpg"
+ hdImg="https://i.malimarcdn.com/LiKayLonViChaiHD.jpg">
+<id>li_kay_lon_vi_chai8296</id>
+<title>LI KAY LON VI CHAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>10968</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/LiKayLonViChai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MaeJaPorYuNai.jpg"
+ hdImg="https://i.malimarcdn.com/MaeJaPorYuNaiHD.jpg">
+<title>MAE JA POR YU NAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-May-2016 with 2  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MaeJaPorYuNai.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NumPaRinYaSaoMaHaRai.jpg"
+ hdImg="https://i.malimarcdn.com/NumPaRinYaSaoMaHaRaiHD.jpg">
+<id>num_pa_rin_ya_sao_ma_ha_rai7107</id>
+<title>NUM PA RIN YA SAO MA HA RAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4039</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-May-2016</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>English Subtitles</synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/NumPaRinYaSaoMaHaRai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DealMicro.jpg"
+ hdImg="https://i.malimarcdn.com/DealMicroHD.jpg">
+<title>DIEW 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Feb-2016 with 2  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DealMicro.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DealMicro2.jpg"
+ hdImg="https://i.malimarcdn.com/DealMicro2HD.jpg">
+<title>DIEW 2</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Feb-2016 with 2  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DealMicro2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DealMicro3.jpg"
+ hdImg="https://i.malimarcdn.com/DealMicro3HD.jpg">
+<title>DIEW 3</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Feb-2016 with 2  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DealMicro3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Deal4.jpg"
+ hdImg="https://i.malimarcdn.com/Deal4HD.jpg">
+<title>DIEW 4</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Feb-2016 with 2  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Deal4.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Deal5.jpg"
+ hdImg="https://i.malimarcdn.com/Deal5HD.jpg">
+<title>DIEW 5</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Feb-2016 with 4  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Deal5.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Deal6.jpg"
+ hdImg="https://i.malimarcdn.com/Deal6HD.jpg">
+<title>DIEW 6</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Feb-2016 with 1  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Deal6.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan22.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsan22HD.jpg">
+<id>siang_esan_227647</id>
+<title>SIANG ESAN 22</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3289</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Dec-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>SiangEsan</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2014/SiangEsan22.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan23.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsan23HD.jpg">
+<id>siang_esan_237649</id>
+<title>SIANG ESAN 23</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4527</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Dec-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Siang Esan</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2014/SiangEsan23.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan25.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsan25HD.jpg">
+<id>siang_esan_257648</id>
+<title>SIANG ESAN 25</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3443</length>
+<PlayerBG></PlayerBG>
+<releaseDate>22-Dec-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Siang Esan</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2014/SiangEsan25.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Dew11.jpg"
+ hdImg="https://i.malimarcdn.com/Dew11HD.jpg">
+<title>DIEW 11</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Nov-2015 with 3  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Dew11.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhonBaab.jpg"
+ hdImg="https://i.malimarcdn.com/KhonBaabHD.jpg">
+<title>KHON BAAB</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Nov-2015 with 3  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonBaab.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LikayYupPaRat1.jpg"
+ hdImg="https://i.malimarcdn.com/LikayYupPaRat1HD.jpg">
+<title>LIKAY YUP PA RAT 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Nov-2015 with 3  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LikayYupPaRat1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LikayYupPaRat2.jpg"
+ hdImg="https://i.malimarcdn.com/LikayYupPaRat2HD.jpg">
+<title>LIKAY YUP PA RAT 2</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Nov-2015 with 3  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LikayYupPaRat2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LumTatMaHa5.jpg"
+ hdImg="https://i.malimarcdn.com/LumTatMaHa5HD.jpg">
+<title>LUM TAT MA HA 5</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Nov-2015 with 2  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LumTatMaHa5.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LumTatMaHa6.jpg"
+ hdImg="https://i.malimarcdn.com/LumTatMaHa6HD.jpg">
+<title>LUM TAT MA HA 6</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Nov-2015 with 2  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LumTatMaHa6.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LumTatWangTaeESeaw.jpg"
+ hdImg="https://i.malimarcdn.com/LumTatWangTaeESeawHD.jpg">
+<title>LUM TAT WANG TAE ESEAW</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Nov-2015 with 2  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LumTatWangTaeESeaw.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YodLerdChaiSabai.jpg"
+ hdImg="https://i.malimarcdn.com/YodLerdChaiSabaiHD.jpg">
+<title>YOD LERD CHAI SABAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Nov-2015 with 3  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YodLerdChaiSabai.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NgaoGum1.jpg"
+ hdImg="https://i.malimarcdn.com/NgaoGum1HD.jpg">
+<title>NGAO GUM 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Nov-2015 with 4  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NgaoGum1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MorLumGonThongJareun.jpg"
+ hdImg="https://i.malimarcdn.com/MorLumGonThongJareunHD.jpg">
+<id>mor_lum_gon_thong_jareun7581</id>
+<title>MOR LUM GON THONG JAREUN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>2405</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Nov-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/MorLumGonThongJareun.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NangSipSong.jpg"
+ hdImg="https://i.malimarcdn.com/NangSipSongHD.jpg">
+<id>nang_sip_song7580</id>
+<title>NANG SIP SONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1487</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Nov-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/NangSipSong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LabiapWaTakSin.jpg"
+ hdImg="https://i.malimarcdn.com/LabiapWaTakSinHD.jpg">
+<title>LABIAP WA TAK SIN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Sep-2015 with 3  Episode(s) PLAY:  TUE, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LabiapWaTakSin.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhunpolPaeRak.jpg"
+ hdImg="https://i.malimarcdn.com/KhunpolPaeRakHD.jpg">
+<id>khunpol_pae_rak7331</id>
+<title>KHUNPOL PAE RAK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>12028</length>
+<PlayerBG></PlayerBG>
+<releaseDate>6-Aug-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/KhunpolPaeRak.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LikayJamloeyRak.jpg"
+ hdImg="https://i.malimarcdn.com/LikayJamloeyRakHD.jpg">
+<title>LIKAY JAMLOEY RAK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Aug-2015 with 3  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LikayJamloeyRak.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhetPinThong.jpg"
+ hdImg="https://i.malimarcdn.com/PhetPinThongHD.jpg">
+<title>PHET PIN THONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Jul-2015 with 3  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhetPinThong.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan4.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsan4HD.jpg">
+<id>siang_esan_47204</id>
+<title>SIANG ESAN 4</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4429</length>
+<PlayerBG></PlayerBG>
+<releaseDate>2-Jul-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/SiangEsan4.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BratomBuntaengSin.jpg"
+ hdImg="https://i.malimarcdn.com/BratomBuntaengSinHD.jpg">
+<title>BRATOM BUNTAENG SIN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Jun-2015 with 4  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BratomBuntaengSin.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LiKeSondRam.jpg"
+ hdImg="https://i.malimarcdn.com/LiKeSondRamHD.jpg">
+<title>LIKE SOND RAM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Jun-2015 with 3  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiKeSondRam.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KaiGamNod.jpg"
+ hdImg="https://i.malimarcdn.com/KaiGamNodHD.jpg">
+<title>KAI GAM NOD</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Jun-2015 with 3  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KaiGamNod.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LiKayTasRak.jpg"
+ hdImg="https://i.malimarcdn.com/LiKayTasRakHD.jpg">
+<title>LI KAY TAS RAK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Jun-2015 with 3  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiKayTasRak.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChingRakChingRach.jpg"
+ hdImg="https://i.malimarcdn.com/ChingRakChingRachHD.jpg">
+<title>CHING RAK CHING RACH</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Mar-2015 with 3  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChingRakChingRach.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhonNangLoy.jpg"
+ hdImg="https://i.malimarcdn.com/KhonNangLoyHD.jpg">
+<title>KHON NANG LOY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Mar-2015 with 15  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonNangLoy.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhetRaoNaiRuen.jpg"
+ hdImg="https://i.malimarcdn.com/PhetRaoNaiRuenHD.jpg">
+<id>phet_rao_nai_ruen6474</id>
+<title>PHET RAO NAI RUEN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>10690</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Mar-2015</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/PhetRaoNaiRuen.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KonArRomDee.jpg"
+ hdImg="https://i.malimarcdn.com/KonArRomDeeHD.jpg">
+<title>KON ARROM DEE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2014 with 149  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KonArRomDee.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/AngSaSiThong.jpg"
+ hdImg="https://i.malimarcdn.com/AngSaSiThongHD.jpg">
+<title>ANG SA SI THONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Dec-2014 with 4  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AngSaSiThong.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MongKutChaLoey.jpg"
+ hdImg="https://i.malimarcdn.com/MongKutChaLoeyHD.jpg">
+<title>MONG KUT CHA LOEY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Dec-2014 with 2  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MongKutChaLoey.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HayHaParty.jpg"
+ hdImg="https://i.malimarcdn.com/HayHaPartyHD.jpg">
+<title>HAY HA PARTY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Nov-2014 with 193  Episode(s) PLAY: Everyday  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HayHaParty.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TalokRatTaNaSilp4.jpg"
+ hdImg="https://i.malimarcdn.com/TalokRatTaNaSilp4HD.jpg">
+<id>talok_rat_ta_na_silp_45530</id>
+<title>TALOK RAT TA NA SILP 4</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1826</length>
+<PlayerBG></PlayerBG>
+<releaseDate>10-Nov-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/TalokRatTaNaSilp4.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LamSingBuaPan.jpg"
+ hdImg="https://i.malimarcdn.com/LamSingBuaPanHD.jpg">
+<id>lam_sing_bua_pan5337</id>
+<title>LAM SING BUA PAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5021</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/LamSingBuaPan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LamSingBuaPan5.jpg"
+ hdImg="https://i.malimarcdn.com/LamSingBuaPan5HD.jpg">
+<id>lam_sing_bua_pan_55338</id>
+<title>LAM SING BUA PAN 5</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4237</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/LamSingBuaPan5.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LamSingBuaPan9.jpg"
+ hdImg="https://i.malimarcdn.com/LamSingBuaPan9HD.jpg">
+<id>lam_sing_bua_pan_95339</id>
+<title>LAM SING BUA PAN 9</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4123</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/LamSingBuaPan9.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BuaPhan15.jpg"
+ hdImg="https://i.malimarcdn.com/BuaPhan15HD.jpg">
+<id>bua_phan_155322</id>
+<title>BUA PHAN 15</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4128</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/BuaPhan15.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LamSingBuaPan8.jpg"
+ hdImg="https://i.malimarcdn.com/LamSingBuaPan8HD.jpg">
+<id>lam_sing_bua_pan_85323</id>
+<title>LAM SING BUA PAN 8</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4171</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/LamSingBuaPan8.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MoLumSingDance.jpg"
+ hdImg="https://i.malimarcdn.com/MoLumSingDanceHD.jpg">
+<id>mo_lum_sing_dance5324</id>
+<title>MO LUM SING DANCE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4397</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/MoLumSingDance.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LumTatWangTaeHiTech.jpg"
+ hdImg="https://i.malimarcdn.com/LumTatWangTaeHiTechHD.jpg">
+<title>LUM TAT WANG TAE HI TECH</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Sep-2014 with 2  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LumTatWangTaeHiTech.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LamTadChinKornVSMaePraYun.jpg"
+ hdImg="https://i.malimarcdn.com/LamTadChinKornVSMaePraYunHD.jpg">
+<id>lam_tad_chinkorn_vs_mae_pra_yun4864</id>
+<title>LAM TAD CHINKORN VS MAE PRA YUN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1217</length>
+<PlayerBG></PlayerBG>
+<releaseDate>31-Aug-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie14/LamTadChinKornVSMaePraYun.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LikayPetchRoung.jpg"
+ hdImg="https://i.malimarcdn.com/LikayPetchRoungHD.jpg">
+<title>LIKAY PETCH ROUNG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Aug-2014 with 3  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LikayPetchRoung.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Esan29.jpg"
+ hdImg="https://i.malimarcdn.com/Esan29HD.jpg">
+<id>esan_294820</id>
+<title>ESAN 29</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4488</length>
+<PlayerBG></PlayerBG>
+<releaseDate>28-Aug-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/Esan29/Esan29.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KamSangPo.jpg"
+ hdImg="https://i.malimarcdn.com/KamSangPoHD.jpg">
+<title>KAM SANG PO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Jul-2014 with 1  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KamSangPo.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LikayPitrak.jpg"
+ hdImg="https://i.malimarcdn.com/LikayPitrakHD.jpg">
+<id>likay_pitrak4234</id>
+<title>LIKAY PITRAK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>11937</length>
+<PlayerBG></PlayerBG>
+<releaseDate>11-Jul-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Variety Shows</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Variety14/LikayPitrak/LikayPitrak.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SinSangTawan1.jpg"
+ hdImg="https://i.malimarcdn.com/SinSangTawan1HD.jpg">
+<title>SIN SANG TAWAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Jul-2014 with 1  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SinSangTawan1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TalokSeandEsarn10.jpg"
+ hdImg="https://i.malimarcdn.com/TalokSeandEsarn10HD.jpg">
+<title>TALOK SEAND ESARN 10</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Jul-2014 with 1  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TalokSeandEsarn10.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PaTiHarnHengRuk.jpg"
+ hdImg="https://i.malimarcdn.com/PaTiHarnHengRukHD.jpg">
+<title>PA TI HARN HENG RUK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Jul-2014 with 3  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PaTiHarnHengRuk.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PoonDangParnDam.jpg"
+ hdImg="https://i.malimarcdn.com/PoonDangParnDamHD.jpg">
+<title>POON DANG PARN DAM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Jul-2014 with 4  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PoonDangParnDam.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RungFaDoiSing.jpg"
+ hdImg="https://i.malimarcdn.com/RungFaDoiSingHD.jpg">
+<title>RUNG FA DOI SING</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Jul-2014 with 3  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RungFaDoiSing.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhonJongThanon.jpg"
+ hdImg="https://i.malimarcdn.com/KhonJongThanonHD.jpg">
+<title>KHON JONG THANON</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Jul-2014 with 12  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonJongThanon.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LiKayLuedKhatiya.jpg"
+ hdImg="https://i.malimarcdn.com/LiKayLuedKhatiyaHD.jpg">
+<title>LI KAY LUED KHATIYA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Jul-2014 with 3  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiKayLuedKhatiya.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LikayRungTipKunChangKunpan.jpg"
+ hdImg="https://i.malimarcdn.com/LikayRungTipKunChangKunpanHD.jpg">
+<title>LIKAY RUNG TIP KUN CHANG KUNPAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Jul-2014 with 3  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LikayRungTipKunChangKunpan.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LikaySaiLoHid.jpg"
+ hdImg="https://i.malimarcdn.com/LikaySaiLoHidHD.jpg">
+<title>LIKAY SAI LO HID</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Jul-2014 with 3  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LikaySaiLoHid.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LikaySornRamNangPaYa.jpg"
+ hdImg="https://i.malimarcdn.com/LikaySornRamNangPaYaHD.jpg">
+<title>LIKAY SORN RAM NANG PA YA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Jul-2014 with 3  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LikaySornRamNangPaYa.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JaiPheeJaiNong.jpg"
+ hdImg="https://i.malimarcdn.com/JaiPheeJaiNongHD.jpg">
+<title>JAI PHEE JAI NONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jul-2014 with 3  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/JaiPheeJaiNong.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LeodNokAok.jpg"
+ hdImg="https://i.malimarcdn.com/LeodNokAokHD.jpg">
+<title>LEOD NOK AOK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jul-2014 with 3  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LeodNokAok.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LiKayJaiRao.jpg"
+ hdImg="https://i.malimarcdn.com/LiKayJaiRaoHD.jpg">
+<title>LIKAY JAI RAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jul-2014 with 3  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiKayJaiRao.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/AYaRuk.jpg"
+ hdImg="https://i.malimarcdn.com/AYaRukHD.jpg">
+<title>AYA RUK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Jul-2014 with 2  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AYaRuk.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhonPromMad.jpg"
+ hdImg="https://i.malimarcdn.com/KhonPromMadHD.jpg">
+<title>KHON PROM MAD</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Jul-2014 with 10  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonPromMad.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KonBabThiBaanBo.jpg"
+ hdImg="https://i.malimarcdn.com/KonBabThiBaanBoHD.jpg">
+<title>KON BAB THI BAAN BO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Jul-2014 with 3  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KonBabThiBaanBo.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TaLokPinKan.jpg"
+ hdImg="https://i.malimarcdn.com/TaLokPinKanHD.jpg">
+<title>TA LOK PIN KAN 3</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Jul-2014 with 1  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TaLokPinKan.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MaePua.jpg"
+ hdImg="https://i.malimarcdn.com/MaePuaHD.jpg">
+<title>MAE PUA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Jul-2014 with 3  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MaePua.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PenThai.jpg"
+ hdImg="https://i.malimarcdn.com/PenThaiHD.jpg">
+<title>PEN THAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Jun-2014 with 207  Episode(s) PLAY: Everyday  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PenThai.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhunSukMaHeSuan.jpg"
+ hdImg="https://i.malimarcdn.com/KhunSukMaHeSuanHD.jpg">
+<title>KHUN SUK MA HE SUAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-May-2014 with 3  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhunSukMaHeSuan.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RukTangDan.jpg"
+ hdImg="https://i.malimarcdn.com/RukTangDanHD.jpg">
+<title>RUK TANG DAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-May-2014 with 4  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RukTangDan.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaPaiPaTiWat.jpg"
+ hdImg="https://i.malimarcdn.com/SaPaiPaTiWatHD.jpg">
+<title>SA PAI PA TI WAT</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-May-2014 with 3  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SaPaiPaTiWat.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KonBai.jpg"
+ hdImg="https://i.malimarcdn.com/KonBaiHD.jpg">
+<title>KON BAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-May-2014 with 315  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KonBai.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PraAkeSaWaiLanChaiSaWang.jpg"
+ hdImg="https://i.malimarcdn.com/PraAkeSaWaiLanChaiSaWangHD.jpg">
+<title>PRA AKE SA WAI LAN CHAI SA WANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-May-2014 with 1  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PraAkeSaWaiLanChaiSaWang.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LiGay2014May5.jpg"
+ hdImg="https://i.malimarcdn.com/LiGay2014May5HD.jpg">
+<title>LI GAY 2014 MAY 5</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-May-2014 with 4  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiGay2014May5.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LiGay2014May7.jpg"
+ hdImg="https://i.malimarcdn.com/LiGay2014May7HD.jpg">
+<title>LI GAY 2014 MAY 7</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-May-2014 with 3  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiGay2014May7.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LiGay2014May8.jpg"
+ hdImg="https://i.malimarcdn.com/LiGay2014May8HD.jpg">
+<title>LI GAY 2014 MAY 8</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-May-2014 with 3  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiGay2014May8.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Lum2014May5.jpg"
+ hdImg="https://i.malimarcdn.com/Lum2014May5HD.jpg">
+<title>LUM 2014 MAY 5</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-May-2014 with 2  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lum2014May5.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OpenVigLikae.jpg"
+ hdImg="https://i.malimarcdn.com/OpenVigLikaeHD.jpg">
+<title>OPEN VIG LIKAE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Apr-2014 with 12  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OpenVigLikae.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/AmaCafe.jpg"
+ hdImg="https://i.malimarcdn.com/AmaCafeHD.jpg">
+<title>AMA CAFE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Mar-2014 with 58  Episode(s) PLAY:  TUE, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AmaCafe.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kuntapphowtheao.jpg"
+ hdImg="https://i.malimarcdn.com/kuntapphowtheaoHD.jpg">
+<title>KUNTAPPHOWTHEAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Mar-2014 with 3  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/kuntapphowtheao.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/keonama.jpg"
+ hdImg="https://i.malimarcdn.com/keonamaHD.jpg">
+<title>KEONAMA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Mar-2014 with 6  Episode(s) PLAY:  THU, FRI, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/keonama.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/konbap.jpg"
+ hdImg="https://i.malimarcdn.com/konbapHD.jpg">
+<title>KONBAP</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Mar-2014 with 3  Episode(s) PLAY:  THU, FRI, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/konbap.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kansaneaha.jpg"
+ hdImg="https://i.malimarcdn.com/kansaneahaHD.jpg">
+<title>KANSANEAHA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Mar-2014 with 2  Episode(s) PLAY:  THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/kansaneaha.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrathombuntengsinConcert.jpg"
+ hdImg="https://i.malimarcdn.com/PrathombuntengsinConcertHD.jpg">
+<title>PRATHOMBUNTENGS IN CONCERT</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Mar-2014 with 4  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrathombuntengsinConcert.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrathombuntengsinBunLangRak.jpg"
+ hdImg="https://i.malimarcdn.com/PrathombuntengsinBunLangRakHD.jpg">
+<title>PRATHOMBUNTENGSIN BUN LANG RAK</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Mar-2014 with 4  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PrathombuntengsinBunLangRak.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/30YearsPhetPinTong.jpg"
+ hdImg="https://i.malimarcdn.com/30YearsPhetPinTongHD.jpg">
+<title>30 YEARS PHET PIN TONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Mar-2014 with 5  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/30YearsPhetPinTong.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BuaPhan11.jpg"
+ hdImg="https://i.malimarcdn.com/BuaPhan11HD.jpg">
+<id>bua_phan_112672</id>
+<title>BUA PHAN 11</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3875</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Nov-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/BuaPhan11.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/CopTalent.jpg"
+ hdImg="https://i.malimarcdn.com/CopTalentHD.jpg">
+<id>cop_talent1784</id>
+<title>COP TALENT</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4959</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>CopTalent</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2012/CopTalent/CopTalent.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TalkShowOneManShow.jpg"
+ hdImg="https://i.malimarcdn.com/TalkShowOneManShowHD.jpg">
+<id>talk_show_one_man_show1786</id>
+<title>TALK SHOW ONE MAN SHOW</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>7766</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>TalkShowOneManShow</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2012/TalkShowOneManShow/TalkShowOneManShow.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Talok-21-10-08.jpg"
+ hdImg="https://i.malimarcdn.com/Talok-21-10-08HD.jpg">
+<id>talok_21_10_081783</id>
+<title>TALOK 21 10 08</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3664</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Talok-21-10-08</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2012/Talok-21-10-08/Talok-21-10-08.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/YongTalkShow7.jpg"
+ hdImg="https://i.malimarcdn.com/YongTalkShow7HD.jpg">
+<id>yong_talk_show_71785</id>
+<title>YONG TALK SHOW 7</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>9824</length>
+<PlayerBG></PlayerBG>
+<releaseDate>26-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>YongTalkShow7</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2012/YongTalkShow7/YongTalkShow7.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Diew10.jpg"
+ hdImg="https://i.malimarcdn.com/Diew10HD.jpg">
+<title>DIEW 10</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Aug-2013 with 3  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Diew10.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Diew9.jpg"
+ hdImg="https://i.malimarcdn.com/Diew9HD.jpg">
+<title>DIEW 9</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Aug-2013 with 4  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Diew9.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Diew9.5.jpg"
+ hdImg="https://i.malimarcdn.com/Diew9.5HD.jpg">
+<id>diew_nine_and_a_half1729</id>
+<title>DIEW NINE AND A HALF</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4451</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Aug-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2013/Diew9.5/Diew9.5.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HaNgaiTong.jpg"
+ hdImg="https://i.malimarcdn.com/HaNgaiTongHD.jpg">
+<id>ha_ngai_tong1680</id>
+<title>HA NGAI TONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3495</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Jul-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>HaNgaiTong</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2012/HaNgaiTong/HaNgaiTong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JisenConcert.jpg"
+ hdImg="https://i.malimarcdn.com/JisenConcertHD.jpg">
+<title>JISEN CONCERT</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Jul-2013 with 19  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/JisenConcert.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ShaneComeBack10.jpg"
+ hdImg="https://i.malimarcdn.com/ShaneComeBack10HD.jpg">
+<id>shane_come_back_101682</id>
+<title>SHANE COME BACK 10</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>10418</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Jul-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>ShaneComeBack10</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2012/ShaneComeBack10/ShaneComeBack10.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TalokNote.jpg"
+ hdImg="https://i.malimarcdn.com/TalokNoteHD.jpg">
+<id>talok_note1679</id>
+<title>TALOK NOTE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3626</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Jul-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>TalokNote</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2012/TalokNote/TalokNote.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TosapornYongNong.jpg"
+ hdImg="https://i.malimarcdn.com/TosapornYongNongHD.jpg">
+<id>tosaporn_yong_nong1681</id>
+<title>TOSAPORN YONG NONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>6887</length>
+<PlayerBG></PlayerBG>
+<releaseDate>24-Jul-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>TosapornYongNong</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2012/TosapornYongNong/TosapornYongNong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/3ChaChingRoiSunShineDay.jpg"
+ hdImg="https://i.malimarcdn.com/3ChaChingRoiSunShineDayHD.jpg">
+<title>3 CHA CHING ROI SUN SHINE DAY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Jul-2013 with 8  Episode(s) PLAY:  WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/3ChaChingRoiSunShineDay.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsanHD.jpg">
+<title>SIANG ESAN 19</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Oct-2012 with 6  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SiangEsan.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhaJaoKaoLiangCheevit.jpg"
+ hdImg="https://i.malimarcdn.com/PhaJaoKaoLiangCheevitHD.jpg">
+<title>PHA JAO KAO LIANG CHEEVIT</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Oct-2012 with 7  Episode(s) PLAY:  THU, FRI, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhaJaoKaoLiangCheevit.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MoLumNumTaMear.jpg"
+ hdImg="https://i.malimarcdn.com/MoLumNumTaMearHD.jpg">
+<title>MO LUM NUM TA MEAR</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Oct-2012 with 4  Episode(s) PLAY:  THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MoLumNumTaMear.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MorlumKraSue.jpg"
+ hdImg="https://i.malimarcdn.com/MorlumKraSueHD.jpg">
+<title>MORLUM KRA SUE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Oct-2012 with 4  Episode(s) PLAY:  THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MorlumKraSue.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan26.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsan26HD.jpg">
+<id>siang_esan_262715</id>
+<title>SIANG ESAN 26</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4033</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Oct-2012</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>SiangEsan</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2014/SiangEsan26.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan27v2.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsan27v2HD.jpg">
+<id>siang_esan_271979</id>
+<title>SIANG ESAN 27</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3793</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Oct-2012</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>SiangEsan</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2013/SiangEsan27.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SiangEsan28.jpg"
+ hdImg="https://i.malimarcdn.com/SiangEsan28HD.jpg">
+<id>siang_esan_281978</id>
+<title>SIANG ESAN 28</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4033</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Oct-2012</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>SiangEsan</synopsis>
+<genres>
+<genre>Comedy</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Comedy14/2013/SiangEsan28.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Valentine040413.jpg"
+ hdImg="https://i.malimarcdn.com/Valentine040413HD.jpg">
+<id>valentine_0404132671</id>
+<title>VALENTINE 040413</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>8760</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Nov-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/Valentine040413.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

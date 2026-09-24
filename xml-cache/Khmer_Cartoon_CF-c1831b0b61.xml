@@ -1,0 +1,952 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>52</itemCount>
+<totalCount>52</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BongPaounPlous26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BongPaounPlous26HD.jpg">
+<title>BONG PAOUN PLOUS CARTOON</title>
+<titlel>​តុក្តតា បងប្អូនភ្លោះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 9  Episode(s) PLAY: MON, WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BongPaounPlous26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/DomnerChivetKomaReyTheanTheanVak4.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/DomnerChivetKomaReyTheanTheanVak4HD.jpg">
+<title>DOMNER CHIVET KOMA REY THEAN THEAN VAK 4 CARTOON</title>
+<titlel>​តុក្តតា ដំនើរជីវិតកុមារធានធាន វគ្គ៤</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 6  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DomnerChivetKomaReyTheanTheanVak4.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/SomNerchTokataPuMi26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/SomNerchTokataPuMi26HD.jpg">
+<title>SOM NERCH TOKATA PU MI</title>
+<titlel>​តុក្កតា កំប្លែង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Sep-2026 with 35  Episode(s) PLAY:  TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SomNerchTokataPuMi26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/FunnyCartoon26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/FunnyCartoon26HD.jpg">
+<title>FUNNY CARTOON</title>
+<titlel>​តុក្កតា កំប្លែង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 44  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FunnyCartoon26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/NeaTiNiTeanKomsan26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/NeaTiNiTeanKomsan26HD.jpg">
+<title>NEA TI NI TEAN KOMSAN</title>
+<titlel>​តុក្កតា សំណើចតុក្កតាពូមី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 68  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NeaTiNiTeanKomsan26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/NiteanKoma26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/NiteanKoma26HD.jpg">
+<title>NITEAN KOMA CARTOON</title>
+<titlel>តុក្កតា និទានកុមារ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 36  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NiteanKoma26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/DomderBongkrabBeysachThanKorndal26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/DomderBongkrabBeysachThanKorndal26HD.jpg">
+<id>domder_bongkrab_beysach_than_korndal_cartoon28262</id>
+<title>DOMDER BONGKRAB BEYSACH THAN KORNDAL CARTOON</title>
+<titlel>រឿង ដំណើរបង្រ្កាបបិសាចឋានកណ្តាល</titlel>
+<Mweb>Y</Mweb>
+<length>6580</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Jul-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/DomderBongkrabBeysachThanKorndal/DomderBongkrabBeysachThanKorndal.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/DomnerSneKmeanTyBanhchob26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/DomnerSneKmeanTyBanhchob26HD.jpg">
+<id>domner_sne_kmean_ty_banhchob_cartoon28261</id>
+<title>DOMNER SNE KMEAN TY BANHCHOB CARTOON</title>
+<titlel>រឿង ដំណើរស្នេហ៌គ្មានទីបញ្ចប់</titlel>
+<Mweb>Y</Mweb>
+<length>6122</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Jul-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/DomnerSneKmeanTyBanhchob/DomnerSneKmeanTyBanhchob.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PiphupSruobVinhean26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PiphupSruobVinhean26HD.jpg">
+<id>piphup_sruob_vinhean_cartoon28260</id>
+<title>PIPHUP SRUOB VINHEAN CARTOON</title>
+<titlel>រឿង ពិភពស្រូបវិញ្ញាណ</titlel>
+<Mweb>Y</Mweb>
+<length>7246</length>
+<PlayerBG></PlayerBG>
+<releaseDate>8-Jul-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/PiphupSruobVinhean/PiphupSruobVinhean.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/DomnerChivetKomaReyTheanTheanVak3.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/DomnerChivetKomaReyTheanTheanVak3HD.jpg">
+<title>DOMNER CHIVET KOMA REY THEAN THEAN VAK 3 CARTOON</title>
+<titlel>​តុក្តតា ដំនើរជីវិតកុមារធានធាន វគ្គ៣</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Jul-2026 with 13  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DomnerChivetKomaReyTheanTheanVak3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KrodasSor26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KrodasSor26HD.jpg">
+<title>KRODAS SOR CARTOON</title>
+<titlel>តុក្កតា ក្រដាសស​</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jul-2026 with 42  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KrodasSor26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PunLokKomNit26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PunLokKomNit26HD.jpg">
+<title>PUN LOK KOM NIT</title>
+<titlel>ពន្លកគំនិត</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Jun-2026 with 14  Episode(s) PLAY:  TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PunLokKomNit26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/NiteanReungKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/NiteanReungKhmer26HD.jpg">
+<title>NITEAN REUNG KHMER CARTOON</title>
+<titlel>តុក្កតា និទានរឿងខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-Jun-2026 with 16  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NiteanReungKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PhnoOmpilOmpek26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PhnoOmpilOmpek26HD.jpg">
+<id>phno_ompil_ompek_cartoon27865</id>
+<title>PHNO OMPIL OMPEK CARTOON</title>
+<titlel>រឿង ផ្លូវអំពិលអំពែក</titlel>
+<Mweb>Y</Mweb>
+<length>5092</length>
+<PlayerBG></PlayerBG>
+<releaseDate>23-Feb-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/PhnoOmpilOmpek/PhnoOmpilOmpek.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/SmardeyTorsuSdachLorkMungsay26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/SmardeyTorsuSdachLorkMungsay26HD.jpg">
+<id>smardey_torsu_sdach_lork_mungsay_cartoon27848</id>
+<title>SMARDEY TORSU SDACH LORK MUNGSAY CARTOON</title>
+<titlel>រឿង ស្មារតីតស៊ូស្តេចឡកម៉ុងសាយ</titlel>
+<Mweb>Y</Mweb>
+<length>5834</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Feb-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/SmardeyTorsuSdachLorkMungsay/SmardeyTorsuSdachLorkMungsay.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PrengNiteanKonChhmaKhmavVak2.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PrengNiteanKonChhmaKhmavVak2HD.jpg">
+<id>preng_nitean_kon_chhma_khmav_vak_2_cartoon27844</id>
+<title>PRENG NITEAN KON CHHMA KHMAV VAK 2 CARTOON</title>
+<titlel>រឿង ព្រេងនិទានកូនឆ្មាខ្មៅវគ្គ២</titlel>
+<Mweb>Y</Mweb>
+<length>6989</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Feb-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/PrengNiteanKonChhmaKhmavVak2/PrengNiteanKonChhmaKhmavVak2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/NakBromanhBeysachVak1.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/NakBromanhBeysachVak1HD.jpg">
+<id>nak_bromanh_beysach_vak_1_cartoon27822</id>
+<title>NAK BROMANH BEYSACH VAK 1 CARTOON</title>
+<titlel>តុក្កតា អ្នកប្រម៉ាញ់បិសាច វគ្គ១</titlel>
+<Mweb>Y</Mweb>
+<length>8933</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Feb-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/NakBromanhBeysachVak1/NakBromanhBeysachVak1.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PrengNiteanKonChhmaKhmav26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PrengNiteanKonChhmaKhmav26HD.jpg">
+<id>preng_nitean_kon_chhma_khmav_cartoon27818</id>
+<title>PRENG NITEAN KON CHHMA KHMAV CARTOON</title>
+<titlel>រឿង ព្រេងនិទានកូនឆ្មាខ្មៅ</titlel>
+<Mweb>Y</Mweb>
+<length>5949</length>
+<PlayerBG></PlayerBG>
+<releaseDate>11-Feb-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/PrengNiteanKonChhmaKhmav/PrengNiteanKonChhmaKhmav.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KonBeysachChetThomTovChomlongThor26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KonBeysachChetThomTovChomlongThor26HD.jpg">
+<id>kon_beysach_chet_thom_tov_chomlong_thor_cartoon27680</id>
+<title>KON BEYSACH CHET THOM TOV CHOMLONG THOR CARTOON</title>
+<titlel>តុក្កតា កូននិសាចចិត្តធំទៅចម្លងធម៌</titlel>
+<Mweb>Y</Mweb>
+<length>6668</length>
+<PlayerBG></PlayerBG>
+<releaseDate>9-Jan-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/KonBeysachChetThomTovChomlongThor/KonBeysachChetThomTovChomlongThor.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TebothNajaVak2.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TebothNajaVak2HD.jpg">
+<id>teboth_naja_vak_2_cartoon27618</id>
+<title>TEBOTH NAJA VAK 2 CARTOON</title>
+<titlel>តុក្កតា ទេបុត្រណាចាវគ្គ២</titlel>
+<Mweb>Y</Mweb>
+<length>7875</length>
+<PlayerBG></PlayerBG>
+<releaseDate>2-Jan-2026</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon26/TebothNajaVak2/TebothNajaVak2.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/KhmerFairyTales25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/KhmerFairyTales25HD.jpg">
+<title>KHMER FAIRY TALES</title>
+<titlel>រឿងនិទាន ទេពអប្សរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Dec-2025 with 42  Episode(s) PLAY: MON, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerFairyTales25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/NiteanKoma25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/NiteanKoma25HD.jpg">
+<title>NITEAN KOMA CARTOON 2025</title>
+<titlel>តុក្កតា និទានកុមារ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Dec-2025 with 77  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NiteanKoma25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/TebothNaja25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/TebothNaja25HD.jpg">
+<id>teboth_naja_cartoon26508</id>
+<title>TEBOTH NAJA CARTOON</title>
+<titlel>តុក្កតា ទេបុត្រណាចា</titlel>
+<Mweb>Y</Mweb>
+<length>5352</length>
+<PlayerBG></PlayerBG>
+<releaseDate>28-Apr-2025</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon25/TebothNaja/TebothNaja.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/NivNanThang25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/NivNanThang25HD.jpg">
+<title>NIV NAN THANG CARTOON</title>
+<titlel>​តុក្កតា នីវណានថាង</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Feb-2025 with 11  Episode(s) PLAY: MON, TUE, WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NivNanThang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KomnertVireakBoros24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KomnertVireakBoros24HD.jpg">
+<title>KOMNERT VIREAK BOROS CARTOON</title>
+<titlel>តុក្កតា កំណើតវីរៈបុរស</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Nov-2024 with 13  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KomnertVireakBoros24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/MdayTeav24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/MdayTeav24HD.jpg">
+<id>mday_teav_cartoon25517</id>
+<title>MDAY TEAV CARTOON</title>
+<titlel>តុក្កតា ម្តាយទាវ</titlel>
+<Mweb>Y</Mweb>
+<length>1383</length>
+<PlayerBG></PlayerBG>
+<releaseDate>16-Oct-2024</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon24/MdayTeav/MdayTeav.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KolabPaiLin24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KolabPaiLin24HD.jpg">
+<id>kolab_pai_lin_cartoon25481</id>
+<title>KOLAB PAI LIN CARTOON</title>
+<titlel>តុក្កតា កូលាបប៉ៃលិន</titlel>
+<Mweb>Y</Mweb>
+<length>1500</length>
+<PlayerBG></PlayerBG>
+<releaseDate>3-Oct-2024</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon24/KolabPaiLin/KolabPaiLin.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/PchumBenLerKosPret24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/PchumBenLerKosPret24HD.jpg">
+<id>pchum_ben_ler_kos_pret_cartoon25477</id>
+<title>PCHUM BEN LER KOS PRET CARTOON</title>
+<titlel>តុក្កតា ភ្ជុំបិណ្ឌលើកោះប្រេត</titlel>
+<Mweb>Y</Mweb>
+<length>1258</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Oct-2024</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon24/PchumBenLerKosPret/PchumBenLerKosPret.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/NakSerbAngKetKuBi24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/NakSerbAngKetKuBi24HD.jpg">
+<title>NAK SERB ANG KET KU BI CARTOON</title>
+<titlel>តុក្កតា អ្នកសើបអង្គេតគូប៊ី​</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Sep-2024 with 52  Episode(s) PLAY:  WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NakSerbAngKetKuBi24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/PkaSroPon24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/PkaSroPon24HD.jpg">
+<id>pka_sro_pon_cartoon25446</id>
+<title>PKA SRO PON CARTOON</title>
+<titlel>តុក្កតា ផ្កាស្រពោន</titlel>
+<Mweb>Y</Mweb>
+<length>1013</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Sep-2024</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon24/PkaSroPon/PkaSroPon.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/KonDayNausarMeKbalKhauch24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/KonDayNausarMeKbalKhauch24HD.jpg">
+<title>KON DAY NAUSAR ME KBAL KHAUCH CARTOON</title>
+<titlel>កុក្តតា កូនដាយណូស័រមេក្បាលខូច</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Jul-2024 with 23  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KonDayNausarMeKbalKhauch24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/AirplaneFairyTales24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/AirplaneFairyTales24HD.jpg">
+<title>AIRPLANE FAIRY TALES CARTOON</title>
+<titlel>តុក្កតា ទេពធីតាយន្តហោះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Jul-2024 with 30  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AirplaneFairyTales24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/ReanPheasaChinCheaMuyDobyNingDisy24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/ReanPheasaChinCheaMuyDobyNingDisy24HD.jpg">
+<title>REAN PHEASA CHIN CHEA MUY DOBY NING DISY CARTOON</title>
+<titlel>កុក្តតា រៀនភាសាចិនជាមួយឌូបីនិងដេហ្សី</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-May-2024 with 52  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReanPheasaChinCheaMuyDobyNingDisy24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/OmNachNeyNeakReachVak1.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/OmNachNeyNeakReachVak1HD.jpg">
+<title>OM NACH NEY NEAK REACH VAK 1 CARTOON</title>
+<titlel>កុក្តតា អំណាចនៃនាគរាជ វគ្គ១</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-May-2024 with 25  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OmNachNeyNeakReachVak1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/DubMeunSomNerchVak2.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/DubMeunSomNerchVak2HD.jpg">
+<title>DUB MEUN SOM NERCH VAK 2 CARTOON</title>
+<titlel>កុក្តតា ដប់មឺនសំណើច វគ្គ២</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-May-2024 with 12  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DubMeunSomNerchVak2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/DubMeunSomNerchVak1.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/DubMeunSomNerchVak1HD.jpg">
+<title>DUB MEUN SOM NERCH VAK 1 CARTOON</title>
+<titlel>កុក្តតា ដប់មឺនសំណើច វគ្គ១</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Apr-2024 with 12  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DubMeunSomNerchVak1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/DomnerChhlongSakMaiKal24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/DomnerChhlongSakMaiKal24HD.jpg">
+<id>domner_chhlong_sak_mai_kal_cartoon24930</id>
+<title>DOMNER CHHLONG SAK MAI KAL CARTOON</title>
+<titlel>តុក្កតា ដំណើរឆ្លងសម័យកាល</titlel>
+<Mweb>Y</Mweb>
+<length>5333</length>
+<PlayerBG></PlayerBG>
+<releaseDate>28-Mar-2024</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerCartoon24/DomnerChhlongSakMaiKal/DomnerChhlongSakMaiKal.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/NiteanObrom24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/NiteanObrom24HD.jpg">
+<title>NITEAN OBROM CARTOON</title>
+<titlel>តុក្កតា និទានអប់រំ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Feb-2024 with 3  Episode(s) PLAY:  TUE, WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NiteanObrom24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/PiphubKoma24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/PiphubKoma24HD.jpg">
+<title>PIPHUB KOMA CARTOON</title>
+<titlel>តុក្កតា ពិភពកុមារ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Feb-2024 with 9  Episode(s) PLAY:  TUE, WED, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PiphubKoma24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/AhnaChakSat23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/AhnaChakSat23HD.jpg">
+<title>AHNA CHAK SAT CARTOON</title>
+<titlel>កុក្តតា អាណាចក្រសត្វ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Dec-2023 with 19  Episode(s) PLAY: MON, TUE, WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AhnaChakSat23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/KonSvaSorkSor23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/KonSvaSorkSor23HD.jpg">
+<title>KON SVA SORK SOR CARTOON</title>
+<titlel>កុក្តតា កូនស្វាស</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Oct-2023 with 22  Episode(s) PLAY: MON, TUE, WED  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KonSvaSorkSor23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/OrubBakorVetmun23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/OrubBakorVetmun23HD.jpg">
+<id>orubbakorvetmun_cartoon23315</id>
+<title>ORUBBAKORVETMUN CARTOON</title>
+<titlel>រឿង ឧបករណ៌វេទមន្ត</titlel>
+<Mweb>Y</Mweb>
+<length>5212</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Aug-2023</releaseDate>
+<rating>TV-14</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://khmervodhls.malimarcdn.net/KhmerMovies23/OrubBakorVetmun/OrubBakorVetmun.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/DomnerPsongPrengRbosDobyNingDisy23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/DomnerPsongPrengRbosDobyNingDisy23HD.jpg">
+<title>DOMNER PSONG PRENG RBOS DOBY NING DISY CARTOON</title>
+<titlel>តុក្កតា ដំណើរផ្សងព្រេង DOBEY និង DISY</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Aug-2023 with 52  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DomnerPsongPrengRbosDobyNingDisy23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/VireakBorosKongTeabChheanMuk23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/VireakBorosKongTeabChheanMuk23HD.jpg">
+<title>VIREAK BOROS KONG TEAB CHHEAN MUK CARTOON</title>
+<titlel>តុក្កតា វីរបុរសកងទ័ពឈានមុខ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Jul-2023 with 51  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VireakBorosKongTeabChheanMuk23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/ChivetNovBatSakmut23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/ChivetNovBatSakmut23HD.jpg">
+<title>CHIVET NOV BAT SAKMUT CARTOON</title>
+<titlel>តុក្កតា ជីវិតនៅបាតសមុទ្រ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Jul-2023 with 6  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChivetNovBatSakmut23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/ArtkombangTiKrongSat23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/ArtkombangTiKrongSat23HD.jpg">
+<title>ARTKOMBANG TI KRONG SAT CARTOON</title>
+<titlel>តុក្កតា អាថ៌កំបាំងទីក្រុងសត្វ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Jul-2023 with 9  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ArtkombangTiKrongSat23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/NeaTiNiTeanKomsan23.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/NeaTiNiTeanKomsan23HD.jpg">
+<title>NEA TI NI TEAN KOMSAN CARTOON</title>
+<titlel>នាទីនិទានកំសាន្ត</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Apr-2023 with 45  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NeaTiNiTeanKomsan23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/PoliceYunDragonForce22.jpg"
+ hdImg="https://i.malimarcdn.com/kh/PoliceYunDragonForce22HD.jpg">
+<title>POLICE YUN DRAGON FORCE CARTOON</title>
+<titlel>​តុក្តតា ប៉ុលីសយន្តត្រាហ្គនហ្វស</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Dec-2022 with 23  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PoliceYunDragonForce22.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/KungFuChhikKhin22.jpg"
+ hdImg="https://i.malimarcdn.com/kh/KungFuChhikKhin22HD.jpg">
+<title>KUNG FU CHHIK KHIN CARTOON</title>
+<titlel>​តុក្តតា កុងហ្វូឈីកខិន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Dec-2022 with 52  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KungFuChhikKhin22.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/LorkTaThongVetaMun22.jpg"
+ hdImg="https://i.malimarcdn.com/kh/LorkTaThongVetaMun22HD.jpg">
+<title>LORK TA THONG VETA MUN CARTOON</title>
+<titlel>​តុក្តតា លោកតាថង់វេទមន្ត</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Dec-2022 with 52  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LorkTaThongVetaMun22.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/DomnerChivetKomaReyTheanTheanVak2.jpg"
+ hdImg="https://i.malimarcdn.com/kh/DomnerChivetKomaReyTheanTheanVak2HD.jpg">
+<title>DOMNER CHIVET KOMA REY THEAN THEAN VAK 2 CARTOON</title>
+<titlel>​តុក្តតា ដំនើរជីវិតកុមារធានធាន វគ្គ២</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Nov-2022 with 13  Episode(s) PLAY:  FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DomnerChivetKomaReyTheanTheanVak2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/DomnerChivetKomaReyTheanTheanVak1.jpg"
+ hdImg="https://i.malimarcdn.com/kh/DomnerChivetKomaReyTheanTheanVak1HD.jpg">
+<title>DOMNER CHIVET KOMA REY THEAN THEAN VAK 1 CARTOON</title>
+<titlel>​តុក្តតា ដំនើរជីវិតកុមារធានធាន វគ្គ១</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-Oct-2022 with 12  Episode(s) PLAY:  FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DomnerChivetKomaReyTheanTheanVak1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

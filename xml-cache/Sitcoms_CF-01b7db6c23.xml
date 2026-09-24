@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>13</itemCount>
+<totalCount>13</totalCount>
+<item sdImg="https://i.malimarcdn.com/Sitcom25/Sitcom25.jpg"
+ hdImg="https://i.malimarcdn.com/Sitcom25/Sitcom25HD.jpg">
+<title>SITCOM 2025</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Sitcom25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2024.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2024HD.jpg">
+<title>SITCOM 2024</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2024.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Sitcom23/sitcoms2023.jpg"
+ hdImg="https://i.malimarcdn.com/Sitcom23/sitcoms2023HD.jpg">
+<title>SITCOM 2023</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2023.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2022.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2022HD.jpg">
+<title>SITCOM 2022</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2022.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2021.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2021HD.jpg">
+<title>SITCOM 2021</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2021.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2020.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2020HD.jpg">
+<title>SITCOM 2020</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2020.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2019.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2019HD.jpg">
+<title>SITCOM 2019</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2019.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2018.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2018HD.jpg">
+<title>SITCOM 2018</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2018.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2017.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2017HD.jpg">
+<title>SITCOM 2017</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2017.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2016.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2016HD.jpg">
+<title>SITCOM 2016</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2016.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2015.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2015HD.jpg">
+<title>SITCOM 2015</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2015.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2014.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2014HD.jpg">
+<title>SITCOM 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2014.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/sitcoms2013.jpg"
+ hdImg="https://i.malimarcdn.com/sitcoms2013HD.jpg">
+<title>SITCOM 2013</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/sitcoms2013.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

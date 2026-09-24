@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>54</itemCount>
+<totalCount>54</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ApsaraSportNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ApsaraSportNews26HD.jpg">
+<title>APSARA SPORT NEWS</title>
+<titlel>កីឡាល្ងាចនេះពីអប្សារា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 81  Episode(s) PLAY: MON, TUE, WED, THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ApsaraSportNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVSportNews26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVSportNews26HD.jpg">
+<title>BTV SPORT NEWS</title>
+<titlel>ព័ត៌មានកីឡា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 98  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVSportNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BTVSportTalk26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BTVSportTalk26HD.jpg">
+<title>BTV SPORT TALK</title>
+<titlel>ការពិភាក្សាអំពីកីឡា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 59  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BTVSportTalk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PeanRongvonSomdachHunSenS2.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PeanRongvonSomdachHunSenS2HD.jpg">
+<title>PEAN RONGVON SOMDACH HUN SEN S 2</title>
+<titlel>បាល់ទាត់ពានរង្វាន់សម្តេចហ៊ុនសែន ២</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Sep-2026 with 44  Episode(s) PLAY:  TUE, WED, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PeanRongvonSomdachHunSenS2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ArkthireachBalTeas26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ArkthireachBalTeas26HD.jpg">
+<title>ARKTHIREACH BAL TEAS</title>
+<titlel>អធិរាជបាល់ទះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Sep-2026 with 31  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ArkthireachBalTeas26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/BrodalKunKhmerCTN26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/BrodalKunKhmerCTN26HD.jpg">
+<title>BRODAL KUN KHMER CTN</title>
+<titlel>ប្រដាល់គុនខ្នែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 2  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BrodalKunKhmerCTN26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CherngEkBroDalKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CherngEkBroDalKunKhmer26HD.jpg">
+<title>CHERNG EK BRO DAL KUN KHMER</title>
+<titlel>ជើងឯកប្រដាល់គុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 22  Episode(s) PLAY: MON, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CherngEkBroDalKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ThamPolNakBroYothKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ThamPolNakBroYothKunKhmer26HD.jpg">
+<title>THAM POL NAK BRO YOTH KUN KHMER</title>
+<titlel>ថាមពលអ្នកប្រយុទ្ធគុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 35  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThamPolNakBroYothKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTV8GoalZone26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTV8GoalZone26HD.jpg">
+<title>CTV 8 GOAL ZONE</title>
+<titlel>ព័ត៏មានប៉ុស្ត៏លេខ៨ប្រចាំថ្ងៃ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 72  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTV8GoalZone26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/FactsRumoresOfSport26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/FactsRumoresOfSport26HD.jpg">
+<title>FACTS RUMORES OF SPORT</title>
+<titlel>អេចអូចកីឡា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 21  Episode(s) PLAY:  TUE, WED, THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FactsRumoresOfSport26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/NakChombangKomlangKompuchea26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/NakChombangKomlangKompuchea26HD.jpg">
+<title>NAK CHOMBANG KOMLANG KOMPUCHEA</title>
+<titlel>អ្នកចម្បាំងកម្លាំងកម្ពុជា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 37  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NakChombangKomlangKompuchea26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/SportCaffe26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/SportCaffe26HD.jpg">
+<title>SPORT CAFFE</title>
+<titlel>កាហ្វេកីឡា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 32  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SportCaffe26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/SuperKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/SuperKunKhmer26HD.jpg">
+<title>SUPER KUN KHMER</title>
+<titlel>កំពូលគុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 2  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SuperKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TokPiphopKun26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TokPiphopKun26HD.jpg">
+<title>TOK PIPHOP KUN</title>
+<titlel>តុពិភពគុន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 37  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TokPiphopKun26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TV5KunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TV5KunKhmer26HD.jpg">
+<title>TV 5 KUN KHMER</title>
+<titlel>គុនខ្មែរប៉ុស្តិលេខ៥​</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 37  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TV5KunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/XTremeKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/XTremeKunKhmer26HD.jpg">
+<title>X TREME KUN KHMER</title>
+<titlel>កម្ពុជាគុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 37  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/XTremeKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KompolNakChombangKompuchea26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KompolNakChombangKompuchea26HD.jpg">
+<title>KOMPOL NAK CHOMBANG KOMPUCHEA</title>
+<titlel>កំពូលអ្នកចម្បាំងកម្ពុជា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 3  Episode(s) PLAY:  FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KompolNakChombangKompuchea26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ReatreyBroYothBroDalCherngEk26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ReatreyBroYothBroDalCherngEk26HD.jpg">
+<title>REATREY BRO YOTH BRO DAL CHERNG EK</title>
+<titlel>រាត្រីប្រយុទ្ធប្រដាល់ជើងឯក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 6  Episode(s) PLAY:  FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReatreyBroYothBroDalCherngEk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/NakChomBangKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/NakChomBangKunKhmer26HD.jpg">
+<title>NAK CHOM BANG KUN KHMER</title>
+<titlel>កីឡាប្រដាល់ អ្នកចម្បាំងគុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Sep-2026 with 3  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NakChomBangKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/SuperStrengthKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/SuperStrengthKunKhmer26HD.jpg">
+<title>SUPER STRENGTH KUN KHMER</title>
+<titlel>គូដណ្តើមពាន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Sep-2026 with 3  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SuperStrengthKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TVKKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TVKKunKhmer26HD.jpg">
+<title>TVK KUN KHMER</title>
+<titlel>ទទក គុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Sep-2026 with 19  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TVKKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KunKhmerWarriors26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KunKhmerWarriors26HD.jpg">
+<title>KUN KHMER WARRIORS</title>
+<titlel>អ្នកចម្បាំងគុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Sep-2026 with 32  Episode(s) PLAY:  SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KunKhmerWarriors26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TV5SportWeekly26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TV5SportWeekly26HD.jpg">
+<title>TV 5 SPORT WEEKLY</title>
+<titlel>ទូរទស្សន៍លេខ៥ កីឡាប្រចាំសប្តាហ៍</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Sep-2026 with 14  Episode(s) PLAY: MON  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TV5SportWeekly26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/TV5Sport26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/TV5Sport26HD.jpg">
+<title>TV 5 SPORT</title>
+<titlel>ទូរទស្សន៍លេខ៥ កីឡាប្រចាំសប្តាហ៍</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Sep-2026 with 9  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TV5Sport26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/AFCU20AsianCupQualaifiers26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/AFCU20AsianCupQualaifiers26HD.jpg">
+<title>AFC U 20 ASIAN CUP QUALIFIERS</title>
+<titlel>បាល់ទាត់ជើងឯកយុវជនអាយុក្រោម២០ឆ្នាំ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Sep-2026 with 4  Episode(s) PLAY: MON  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AFCU20AsianCupQualaifiers26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ASEANHyundaiCup26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ASEANHyundaiCup26HD.jpg">
+<title>ASEAN HYUNDAI CUP</title>
+<titlel>ពានរង្វាន់ HYUNDAI CUP ជើងឯកអាស៊ាន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Sep-2026 with 12  Episode(s) PLAY: MON, TUE, WED, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ASEANHyundaiCup26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KarBroKoutBalTeatMitPheapSabBoRosThor26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KarBroKoutBalTeatMitPheapSabBoRosThor26HD.jpg">
+<title>KAR BRO KOUT BAL TEAT MIT PHEAP SAB BO ROS THOR</title>
+<titlel>ការប្រកួតបាល់ទាត់មិត្តភាពសប្បុរសធម៌</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Sep-2026 with 2  Episode(s) PLAY:  THU  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KarBroKoutBalTeatMitPheapSabBoRosThor26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/SongVeanBroDalTVK26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/SongVeanBroDalTVK26HD.jpg">
+<title>SONG VEAN BRO DAL TVK</title>
+<titlel>សង្វៀនប្រដាល់ ទទក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Jul-2026 with 25  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SongVeanBroDalTVK26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/FIFAWorldCup26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/FIFAWorldCup26HD.jpg">
+<title>FIFA WORLD CUP 2026</title>
+<titlel>ហ្វីហ្វាបាល់ទាត់ពិភពលោក</titlel>
+<Mweb>N</Mweb>
+<description>Updated: 19-Jul-2026 with 100  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FIFAWorldCup26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/VolleyballTechoLeagueS3.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/VolleyballTechoLeagueS3HD.jpg">
+<title>VOLLEYBALL TECHO LEAGUE S 3</title>
+<titlel>បាល់ទេះពានរង្វាន់រដូវកាលទី៣</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Jul-2026 with 45  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VolleyballTechoLeagueS3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CNCKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CNCKunKhmer26HD.jpg">
+<title>CNC KUN KHMER</title>
+<titlel>ការប្រកួតប្រដាល់គុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Jun-2026 with 22  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CNCKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/RoadToFIFAWorldCup26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/RoadToFIFAWorldCup26HD.jpg">
+<title>ROAD TO FIFA WORLD CUP</title>
+<titlel>ផ្លូវទៅកាន់ពានរង្វាន់ហ្វីហ្វាបាល់ទាត់ពិភពលោក</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2026 with 5  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RoadToFIFAWorldCup26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/PeanRongvonSomdachHunSen25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/PeanRongvonSomdachHunSen25HD.jpg">
+<title>PEAN RONGVON SOMDACH HUN SEN</title>
+<titlel>បាល់ទាត់ពានរង្វាន់សម្តេច ហ៊ុនសែន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-May-2026 with 98  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PeanRongvonSomdachHunSen25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/CambodianPremierLeague25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/CambodianPremierLeague25HD.jpg">
+<title>CAMBODIAN PREMIER LEAGUE</title>
+<titlel>កាប្រគួតបាល់ទាត់លិគកំពូលកម្ពុជា</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-May-2026 with 104  Episode(s) PLAY: MON, TUE, WED, THU, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CambodianPremierLeague25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/AseanClubChampionshipShopeeCup2025.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/AseanClubChampionshipShopeeCup2025HD.jpg">
+<title>ASEAN CLUB CHAMPIONSHIP SHOPEE CUP 2025 26</title>
+<titlel>ពានរង្វាន់ក្លឹបអាស៊ាន SHOPEE CUP</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-May-2026 with 11  Episode(s) PLAY: MON, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AseanClubChampionshipShopeeCup2025.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/CTNKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/CTNKunKhmer26HD.jpg">
+<title>CTN KUN KHMER</title>
+<titlel>ការប្រកួតប្រដាល់គុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 9-May-2026 with 12  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/CTNKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNSportsDaily26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNSportsDaily26HD.jpg">
+<title>PNN SPORTS DAILY NEWS</title>
+<titlel>ភីអ៊ែនអ៊ែន កីឡាប្រចាំថ្ងៃ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2026 with 86  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNSportsDaily26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PNNKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PNNKunKhmer26HD.jpg">
+<title>PNN KUN KHMER</title>
+<titlel>ប្រដាល់គុនខ្មែរ ភីអិនអិន</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Mar-2026 with 9  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PNNKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KingOfPowerKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KingOfPowerKunKhmer26HD.jpg">
+<title>KING OF POWER KUN KHMER</title>
+<titlel>ស្តេចនៃអំណាចគុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Mar-2026 with 12  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KingOfPowerKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/PeanRongvonSomdachSorKhenhSeason4.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/PeanRongvonSomdachSorKhenhSeason4HD.jpg">
+<title>PEAN RONGVON SOMDACH SOR KHENH SEASON 4</title>
+<titlel>បាល់ទះពានរង្វាន់សម្តេច ស ខេង ៤</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Mar-2026 with 62  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PeanRongvonSomdachSorKhenhSeason4.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/DenAhChaRiYeakNeyBalTeat26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/DenAhChaRiYeakNeyBalTeat26HD.jpg">
+<title>DEN AH CHA RI YEAK NEY BAL TEAT</title>
+<titlel>ដែកដីអច្ឆរិយនៃបាល់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Feb-2026 with 7  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DenAhChaRiYeakNeyBalTeat26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ViTheyBeySachKroHorm26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ViTheyBeySachKroHorm26HD.jpg">
+<title>VI THEY BEY SACH KRO HORM</title>
+<titlel>វិថីបីសាចក្រហម</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Jan-2026 with 3  Episode(s) PLAY: MON  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ViTheyBeySachKroHorm26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KompolNakChomBangKunKhmer26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KompolNakChomBangKunKhmer26HD.jpg">
+<title>KOMPOL NAK CHOM BANG KUN KHMER</title>
+<titlel>កំពូលអ្នកចម្បាំងគុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Jan-2026 with 1  Episode(s) PLAY:  SUN  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KompolNakChomBangKunKhmer26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/KomLangKorJoul26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/KomLangKorJoul26HD.jpg">
+<title>KOM LANG KOR JOUL</title>
+<titlel>កម្លាំងគោជល់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Jan-2026 with 2  Episode(s) PLAY:  SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KomLangKorJoul26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/GolfLegendsChampionship25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/GolfLegendsChampionship25HD.jpg">
+<title>GOLF LEGENDS CHAMPIONSHIP</title>
+<titlel>ការប្រកួតវាយកូនគោលពានរង្វាន់</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Dec-2025 with 19  Episode(s) PLAY: MON, WED, THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GolfLegendsChampionship25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/WurkzSpecialVolleyballCupSeason2.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/WurkzSpecialVolleyballCupSeason2HD.jpg">
+<title>WURKZ SPECIAL VOLLEYBALL CUP SEASON 2</title>
+<titlel>ការប្រកួតពានរង្វាន់បាល់ទះ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Jun-2025 with 91  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WurkzSpecialVolleyballCupSeason2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/UEFAEuro2024.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/UEFAEuro2024HD.jpg">
+<title>UEFA EURO 2024 GERMANY</title>
+<titlel>ប្រកួតបាល់ទាត់ពានរង្វាន់ទ្វីបអឺរ៉ុប២០២៤</titlel>
+<Mweb>N</Mweb>
+<description>Updated: 14-Jul-2024 with 46  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/UEFAEuro2024.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/KayvabkamDermbeySokpheap21.jpg"
+ hdImg="https://i.malimarcdn.com/kh/KayvabkamDermbeySokpheap21HD.jpg">
+<title>KAYVABKAM DERMBEY SOKPHEAP</title>
+<titlel>កាយវប្បកម្មដើម្បីសុខភាព</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-May-2021 with 27  Episode(s) PLAY: Everyday  : Khmer</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KayvabkamDermbeySokpheap21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/KhmerBoxing03.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/KhmerBoxing03HD.jpg">
+<title>KHMER BOXING</title>
+<titlel>កីឡាប្រដាល់គុនខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerBoxing03.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2025/KhmerFootball25.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2025/KhmerFootball25HD.jpg">
+<title>KHMER FOOTBALL</title>
+<titlel>កីឡាបាល់ទាត់ខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhmerFootball25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/ParisOlympics24.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/ParisOlympics24HD.jpg">
+<title>PARIS OLYMPICS 2024</title>
+<titlel>កីឡាអូឡាំប៉ារីស ២០២៤</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ParisOlympics24.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/32ndSeaGames.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/32ndSeaGamesHD.jpg">
+<title>32ND SEA GAMES</title>
+<titlel>ស៊ីហ្គេមលើកទី៣២</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/32ndSeaGames.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/12thASEANParaGames.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/12thASEANParaGamesHD.jpg">
+<title>12TH ASEAN PARA GAMES</title>
+<titlel>អាស៊ានប៉ារ៉ាហ្កេមលើកទី១២</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/12thASEANParaGames.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/AsianGames19thHangzhou.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/AsianGames19thHangzhouHD.jpg">
+<title>ASIAN GAMES 19TH HANGZHOU</title>
+<titlel>អាស៊ានប៉ារ៉ាហ្កេមលើកទី១២</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AsianGames19thHangzhou.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

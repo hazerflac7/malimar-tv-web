@@ -1,0 +1,3587 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>358</itemCount>
+<totalCount>358</totalCount>
+<item sdImg="https://i.malimarcdn.com/News26/3TamTitKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/3TamTitKhao26HD.jpg">
+<title>3 TAM TIT KHAO</title>
+<titlel>3 ตามติดข่าว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 171  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/3TamTitKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/360NewShow26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/360NewShow26HD.jpg">
+<title>360 NEW SHOW</title>
+<titlel>360องศานิวโชว์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 137  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/360NewShow26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/9KhaoChao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/9KhaoChao26HD.jpg">
+<title>9 KHAO CHAO</title>
+<titlel>9ข่าวเช้า 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/9KhaoChao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/AoHaiChat26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/AoHaiChat26HD.jpg">
+<title>AO HAI CHAT</title>
+<titlel>เอาให้ชัด 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 148  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AoHaiChat26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/Apop26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/Apop26HD.jpg">
+<title>APOP</title>
+<titlel>บันเทิง 34 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 180  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Apop26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/BangkokGossip26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/BangkokGossip26HD.jpg">
+<title>BANGKOK GOSSIP</title>
+<titlel>บางกอกกระชิบ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 189  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BangkokGossip26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/BanthoengThaiRat26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/BanthoengThaiRat26HD.jpg">
+<title>BANTHOENG THAI RAT</title>
+<titlel>บันเทิงไทยรํฐ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 263  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BanthoengThaiRat26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChaeKhaoChao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChaeKhaoChao26HD.jpg">
+<title>CHAE KHAO CHAO</title>
+<titlel>แฉข่าวเช้า 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaeKhaoChao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChaoKhaoKhem26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChaoKhaoKhem26HD.jpg">
+<title>CHAO KHAO KHEM</title>
+<titlel>เช้าข่าวเข้ม 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaoKhaoKhem26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChaoNeeTeeMorchit26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChaoNeeTeeMorchit26HD.jpg">
+<title>CHAO NEE TEE MORCHIT</title>
+<titlel>เช้านี้ที่หมดชิด 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaoNeeTeeMorchit26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChaoNiKhayiKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChaoNiKhayiKhao26HD.jpg">
+<title>CHAO NI KHAYI KHAO</title>
+<titlel>เช้านี้ขยี้ข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 267  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaoNiKhayiKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChapKhaoKhun26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChapKhaoKhun26HD.jpg">
+<title>CHAP KHAO KHUN</title>
+<titlel>จับข่าวคุย 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 171  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChapKhaoKhun26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChaptaPrathetThai26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChaptaPrathetThai26HD.jpg">
+<title>CHAPTA PRATHET THAI</title>
+<titlel>จับตาประเทศไทย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 186  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaptaPrathetThai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChaptaRopThit26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChaptaRopThit26HD.jpg">
+<title>CHAPTA ROP THIT</title>
+<titlel>จับตารอบทิศ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 175  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaptaRopThit26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChaptaSathanakanThaiPBS26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChaptaSathanakanThaiPBS26HD.jpg">
+<title>CHAPTA SATHANAKAN THAI PBS</title>
+<titlel>จับตาสถานการณ์ THAI PBS 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 177  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaptaSathanakanThaiPBS26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChatKhaoThiang26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChatKhaoThiang26HD.jpg">
+<title>CHAT KHAO THIANG</title>
+<titlel>ชัดข่าวเที่ยง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 264  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChatKhaoThiang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChoKhaoChao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChoKhaoChao26HD.jpg">
+<title>CHO KHAO CHAO</title>
+<titlel>จ้อข่าวเช้า2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoKhaoChao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChoKhaoChaoNi26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChoKhaoChaoNi26HD.jpg">
+<title>CHO KHAO CHAO NI</title>
+<titlel>โชว์ข่าวเช้านี้ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoKhaoChaoNi26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChoLuekThuaThai26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChoLuekThuaThai26HD.jpg">
+<title>CHO LUEK THUA THAI</title>
+<titlel>เจาะลึกทั่วไทย 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 189  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoLuekThuaThai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/Chong5KhaoChao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/Chong5KhaoChao26HD.jpg">
+<title>CHONG 5 KHAO CHAO</title>
+<titlel>ช่อง5ข่าวเช้า 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 266  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Chong5KhaoChao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/Chong5ThiangWanThanKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/Chong5ThiangWanThanKhao26HD.jpg">
+<title>CHONG 5 THIANG WAN THAN KHAO</title>
+<titlel>ช่อง 5 เที่ยงวัน ทันข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Chong5ThiangWanThanKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/DedNews26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/DedNews26HD.jpg">
+<title>DED NEWS</title>
+<titlel>ประเด็นเด็ด 7 สี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 152  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DedNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/FangHuWaiHu26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/FangHuWaiHu26HD.jpg">
+<title>FANG HU WAI HU</title>
+<titlel>ฟังหูไว้หู 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 185  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FangHuWaiHu26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/HonKrasae26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/HonKrasae26HD.jpg">
+<title>HON KRASAE</title>
+<titlel>โหนกระแส 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HonKrasae26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/HongKhaoHuaKhiao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/HongKhaoHuaKhiao26HD.jpg">
+<title>HONG KHAO HUA KHIAO</title>
+<titlel>ห้องข่าว หัวเขียว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HongKhaoHuaKhiao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/HongKhaoPhakThiang26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/HongKhaoPhakThiang26HD.jpg">
+<title>HONG KHAO PHAK THIANG</title>
+<titlel>ห้องข่าวภาคเที่ยง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 244  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HongKhaoPhakThiang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/HongkaoBanterng26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/HongkaoBanterng26HD.jpg">
+<title>HONGKAO BANTERNG</title>
+<titlel>ห้องข่าวบันเทิง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 265  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HongkaoBanterng26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/Jarw26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/Jarw26HD.jpg">
+<title>JARW</title>
+<titlel>ผู้หญิงแจ๋วยกกําลัง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Jarw26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KaoNaiPraLadChaSamNuk26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KaoNaiPraLadChaSamNuk26HD.jpg">
+<title>KAO NAI PRA LAD CHA SAM NUK</title>
+<titlel>ข่าวพระราชสำนัก 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 266  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KaoNaiPraLadChaSamNuk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KaoNokLo26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KaoNokLo26HD.jpg">
+<title>KAO NOK LO</title>
+<titlel>ข่าวนอกลู่ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 265  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KaoNokLo26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhanKhaoChaoTru26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhanKhaoChaoTru26HD.jpg">
+<title>KHAN KHAO CHAO TRU</title>
+<titlel>ขันข่าวเช้าตรู่ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhanKhaoChaoTru26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoArunAmRin26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoArunAmRin26HD.jpg">
+<title>KHAO ARUN AM RIN</title>
+<titlel>ข่าวอรุณอมรินทร์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 266  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoArunAmRin26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoChaoCHOne26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoChaoCHOne26HD.jpg">
+<title>KHAO CHAO CH ONE</title>
+<titlel>ข่าวเช้าช่องวัน 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 264  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoChaoCHOne26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoChaoHuaKhiao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoChaoHuaKhiao26HD.jpg">
+<title>KHAO CHAO HUA KHIAO</title>
+<titlel>ข่าวเช้า หัวเขียว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 267  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoChaoHuaKhiao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoDuekThaiPBS26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoDuekThaiPBS26HD.jpg">
+<title>KHAO DUEK THAI PBS</title>
+<titlel>ข่าวดึก THAIPBS</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoDuekThaiPBS26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoHaekKhong26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoHaekKhong26HD.jpg">
+<title>KHAO HAEK KHONG</title>
+<titlel>ข่าวแหกโค้ง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoHaekKhong26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoKhamMitiMaiThuaThai26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoKhamMitiMaiThuaThai26HD.jpg">
+<title>KHAO KHAM MITI MAI THUA THAI</title>
+<titlel>ข่าวค่ำมิติใหม่ทั่วไทย 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 264  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoKhamMitiMaiThuaThai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoKhonKhonKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoKhonKhonKhao26HD.jpg">
+<title>KHAO KHON KHON KHAO</title>
+<titlel>ข่าวข้นคนข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 266  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoKhonKhonKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoMiKhom26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoMiKhom26HD.jpg">
+<title>KHAO MI KHOM</title>
+<titlel>ข่าวมีคม 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoMiKhom26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoPenKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoPenKhao26HD.jpg">
+<title>KHAO PEN KHAO</title>
+<titlel>ข่าวเป็นข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoPenKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoSaiKhai26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoSaiKhai26HD.jpg">
+<title>KHAO SAI KHAI</title>
+<titlel>ข่าวใส่ใข่ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 182  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoSaiKhai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoSamSi26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoSamSi26HD.jpg">
+<title>KHAO SAM SI</title>
+<titlel>ข่าวสามสี 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoSamSi26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoThiangAmarin26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoThiangAmarin26HD.jpg">
+<title>KHAO THIANG AMARIN</title>
+<titlel>ข่าวเที่ยงอมรินทร์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 267  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoThiangAmarin26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoThiangCHOne26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoThiangCHOne26HD.jpg">
+<title>KHAO THIANG CH ONE</title>
+<titlel>ข่าวเที่ยงช่องวัน 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoThiangCHOne26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoThiangtrong26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoThiangtrong26HD.jpg">
+<title>KHAO THIANGTRONG</title>
+<titlel>ข่าวเที่ยงตรง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 227  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoThiangtrong26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoYai26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoYai26HD.jpg">
+<title>KHAO YAI</title>
+<titlel>ข่าวใหญ่ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 266  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoYai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoYenAmarin26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoYenAmarin26HD.jpg">
+<title>KHAO YEN AMARIN</title>
+<titlel>ข่าวเย็นอัมริน 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoYenAmarin26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoYenChongOne26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoYenChongOne26HD.jpg">
+<title>KHAO YEN CHONG ONE</title>
+<titlel>ข่าวเย็นช่องวัน 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoYenChongOne26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoYenPradenRon26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoYenPradenRon26HD.jpg">
+<title>KHAO YEN PRADEN RON</title>
+<titlel>ข่าวเย็นประเด็นร้อน 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 189  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoYenPradenRon26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhapKhao926.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhapKhao926HD.jpg">
+<title>KHAP KHAO 9</title>
+<titlel>คับข่าว 9 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhapKhao926.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhemKhaoKham26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhemKhaoKham26HD.jpg">
+<title>KHEM KHAO KHAM</title>
+<titlel>เข้มข่าวค่ำ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 264  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhemKhaoKham26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhliaChatChat26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhliaChatChat26HD.jpg">
+<title>KHLIA CHAT CHAT</title>
+<titlel>เคลียร์ชัดชัด 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhliaChatChat26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhonChonKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhonChonKhao26HD.jpg">
+<title>KHON CHON KHAO</title>
+<titlel>คนชนข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 178  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonChonKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhonLangKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhonLangKhao26HD.jpg">
+<title>KHON LANG KHAO</title>
+<titlel>คนหลังข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 169  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonLangKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/KhruaKhunToi26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/KhruaKhunToi26HD.jpg">
+<title>KHRUA KHUN TOI</title>
+<titlel>ครัวคุณต๋อย 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhruaKhunToi26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhuiKhaoCh826.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhuiKhaoCh826HD.jpg">
+<title>KHUI KHAO CH 8</title>
+<titlel>คุยข่าวช่อง 8 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 418  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuiKhaoCh826.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/Koa3Miti26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/Koa3Miti26HD.jpg">
+<title>KOA 3 MITI</title>
+<titlel>ข่าว 3 มิติ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 265  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Koa3Miti26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KuiKamongBai3Mong26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KuiKamongBai3Mong26HD.jpg">
+<title>KUI KAMONG BAI 3 MONG</title>
+<titlel>คุยโขมงบ่ายสามโมง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KuiKamongBai3Mong26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/LaoKhaoKhon26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/LaoKhaoKhon26HD.jpg">
+<title>LAO KHAO KHON</title>
+<titlel>เล่าข่าวข้น 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 189  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaoKhaoKhon26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/LueangLaoNaNueng26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/LueangLaoNaNueng26HD.jpg">
+<title>LUEANG LAO NA NUENG</title>
+<titlel>เรื่องเล่าหน้าหนึ่ง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LueangLaoNaNueng26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/LuiChonKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/LuiChonKhao26HD.jpg">
+<title>LUI CHON KHAO</title>
+<titlel>ลุยชนข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 471  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LuiChonKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/MumKanmueang26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/MumKanmueang26HD.jpg">
+<title>MUM KANMUEANG</title>
+<titlel>มุมการเมือง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 174  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MumKanmueang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NathiLongthun26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NathiLongthun26HD.jpg">
+<title>NATHI LONGTHUN</title>
+<titlel>นาทีลงทุน 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 174  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NathiLongthun26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationFocus26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationFocus26HD.jpg">
+<title>NATION FOCUS</title>
+<titlel>เนชั่นโฟกัส</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 186  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationFocus26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationInsight26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationInsight26HD.jpg">
+<title>NATION INSIGHT</title>
+<titlel>เนชั่นอินไซต์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 183  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationInsight26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationThanKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationThanKhao26HD.jpg">
+<title>NATION THAN KHAO</title>
+<titlel>เนชั่นทันข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 182  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationThanKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationThanKhaoThiang26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationThanKhaoThiang26HD.jpg">
+<title>NATION THAN KHAO THIANG</title>
+<titlel>เนชั่นทันข่าวเที่ยง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 262  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationThanKhaoThiang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationThanKhaoYen26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationThanKhaoYen26HD.jpg">
+<title>NATION THAN KHAO YEN</title>
+<titlel>เนชั่นทันข่าวเย็น 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationThanKhaoYen26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationThuaThai26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationThuaThai26HD.jpg">
+<title>NATION THUA THAI</title>
+<titlel>เนชั่นทั่วไทย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationThuaThai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationWikhroKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationWikhroKhao26HD.jpg">
+<title>NATION WIKHRO KHAO</title>
+<titlel>เนชั่น วิเคราะห์ข่าว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 189  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationWikhroKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NineEntertainNightLife26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NineEntertainNightLife26HD.jpg">
+<title>NINE ENTERTAIN NIGHT LIVE</title>
+<titlel>ไนเอ็นเตอร์เทนไนท์ไลฟ์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 178  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NineEntertainNightLife26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NineEntertainUpdate26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NineEntertainUpdate26HD.jpg">
+<title>NINE ENTERTAIN UPDATE</title>
+<titlel>ไนท์เอนเตอร์เทนอัพเดด 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 188  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NineEntertainUpdate26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/PoetPakKapPhakphum26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/PoetPakKapPhakphum26HD.jpg">
+<title>POET PAK KAP PHAKPHUM</title>
+<titlel>เปิดปากกับภาคภูมิ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 181  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PoetPakKapPhakphum26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/PoetToKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/PoetToKhao26HD.jpg">
+<title>POET TO KHAO</title>
+<titlel>เปิดโต๊ะข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 263  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PoetToKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/RopLokEXPRESS26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/RopLokEXPRESS26HD.jpg">
+<title>ROP LOK EXPRESS</title>
+<titlel>ลูกผู้ชายหัวใจเพชร</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 266  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RopLokEXPRESS26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/RueangPhlopKham26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/RueangPhlopKham26HD.jpg">
+<title>RUEANG PHLOP KHAM</title>
+<titlel>เรื่องพลบค่ำ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 182  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangPhlopKham26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/RuengDen26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/RuengDen26HD.jpg">
+<title>RUENG DEN</title>
+<titlel>เรื่องเด่น 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuengDen26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/RuengLoa26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/RuengLoa26HD.jpg">
+<title>RUENG LOA</title>
+<titlel>เรื่องเล่า 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 267  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuengLoa26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/SagetKao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/SagetKao26HD.jpg">
+<title>SAGET KAO</title>
+<titlel>สะเก็ดข่าว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 266  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SagetKao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/SanamKao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/SanamKao26HD.jpg">
+<title>SANAM KAO</title>
+<titlel>สนามข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 267  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SanamKao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/SeeSanBanTeong26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/SeeSanBanTeong26HD.jpg">
+<title>SEE SAN BAN TEONG</title>
+<titlel>สีสันบันเทิง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 192  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SeeSanBanTeong26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TaLonkhaoChaoni26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TaLonkhaoChaoni26HD.jpg">
+<title>TA LON KHAO CHAO NI</title>
+<titlel>ตะลอนข่าวเช้านี้ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TaLonkhaoChaoni26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TeangWanTanHedKan26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TeangWanTanHedKan26HD.jpg">
+<title>TEANG WAN TAN HED KAN</title>
+<titlel>เที่ยงวันทันเหตุการณ์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 191  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TeangWanTanHedKan26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TeeNeeThaiPBS26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TeeNeeThaiPBS26HD.jpg">
+<title>TEE NEE THAI PBS</title>
+<titlel>ที่นี่THAIPBS 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 133  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TeeNeeThaiPBS26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThairathNewsShow26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThairathNewsShow26HD.jpg">
+<title>THAIRATH NEWS SHOW</title>
+<titlel>ไทยรัฐนิวส์โชว์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 511  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThairathNewsShow26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThanLokDaily26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThanLokDaily26HD.jpg">
+<title>THAN LOK DAILY</title>
+<titlel>ทันโลก 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 182  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThanLokDaily26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThanTho26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThanTho26HD.jpg">
+<title>THAN THO</title>
+<titlel>ฐานทอล์ค 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 185  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThanTho26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThiangThanKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThiangThanKhao26HD.jpg">
+<title>THIANG THAN KHAO</title>
+<titlel>เที่ยงทันข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 188  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThiangThanKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThokMaiThiang26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThokMaiThiang26HD.jpg">
+<title>THOK MAI THIANG</title>
+<titlel>ถก ไม่ เถียง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThokMaiThiang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThukThitThuaThai26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThukThitThuaThai26HD.jpg">
+<title>THUK THIT THUA THAI</title>
+<titlel>ทุกทิศทั่วไทย 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 173  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThukThitThuaThai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TNNChuamongThamngoen26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TNNChuamongThamngoen26HD.jpg">
+<title>TNN CHUAMONG THAMNGOEN</title>
+<titlel>TNN ชั่วโมงทำเงิน 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 187  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TNNChuamongThamngoen26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TNNKhaoChao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TNNKhaoChao26HD.jpg">
+<title>TNN KHAO CHAO</title>
+<titlel>TNN ข่าวเช้า 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 313  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TNNKhaoChao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TNNKhaoKham26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TNNKhaoKham26HD.jpg">
+<title>TNN KHAO KHAM</title>
+<titlel>TNN ข่าวค่ำ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 262  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TNNKhaoKham26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TokManBanTueng26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TokManBanTueng26HD.jpg">
+<title>TOK MAN BAN TUENG</title>
+<titlel>ตกมันส์บันเทิง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 174  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TokManBanTueng26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TopChotKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TopChotKhao26HD.jpg">
+<title>TOP CHOT KHAO</title>
+<titlel>ตอบโจทย์ข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 164  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TopChotKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TopNewsTalk26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TopNewsTalk26HD.jpg">
+<title>TOP NEWS TALK</title>
+<titlel>ท็อปนิวทอร์ค 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 102  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TopNewsTalk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TrongPraden26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TrongPraden26HD.jpg">
+<title>TRONG PRADEN</title>
+<titlel>ตรงประเด็น</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 176  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TrongPraden26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TupToKao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TupToKao26HD.jpg">
+<title>TUP TO KAO</title>
+<titlel>ทุบโต๊ะข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 526  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TupToKao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/WanMaiThaiPBS26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/WanMaiThaiPBS26HD.jpg">
+<title>WAN MAI THAI PBS</title>
+<titlel>วันใหม่ THAIPBS 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 288  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WanMaiThaiPBS26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/WorkpointNew26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/WorkpointNew26HD.jpg">
+<title>WORKPOINT NEWS</title>
+<titlel>ข่าวเวิธ์คพอยท์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 267  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WorkpointNew26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/YukhonChonKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/YukhonChonKhao26HD.jpg">
+<title>YUKHON CHON KHAO</title>
+<titlel>ยุคล ชนข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 178  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YukhonChonKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThairathNewsRoom26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThairathNewsRoom26HD.jpg">
+<title>THAIRATH NEWS ROOM</title>
+<titlel>ไทยรัฐ นิวส์รูม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Sep-2026 with 78  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThairathNewsRoom26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TNNKhaoThiang26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TNNKhaoThiang26HD.jpg">
+<title>TNN KHAO THIANG</title>
+<titlel>TNNข่าวเที่ยง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Sep-2026 with 210  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TNNKhaoThiang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/Ch7HelpVillagers26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/Ch7HelpVillagers26HD.jpg">
+<title>CH 7 HELP VILLAGERS</title>
+<titlel>7 สีช่วยชาวบ้าน 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 76  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Ch7HelpVillagers26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ExclusiveTalk26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ExclusiveTalk26HD.jpg">
+<title>EXCLUSIVE TALK</title>
+<titlel>คุยข้ามช็อต 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 168  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ExclusiveTalk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/WowWhanWhan26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/WowWhanWhan26HD.jpg">
+<title>WOW WHAN WHAN</title>
+<titlel>ว้าว แหวน แหวน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 36  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WowWhanWhan26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChuanKhitChuanKhui26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChuanKhitChuanKhui26HD.jpg">
+<title>CHUAN KHIT CHUAN KHUI</title>
+<titlel>ชวนคิด ชวนคุย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Sep-2026 with 71  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChuanKhitChuanKhui26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhlukWongnaiThamTrongThamChing26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhlukWongnaiThamTrongThamChing26HD.jpg">
+<title>KHLUK WONGNAI THAM TRONG THAM CHING</title>
+<titlel>คลุกวงใน ถามตรงถามจริง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Sep-2026 with 38  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhlukWongnaiThamTrongThamChing26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/OffTheRecord26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/OffTheRecord26HD.jpg">
+<title>OFF THE RECORD</title>
+<titlel>ปิดไมค์ถาม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Sep-2026 with 37  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OffTheRecord26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChoPradenKhaoKham26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChoPradenKhaoKham26HD.jpg">
+<title>CHO PRADEN KHAO KHAM</title>
+<titlel>เจาะประเด็นข่าวค่ำ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 66  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoPradenKhaoKham26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChuamongKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChuamongKhao26HD.jpg">
+<title>CHUAMONG KHAO</title>
+<titlel>ชั่วโมงข่าว เสาร์ - อาทิตย์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 76  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChuamongKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/HonKrasaeTaeChao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/HonKrasaeTaeChao26HD.jpg">
+<title>HON KRASAE TAE CHAO</title>
+<titlel>โหนกระแสแต่เช้า 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 37  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HonKrasaeTaeChao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoManKhiao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoManKhiao26HD.jpg">
+<title>KHAO MAN KHIAO</title>
+<titlel>ข่าวมันส์เขี้ยว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 37  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoManKhiao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhuiKhaoYen826.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhuiKhaoYen826HD.jpg">
+<title>KHUI KHAO YEN 8</title>
+<titlel>คุยข่าวเย็น 8</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 73  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuiKhaoYen826.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KooKoaKooSee26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KooKoaKooSee26HD.jpg">
+<title>KOO KOA KOO SEE</title>
+<titlel>คู่ข่าวคู่ชี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 76  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KooKoaKooSee26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/LaoKhaoKhonSaoAthit26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/LaoKhaoKhonSaoAthit26HD.jpg">
+<title>LAO KHAO KHON SAO ATHIT</title>
+<titlel>เล่าข่าวข้น เสาร์-อาทิตย์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 71  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaoKhaoKhonSaoAthit26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationArSa26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationArSa26HD.jpg">
+<title>NATION AR SA</title>
+<titlel>เนชั่นอาสา 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 37  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationArSa26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationSaoAthit26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationSaoAthit26HD.jpg">
+<title>NATION SAO ATHIT</title>
+<titlel>ข่าวค่ำเนชั่น เสาร์-อาทิตย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 72  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationSaoAthit26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NationSutsapda26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NationSutsapda26HD.jpg">
+<title>NATION SUTSAPDA</title>
+<titlel>เนชั่นสุดสัปดาห์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 70  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationSutsapda26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NewsRoom26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NewsRoom26HD.jpg">
+<title>NEWS ROOM</title>
+<titlel>ห้องข่าว ไทยพีบีเอส</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 35  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NewsRoom26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/PoetChoChoKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/PoetChoChoKhao26HD.jpg">
+<title>POET CHO CHO KHAO</title>
+<titlel>เปิดจอจ้อข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 76  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PoetChoChoKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/RueangDenYenNiSaoAthit26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/RueangDenYenNiSaoAthit26HD.jpg">
+<title>RUEANG DEN YEN NI SAO ATHIT</title>
+<titlel>เรื่องเด่นเย็นนี้ เสาร์-อาทิตย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 79  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangDenYenNiSaoAthit26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/RueangDiThuaThai26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/RueangDiThuaThai26HD.jpg">
+<title>RUEANG DI THUA THAI</title>
+<titlel>เรื่องดี ทั่วไทย 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 75  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangDiThuaThai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/RuthanKhadiKong26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/RuthanKhadiKong26HD.jpg">
+<title>RUTHAN KHADI KONG</title>
+<titlel>รู้ทันคดีโกง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 34  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuthanKhadiKong26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/SaoAthitKhanKhaoChaoTru26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/SaoAthitKhanKhaoChaoTru26HD.jpg">
+<title>SAO ATHIT KHAN KHAO CHAO TRU</title>
+<titlel>เสาร์ อาทิตย์ ขันข่าว เช้าตรู่ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 76  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SaoAthitKhanKhaoChaoTru26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/SommutWa26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/SommutWa26HD.jpg">
+<title>SOMMUT WA</title>
+<titlel>สมมุติว่า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 35  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SommutWa26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThaiPBSNews26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThaiPBSNews26HD.jpg">
+<title>THAI PBS NEWS</title>
+<titlel>ข่าวเที่ยง THAI PBS</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 75  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiPBSNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/DesignNews26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/DesignNews26HD.jpg">
+<title>DESIGN NEWS</title>
+<titlel>อยู่สบาย2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 38  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DesignNews26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/DigitalThailand26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/DigitalThailand26HD.jpg">
+<title>DIGITAL THAILAND</title>
+<titlel>ดิจิทัลไทยแลนด์26</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 38  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DigitalThailand26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoChoYoLok26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoChoYoLok26HD.jpg">
+<title>KHAO CHO YO LOK</title>
+<titlel>ข่าวเจาะย่อโลก 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 38  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoChoYoLok26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoSaepChaphokit26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoSaepChaphokit26HD.jpg">
+<title>KHAO SAEP CHAPHOKIT</title>
+<titlel>ข่าวแสบเฉพาะกิจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 35  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoSaepChaphokit26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhoWelaNok26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhoWelaNok26HD.jpg">
+<title>KHO WELA NOK</title>
+<titlel>ขอเวลานอก 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 37  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhoWelaNok26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhomNaiKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhomNaiKhao26HD.jpg">
+<title>KHOM NAI KHAO</title>
+<titlel>คมในข่าว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 29  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhomNaiKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NaKhrap26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NaKhrap26HD.jpg">
+<title>NA KHRAP</title>
+<titlel>ณ ครับ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 34  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NaKhrap26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NakkhaoPhonlamueang26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NakkhaoPhonlamueang26HD.jpg">
+<title>NAKKHAO PHONLAMUEANG</title>
+<titlel>นักข่าวพลเมือง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 69  Episode(s) PLAY: MON, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NakkhaoPhonlamueang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/NheeTiew26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/NheeTiew26HD.jpg">
+<title>NHEE TIEW</title>
+<titlel>หนีเที่ยว2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 38  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NheeTiew26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/SuepsuanKhwamching26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/SuepsuanKhwamching26HD.jpg">
+<title>SUEPSUAN KHWAMCHING</title>
+<titlel>สืบสวนความจริง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 37  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SuepsuanKhwamching26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TaLonKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TaLonKhao26HD.jpg">
+<title>TA LON KHAO</title>
+<titlel>ตะลอนข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 75  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TaLonKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThanKhaoSutsapda26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThanKhaoSutsapda26HD.jpg">
+<title>THAN KHAO SUTSAPDA</title>
+<titlel>ทันข่าว สุดสัปดาห์2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 74  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThanKhaoSutsapda26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThePeopleShow26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThePeopleShow26HD.jpg">
+<title>THE PEOPLE SHOW</title>
+<titlel>เดอะพีโพโชว์2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 38  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThePeopleShow26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChuaiKhitChuaiTham26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChuaiKhitChuaiTham26HD.jpg">
+<title>CHUAI KHIT CHUAI THAM</title>
+<titlel>ช่วยคิด ช่วยทำ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 27  Episode(s) PLAY: MON, TUE, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChuaiKhitChuaiTham26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/FlashPoint26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/FlashPoint26HD.jpg">
+<title>FLASHPOINT</title>
+<titlel>จุดร้อนโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 33  Episode(s) PLAY:  WED, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FlashPoint26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KaoWanSuk26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KaoWanSuk26HD.jpg">
+<title>KAO WAN SUK</title>
+<titlel>ข่าววันศุกร์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 36  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KaoWanSuk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhemKhaoYen26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhemKhaoYen26HD.jpg">
+<title>KHEM KHAO YEN</title>
+<titlel>เข้มข่าวเย็น 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 175  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhemKhaoYen26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhuiHaiKhit26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhuiHaiKhit26HD.jpg">
+<title>KHUI HAI KHIT</title>
+<titlel>คุยให้คิด 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 37  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuiHaiKhit26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/OneBunTengThieng26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/OneBunTengThieng26HD.jpg">
+<title>ONE BUN TENG</title>
+<titlel>วันบันเทิง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 185  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OneBunTengThieng26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/LiveTalk26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/LiveTalk26HD.jpg">
+<title>LIVE TALK</title>
+<titlel>เรื่องใหญ่</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Sep-2026 with 179  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiveTalk26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ShotDedKonDang26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ShotDedKonDang26HD.jpg">
+<title>SHOT DED KON DANG</title>
+<titlel>ชอตเด็ด คนดัง 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Sep-2026 with 21  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ShotDedKonDang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TNNKhaoKham25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TNNKhaoKham25HD.jpg">
+<title>TNN KHAO KHAM 2025</title>
+<titlel>TNN ข่าวค่ำ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Aug-2026 with 362  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TNNKhaoKham25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/BaiNeeMeeKamTop26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/BaiNeeMeeKamTop26HD.jpg">
+<title>BAI NEE MEE KAM TOP</title>
+<titlel>บ่ายนี้มีคำตอบ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Aug-2026 with 32  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BaiNeeMeeKamTop26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/TalatKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/TalatKhao26HD.jpg">
+<title>TALAT KHAO</title>
+<titlel>ตลาดข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Aug-2026 with 213  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TalatKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/PhaPradenLokSutsapda26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/PhaPradenLokSutsapda26HD.jpg">
+<title>PHA PRADEN LOK SUTSAPDA</title>
+<titlel>ผ่าประเด็นโลกสุดสัปดาห์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Jul-2026 with 27  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhaPradenLokSutsapda26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/RueangNiTongKhlia26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/RueangNiTongKhlia26HD.jpg">
+<title>RUEANG NI TONG KHLIA</title>
+<titlel>เรื่องนี้ต้องเคลียร์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Jul-2026 with 132  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangNiTongKhlia26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaiPomKadeeDang26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaiPomKadeeDang26HD.jpg">
+<title>KHAI POM KADEE DANG</title>
+<titlel>ไขปมคดีดัง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Jul-2026 with 24  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaiPomKadeeDang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhoKhaoChao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhoKhaoChao26HD.jpg">
+<title>KHO KHAO CHAO</title>
+<titlel>เคาะข่าวเช้า 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Jun-2026 with 128  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhoKhaoChao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhoKhaoSaoAthit26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhoKhaoSaoAthit26HD.jpg">
+<title>KHO KHAO SAO ATHIT</title>
+<titlel>เคาะข่าวเสาร์-อาทิตย์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Jun-2026 with 51  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhoKhaoSaoAthit26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/SisanThanLok26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/SisanThanLok26HD.jpg">
+<title>SISAN THAN LOK</title>
+<titlel>สีสันทันโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Jun-2026 with 25  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SisanThanLok26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThailandLIVE26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThailandLIVE26HD.jpg">
+<title>THAILAND LIVE</title>
+<titlel>ฟังเสียงประเทศไทย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Jun-2026 with 23  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThailandLIVE26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/KonKonKon26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/KonKonKon26HD.jpg">
+<title>KON KON KON</title>
+<titlel>คนค้นฅ้น 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Jun-2026 with 4  Episode(s) PLAY: MON, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KonKonKon26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhuKhaoOnThua26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhuKhaoOnThua26HD.jpg">
+<title>KHU KHAO ON THUA</title>
+<titlel>คู่ข่าว ออนทัวร์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-May-2026 with 17  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuKhaoOnThua26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KrisanaTourYokLor26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KrisanaTourYokLor26HD.jpg">
+<title>KRISANA TOUR YOK LOR</title>
+<titlel>กฤษณะทัวร์ยกล้อ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-May-2026 with 17  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KrisanaTourYokLor26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/TheSpoon26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/TheSpoon26HD.jpg">
+<title>THE SPOON</title>
+<titlel>ช้อนทองคำ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Jan-2026 with 4  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheSpoon26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ChoKhaoDen26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ChoKhaoDen26HD.jpg">
+<title>CHO KHAO DEN</title>
+<titlel>เจาะข่าวเด่น 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Jan-2026 with 3  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoKhaoDen26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/PhaPradenLok26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/PhaPradenLok26HD.jpg">
+<title>PHA PRADEN LOK</title>
+<titlel>ผ่าประเด็นโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Jan-2026 with 2  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhaPradenLok26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhuKatSabatKhao26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhuKatSabatKhao26HD.jpg">
+<title>KHU KAT SABAT KHAO</title>
+<titlel>คู่กัดสะบัดข่าว 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Jan-2026 with 3  Episode(s) PLAY:  THU, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuKatSabatKhao26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/KhaoDetKhonDueat26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/KhaoDetKhonDueat26HD.jpg">
+<title>KHAO DET KHON DUEAT</title>
+<titlel>ข่าวเด็ดคนเดือด</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jan-2026 with 2  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoDetKhonDueat26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News26/ThaiRathJaoPaDen26.jpg"
+ hdImg="https://i.malimarcdn.com/News26/ThaiRathJaoPaDen26HD.jpg">
+<title>THAI RATH JAO PA DEN</title>
+<titlel>ไทยรัฐ เจาะประเด็น 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jan-2026 with 2  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiRathJaoPaDen26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/9KhaoChao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/9KhaoChao25HD.jpg">
+<title>9 KHAO CHAO 2025</title>
+<titlel>9ข่าวเช้า 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/9KhaoChao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/Apop25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/Apop25HD.jpg">
+<title>APOP 2025</title>
+<titlel>บันเทิง 34 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 244  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Apop25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/BangkokGossip25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/BangkokGossip25HD.jpg">
+<title>BANGKOK GOSSIP 2025</title>
+<titlel>บางกอกกระชิบ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BangkokGossip25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/BanthoengThaiRat25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/BanthoengThaiRat25HD.jpg">
+<title>BANTHOENG THAI RAT 2025</title>
+<titlel>บันเทิงไทยรํฐ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 358  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BanthoengThaiRat25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChaeKhaoChao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChaeKhaoChao25HD.jpg">
+<title>CHAE KHAO CHAO 2025</title>
+<titlel>แฉข่าวเช้า 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 257  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaeKhaoChao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChaoKhaoKhem25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChaoKhaoKhem25HD.jpg">
+<title>CHAO KHAO KHEM 2025</title>
+<titlel>เช้าข่าวเข้ม 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaoKhaoKhem25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChaoNeeTeeMorchit25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChaoNeeTeeMorchit25HD.jpg">
+<title>CHAO NEE TEE MORCHIT 2025</title>
+<titlel>เช้านี้ที่หมดชิด 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaoNeeTeeMorchit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChaoNiKhayiKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChaoNiKhayiKhao25HD.jpg">
+<title>CHAO NI KHAYI KHAO 2025</title>
+<titlel>เช้านี้ขยี้ข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 360  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaoNiKhayiKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChaptaPrathetThai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChaptaPrathetThai25HD.jpg">
+<title>CHAPTA PRATHET THAI 2025</title>
+<titlel>จับตาประเทศไทย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 247  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaptaPrathetThai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChatKhaoThiang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChatKhaoThiang25HD.jpg">
+<title>CHAT KHAO THIANG 2025</title>
+<titlel>ชัดข่าวเที่ยง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 361  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChatKhaoThiang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChoKhaoChao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChoKhaoChao25HD.jpg">
+<title>CHO KHAO CHAO 2025</title>
+<titlel>จ้อข่าวเช้า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoKhaoChao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChoKhaoChaoNi25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChoKhaoChaoNi25HD.jpg">
+<title>CHO KHAO CHAO NI 2025</title>
+<titlel>โชว์ข่าวเช้านี้ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 266  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoKhaoChaoNi25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChoKhaoDen25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChoKhaoDen25HD.jpg">
+<title>CHO KHAO DEN 2025</title>
+<titlel>เจาะข่าวเด่น</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 134  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoKhaoDen25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChoLuekThuaThai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChoLuekThuaThai25HD.jpg">
+<title>CHO LUEK THUA THAI 2025</title>
+<titlel>เจาะลึกทั่วไทย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 259  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoLuekThuaThai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChoPradenLok25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChoPradenLok25HD.jpg">
+<title>CHO PRADEN LOK 2025</title>
+<titlel>เจาะประเด็นโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 129  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoPradenLok25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/Chong5KhaoChao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/Chong5KhaoChao25HD.jpg">
+<title>CHONG 5 KHAO CHAO 2025</title>
+<titlel>ช่อง5ข่าวเช้า 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 361  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Chong5KhaoChao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/Chong5ThiangWanThanKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/Chong5ThiangWanThanKhao25HD.jpg">
+<title>CHONG 5 THIANG WAN THAN KHAO 2025</title>
+<titlel>ช่อง 5 เที่ยงวัน ทันข่าว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Chong5ThiangWanThanKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/FangHuWaiHu25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/FangHuWaiHu25HD.jpg">
+<title>FANG HU WAI HU 2025</title>
+<titlel>ฟังหูไว้หู 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 259  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FangHuWaiHu25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/FlashPoint25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/FlashPoint25HD.jpg">
+<title>FLASHPOINT 2025</title>
+<titlel>จุดร้อนโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 50  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FlashPoint25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/HonKrasae25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/HonKrasae25HD.jpg">
+<title>HON KRASAE 2025</title>
+<titlel>โหนกระแส 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HonKrasae25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/HongKhaoHuaKhiao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/HongKhaoHuaKhiao25HD.jpg">
+<title>HONG KHAO HUA KHIAO 2025</title>
+<titlel>ห้องข่าว หัวเขียว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HongKhaoHuaKhiao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/HongKhaoPhakThiang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/HongKhaoPhakThiang25HD.jpg">
+<title>HONG KHAO PHAK THIANG 2025</title>
+<titlel>ห้องข่าวภาคเที่ยง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HongKhaoPhakThiang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/HongkaoBanterng25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/HongkaoBanterng25HD.jpg">
+<title>HONGKAO BANTERNG 2025</title>
+<titlel>ห้องข่าวบันเทิง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 364  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HongkaoBanterng25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/Jarw25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/Jarw25HD.jpg">
+<title>JARW 2025</title>
+<titlel>ผู้หญิงแจ๋วยกกําลัง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Jarw25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KaoNaiPraLadChaSamNuk25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KaoNaiPraLadChaSamNuk25HD.jpg">
+<title>KAO NAI PRA LAD CHA SAM NUK 2025</title>
+<titlel>ข่าวพระราชสำนัก 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 359  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KaoNaiPraLadChaSamNuk25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KaoNokLo25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KaoNokLo25HD.jpg">
+<title>KAO NOK LO 2025</title>
+<titlel>ข่าวนอกลู่ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 361  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KaoNokLo25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhanKhaoChaoTru25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhanKhaoChaoTru25HD.jpg">
+<title>KHAN KHAO CHAO TRU 2025</title>
+<titlel>ขันข่าวเช้าตรู่ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhanKhaoChaoTru25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoArunAmRin25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoArunAmRin25HD.jpg">
+<title>KHAO ARUN AM RIN 2025</title>
+<titlel>ข่าวอรุณอมรินทร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 365  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoArunAmRin25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoChaoHuaKhiao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoChaoHuaKhiao25HD.jpg">
+<title>KHAO CHAO HUA KHIAO 2025</title>
+<titlel>ข่าวเช้า หัวเขียว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 365  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoChaoHuaKhiao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoDetKhonDueat25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoDetKhonDueat25HD.jpg">
+<title>KHAO DET KHON DUEAT 2025</title>
+<titlel>ข่าวเด็ดคนเดือด</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 203  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoDetKhonDueat25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoDuekThaiPBS25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoDuekThaiPBS25HD.jpg">
+<title>KHAO DUEK THAI PBS 2025</title>
+<titlel>ข่าวดึก THAIPBS</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 356  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoDuekThaiPBS25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoHaekKhong25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoHaekKhong25HD.jpg">
+<title>KHAO HAEK KHONG 2025</title>
+<titlel>ข่าวแหกโค้ง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 362  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoHaekKhong25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoKhamMitiMaiThuaThai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoKhamMitiMaiThuaThai25HD.jpg">
+<title>KHAO KHAM MITI MAI THUA THAI 2025</title>
+<titlel>ข่าวค่ำมิติใหม่ทั่วไทย 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 358  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoKhamMitiMaiThuaThai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoKhonKhonKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoKhonKhonKhao25HD.jpg">
+<title>KHAO KHON KHON KHAO 2025</title>
+<titlel>ข่าวข้นคนข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 362  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoKhonKhonKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoMiKhom25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoMiKhom25HD.jpg">
+<title>KHAO MI KHOM 2025</title>
+<titlel>ข่าวมีคม 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoMiKhom25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoPenKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoPenKhao25HD.jpg">
+<title>KHAO PEN KHAO 2025</title>
+<titlel>ข่าวเป็นข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 256  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoPenKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoSaiKhai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoSaiKhai25HD.jpg">
+<title>KHAO SAI KHAI 2025</title>
+<titlel>ข่าวใส่ใข่ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 249  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoSaiKhai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoSamSi25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoSamSi25HD.jpg">
+<title>KHAO SAM SI 2025</title>
+<titlel>ข่าวสามสี 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoSamSi25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoThiangAmarin25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoThiangAmarin25HD.jpg">
+<title>KHAO THIANG AMARIN 2025</title>
+<titlel>ข่าวเที่ยงอมรินทร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 365  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoThiangAmarin25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoYai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoYai25HD.jpg">
+<title>KHAO YAI 2025</title>
+<titlel>ข่าวใหญ่ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 365  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoYai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoYenAmarin25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoYenAmarin25HD.jpg">
+<title>KHAO YEN AMARIN 2025</title>
+<titlel>ข่าวเย็นอัมริน 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoYenAmarin25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoYenChongOne25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoYenChongOne25HD.jpg">
+<title>KHAO YEN CHONG ONE 2025</title>
+<titlel>ข่าวเย็นช่องวัน 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 357  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoYenChongOne25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoYenPradenRon25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoYenPradenRon25HD.jpg">
+<title>KHAO YEN PRADEN RON 2025</title>
+<titlel>ข่าวเย็นประเด็นร้อน 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoYenPradenRon25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhapKhao925.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhapKhao925HD.jpg">
+<title>KHAP KHAO 9 2025</title>
+<titlel>คับข่าว 9 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 257  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhapKhao925.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhemKhaoKham25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhemKhaoKham25HD.jpg">
+<title>KHEM KHAO KHAM 2025</title>
+<titlel>เข้มข่าวค่ำ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 136  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhemKhaoKham25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhliaChatChat25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhliaChatChat25HD.jpg">
+<title>KHLIA CHAT CHAT 2025</title>
+<titlel>เคลียร์ชัดชัด 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhliaChatChat25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhoKhaoChao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhoKhaoChao25HD.jpg">
+<title>KHO KHAO CHAO 2025</title>
+<titlel>เคาะข่าวเช้า 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhoKhaoChao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhonChonKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhonChonKhao25HD.jpg">
+<title>KHON CHON KHAO 2025</title>
+<titlel>คนชนข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 231  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonChonKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhonLangKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhonLangKhao25HD.jpg">
+<title>KHON LANG KHAO 2025</title>
+<titlel>คนหลังข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 226  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonLangKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhuiKhaoCh825.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhuiKhaoCh825HD.jpg">
+<title>KHUI KHAO CH 8 2025</title>
+<titlel>คุยข่าวช่อง 8 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 453  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuiKhaoCh825.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KuiKamongBai3Mong25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KuiKamongBai3Mong25HD.jpg">
+<title>KUI KAMONG BAI 3 MONG 2025</title>
+<titlel>คุยโขมงบ่ายสามโมง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 255  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KuiKamongBai3Mong25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/LaoKhaoKhon25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/LaoKhaoKhon25HD.jpg">
+<title>LAO KHAO KHON 2025</title>
+<titlel>เล่าข่าวข้น 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaoKhaoKhon25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/LiveTalk25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/LiveTalk25HD.jpg">
+<title>LIVE TALK 2025</title>
+<titlel>เรื่องใหญ่</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 126  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiveTalk25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/LueangLaoNaNueng25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/LueangLaoNaNueng25HD.jpg">
+<title>LUEANG LAO NA NUENG 2025</title>
+<titlel>เรื่องเล่าหน้าหนึ่ง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LueangLaoNaNueng25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/LuiChonKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/LuiChonKhao25HD.jpg">
+<title>LUI CHON KHAO 2025</title>
+<titlel>ลุยชนข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 617  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LuiChonKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationFocus25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationFocus25HD.jpg">
+<title>NATION FOCUS 2025</title>
+<titlel>เนชั่นโฟกัส</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 132  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationFocus25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationInsight25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationInsight25HD.jpg">
+<title>NATION INSIGHT 2025</title>
+<titlel>เนชั่นอินไซต์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 251  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationInsight25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationThanKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationThanKhao25HD.jpg">
+<title>NATION THAN KHAO 2025</title>
+<titlel>เนชั่นทันข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 258  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationThanKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationThanKhaoThiang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationThanKhaoThiang25HD.jpg">
+<title>NATION THAN KHAO THIANG 2025</title>
+<titlel>เนชั่นทันข่าวเที่ยง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 357  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationThanKhaoThiang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationThanKhaoYen25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationThanKhaoYen25HD.jpg">
+<title>NATION THAN KHAO YEN 2025</title>
+<titlel>เนชั่นทันข่าวเย็น 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 259  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationThanKhaoYen25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationThuaThai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationThuaThai25HD.jpg">
+<title>NATION THUA THAI 2025</title>
+<titlel>เนชั่นทั่วไทย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 126  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationThuaThai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationWikhroKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationWikhroKhao25HD.jpg">
+<title>NATION WIKHRO KHAO 2025</title>
+<titlel>เนชั่น วิเคราะห์ข่าว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 174  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationWikhroKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NineEntertainNightLife25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NineEntertainNightLife25HD.jpg">
+<title>NINE ENTERTAIN NIGHT LIVE 2025</title>
+<titlel>ไนเอ็นเตอร์เทนไนท์ไลฟ์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 255  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NineEntertainNightLife25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NineEntertainUpdate25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NineEntertainUpdate25HD.jpg">
+<title>NINE ENTERTAIN UPDATE 2025</title>
+<titlel>ไนท์เอนเตอร์เทนอัพเดด 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 259  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NineEntertainUpdate25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/OneBunTengThieng25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/OneBunTengThieng25HD.jpg">
+<title>ONE BUN TENG 2025</title>
+<titlel>วันบันเทิง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 257  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OneBunTengThieng25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/PhaPradenLok25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/PhaPradenLok25HD.jpg">
+<title>PHA PRADEN LOK 2025</title>
+<titlel>ผ่าประเด็นโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 131  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhaPradenLok25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/PoetPakKapPhakphum25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/PoetPakKapPhakphum25HD.jpg">
+<title>POET PAK KAP PHAKPHUM 2025</title>
+<titlel>เปิดปากกับภาคภูมิ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 250  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PoetPakKapPhakphum25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/PoetToKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/PoetToKhao25HD.jpg">
+<title>POET TO KHAO 2025</title>
+<titlel>เปิดโต๊ะข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 358  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PoetToKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/RopLokEXPRESS25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/RopLokEXPRESS25HD.jpg">
+<title>ROP LOK EXPRESS 2025</title>
+<titlel>รอบโลก EXPRESS 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 360  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RopLokEXPRESS25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/RueangNiTongKhlia25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/RueangNiTongKhlia25HD.jpg">
+<title>RUEANG NI TONG KHLIA 2025</title>
+<titlel>เรื่องนี้ต้องเคลียร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 248  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangNiTongKhlia25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/RueangPhlopKham25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/RueangPhlopKham25HD.jpg">
+<title>RUEANG PHLOP KHAM 2025</title>
+<titlel>เรื่องพลบค่ำ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 250  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangPhlopKham25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/RuengDen25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/RuengDen25HD.jpg">
+<title>RUENG DEN 2025</title>
+<titlel>เรื่องเด่น 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuengDen25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/RuengLoa25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/RuengLoa25HD.jpg">
+<title>RUENG LOA 2025</title>
+<titlel>เรื่องเล่า 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 365  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuengLoa25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/SagetKao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/SagetKao25HD.jpg">
+<title>SAGET KAO 2025</title>
+<titlel>สะเก็ดข่าว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 360  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SagetKao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/SanamKao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/SanamKao25HD.jpg">
+<title>SANAM KAO 2025</title>
+<titlel>สนามข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 365  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SanamKao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/SeeSanBanTeong25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/SeeSanBanTeong25HD.jpg">
+<title>SEE SAN BAN TEONG 2025</title>
+<titlel>สีสันบันเทิง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 254  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SeeSanBanTeong25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TaLonkhaoChaoni25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TaLonkhaoChaoni25HD.jpg">
+<title>TA LON KHAO CHAO NI 2025</title>
+<titlel>ตะลอนข่าวเช้านี้ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TaLonkhaoChaoni25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TalatKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TalatKhao25HD.jpg">
+<title>TALAT KHAO 2025</title>
+<titlel>ตลาดข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 365  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TalatKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TeangWanTanHedKan25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TeangWanTanHedKan25HD.jpg">
+<title>TEANG WAN TAN HED KAN 2025</title>
+<titlel>เที่ยงวันทันเหตุการณ์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TeangWanTanHedKan25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TeeNeeThaiPBS25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TeeNeeThaiPBS25HD.jpg">
+<title>TEE NEE THAI PBS 2025</title>
+<titlel>ที่นี่THAIPBS 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 205  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TeeNeeThaiPBS25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThairathNewsShow25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThairathNewsShow25HD.jpg">
+<title>THAIRATH NEWS SHOW 2025</title>
+<titlel>ไทยรัฐนิวส์โชว์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 681  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThairathNewsShow25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThanTho25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThanTho25HD.jpg">
+<title>THAN THO 2025</title>
+<titlel>ฐานทอล์ค 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 254  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThanTho25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThiangThanKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThiangThanKhao25HD.jpg">
+<title>THIANG THAN KHAO 2025</title>
+<titlel>เที่ยงทันข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 261  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThiangThanKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThokMaiThiang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThokMaiThiang25HD.jpg">
+<title>THOK MAI THIANG 2025</title>
+<titlel>ถก ไม่ เถียง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 256  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThokMaiThiang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TNNChuamongThamngoen25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TNNChuamongThamngoen25HD.jpg">
+<title>TNN CHUAMONG THAMNGOEN 2025</title>
+<titlel>TNN ชั่วโมงทำเงิน 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 259  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TNNChuamongThamngoen25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TNNKhaoChao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TNNKhaoChao25HD.jpg">
+<title>TNN KHAO CHAO 2025</title>
+<titlel>TNN ข่าวเช้า 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 381  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TNNKhaoChao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TNNKhaoThiang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TNNKhaoThiang25HD.jpg">
+<title>TNN KHAO THIANG 2025</title>
+<titlel>TNNข่าวเที่ยง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 289  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TNNKhaoThiang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TokManBanTueng25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TokManBanTueng25HD.jpg">
+<title>TOK MAN BAN TUENG 2025</title>
+<titlel>ตกมันส์บันเทิง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 233  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TokManBanTueng25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TopChotKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TopChotKhao25HD.jpg">
+<title>TOP CHOT KHAO 2025</title>
+<titlel>ตอบโจทย์ข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 203  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TopChotKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TupToKao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TupToKao25HD.jpg">
+<title>TUP TO KAO 2025</title>
+<titlel>ทุบโต๊ะข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 718  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TupToKao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/WanMaiThaiPBS25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/WanMaiThaiPBS25HD.jpg">
+<title>WAN MAI THAI PBS 2025</title>
+<titlel>วันใหม่ THAIPBS 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 365  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WanMaiThaiPBS25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/WorkpointNew25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/WorkpointNew25HD.jpg">
+<title>WORKPOINT NEWS 2025</title>
+<titlel>ข่าวเวิธ์คพอยท์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 364  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WorkpointNew25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/YukhonChonKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/YukhonChonKhao25HD.jpg">
+<title>YUKHON CHON KHAO 2025</title>
+<titlel>ยุคล ชนข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 254  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YukhonChonKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/360NewShow25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/360NewShow25HD.jpg">
+<title>360 NEW SHOW 2025</title>
+<titlel>360องศานิวโชว์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 187  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/360NewShow25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChapKhaoKhun25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChapKhaoKhun25HD.jpg">
+<title>CHAP KHAO KHUN 2025</title>
+<titlel>จับข่าวคุย 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 239  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChapKhaoKhun25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChaptaRopThit25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChaptaRopThit25HD.jpg">
+<title>CHAPTA ROP THIT 2025</title>
+<titlel>จับตารอบทิศ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 226  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaptaRopThit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChaptaSathanakanThaiPBS25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChaptaSathanakanThaiPBS25HD.jpg">
+<title>CHAPTA SATHANAKAN THAI PBS 2025</title>
+<titlel>จับตาสถานการณ์ THAI PBS 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 236  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaptaSathanakanThaiPBS25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChuaiKhitChuaiTham25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChuaiKhitChuaiTham25HD.jpg">
+<title>CHUAI KHIT CHUAI THAM 2025</title>
+<titlel>ช่วยคิด ช่วยทำ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 67  Episode(s) PLAY: MON, TUE, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChuaiKhitChuaiTham25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChuanKhitChuanKhui25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChuanKhitChuanKhui25HD.jpg">
+<title>CHUAN KHIT CHUAN KHUI 2025</title>
+<titlel>ชวนคิด ชวนคุย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 90  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChuanKhitChuanKhui25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ExclusiveTalk25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ExclusiveTalk25HD.jpg">
+<title>EXCLUSIVE TALK 2025</title>
+<titlel>คุยข้ามช็อต 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 225  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ExclusiveTalk25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoThiangCHOne25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoThiangCHOne25HD.jpg">
+<title>KHAO THIANG CH ONE 2025</title>
+<titlel>ข่าวเที่ยงช่องวัน 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 260  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoThiangCHOne25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhemKhaoYen25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhemKhaoYen25HD.jpg">
+<title>KHEM KHAO YEN 2025</title>
+<titlel>เข้มข่าวเย็น 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 243  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhemKhaoYen25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/Koa3Miti25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/Koa3Miti25HD.jpg">
+<title>KOA 3 MITI 2025</title>
+<titlel>ข่าว 3 มิติ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 360  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Koa3Miti25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/MumKanmueang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/MumKanmueang25HD.jpg">
+<title>MUM KANMUEANG 2025</title>
+<titlel>มุมการเมือง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 240  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MumKanmueang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NathiLongthun25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NathiLongthun25HD.jpg">
+<title>NATHI LONGTHUN 2025</title>
+<titlel>นาทีลงทุน 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 237  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NathiLongthun25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThaiRathJaoPaDen25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThaiRathJaoPaDen25HD.jpg">
+<title>THAI RATH JAO PA DEN 2025</title>
+<titlel>ไทยรัฐ เจาะประเด็น 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 233  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiRathJaoPaDen25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThanLokDaily25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThanLokDaily25HD.jpg">
+<title>THAN LOK DAILY 2025</title>
+<titlel>ทันโลก 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 252  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThanLokDaily25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThukThitThuaThai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThukThitThuaThai25HD.jpg">
+<title>THUK THIT THUA THAI 2025</title>
+<titlel>ทุกทิศทั่วไทย 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 231  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThukThitThuaThai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TrongPraden25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TrongPraden25HD.jpg">
+<title>TRONG PRADEN 2025</title>
+<titlel>ตรงประเด็น</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 230  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TrongPraden25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/WowWhanWhan25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/WowWhanWhan25HD.jpg">
+<title>WOW WHAN WHAN 2025</title>
+<titlel>ว้าว แหวน แหวน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2025 with 48  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WowWhanWhan25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/DedNews25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/DedNews25HD.jpg">
+<title>DED NEWS 2025</title>
+<titlel>ประเด็นเด็ด 7 สี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2025 with 206  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DedNews25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhlukWongnaiThamTrongThamChing25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhlukWongnaiThamTrongThamChing25HD.jpg">
+<title>KHLUK WONGNAI THAM TRONG THAM CHING 2025</title>
+<titlel>คลุกวงใน ถามตรงถามจริง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2025 with 52  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhlukWongnaiThamTrongThamChing25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/OffTheRecord25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/OffTheRecord25HD.jpg">
+<title>OFF THE RECORD 2025</title>
+<titlel>ปิดไมค์ถาม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2025 with 50  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OffTheRecord25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChoPradenKhaoKham25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChoPradenKhaoKham25HD.jpg">
+<title>CHO PRADEN KHAO KHAM 2025</title>
+<titlel>เจาะประเด็นข่าวค่ำ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 91  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoPradenKhaoKham25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/HonKrasaeTaeChao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/HonKrasaeTaeChao25HD.jpg">
+<title>HON KRASAE TAE CHAO 2025</title>
+<titlel>โหนกระแสแต่เช้า 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 52  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HonKrasaeTaeChao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KasetNews3225.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KasetNews3225HD.jpg">
+<title>KASET NEWS 32 2025</title>
+<titlel>เกษตรนิวส์ 32</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 39  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KasetNews3225.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoChaoCHOne25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoChaoCHOne25HD.jpg">
+<title>KHAO CHAO CH ONE 2025</title>
+<titlel>ข่าวเช้าช่องวัน 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 358  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoChaoCHOne25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoThiangtrong25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoThiangtrong25HD.jpg">
+<title>KHAO THIANGTRONG 2025</title>
+<titlel>ข่าวเที่ยงตรง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 247  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoThiangtrong25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhoKhaoSaoAthit25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhoKhaoSaoAthit25HD.jpg">
+<title>KHO KHAO SAO ATHIT 2025</title>
+<titlel>เคาะข่าวเสาร์-อาทิตย์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 102  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhoKhaoSaoAthit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhuKhaoOnThua25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhuKhaoOnThua25HD.jpg">
+<title>KHU KHAO ON THUA 2025</title>
+<titlel>คู่ข่าว ออนทัวร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 52  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuKhaoOnThua25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhuiKhaoYen825.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhuiKhaoYen825HD.jpg">
+<title>KHUI KHAO YEN 8 2025</title>
+<titlel>คุยข่าวเย็น 8</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 103  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuiKhaoYen825.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/KonKonKon25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/KonKonKon25HD.jpg">
+<title>KON KON KON 2025</title>
+<titlel>คนค้นฅ้น 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KonKonKon25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KooKoaKooSee25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KooKoaKooSee25HD.jpg">
+<title>KOO KOA KOO SEE 2025</title>
+<titlel>คู่ข่าวคู่ชี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 104  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KooKoaKooSee25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/LaoKhaoKhonSaoAthit25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/LaoKhaoKhonSaoAthit25HD.jpg">
+<title>LAO KHAO KHON SAO ATHIT 2025</title>
+<titlel>เล่าข่าวข้น เสาร์-อาทิตย์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 103  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaoKhaoKhonSaoAthit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NakkhaoPhonlamueang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NakkhaoPhonlamueang25HD.jpg">
+<title>NAKKHAO PHONLAMUEANG 2025</title>
+<titlel>นักข่าวพลเมือง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 90  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NakkhaoPhonlamueang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationArSa25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationArSa25HD.jpg">
+<title>NATION AR SA 2025</title>
+<titlel>เนชั่นอาสา 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 31  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationArSa25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationSaoAthit25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationSaoAthit25HD.jpg">
+<title>NATION SAO ATHIT 2025</title>
+<titlel>ข่าวค่ำเนชั่น เสาร์-อาทิตย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 102  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationSaoAthit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationSutsapda25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationSutsapda25HD.jpg">
+<title>NATION SUTSAPDA 2025</title>
+<titlel>เนชั่นสุดสัปดาห์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 99  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationSutsapda25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NewsRoom25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NewsRoom25HD.jpg">
+<title>NEWS ROOM 2025</title>
+<titlel>ห้องข่าว ไทยพีบีเอส</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 49  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NewsRoom25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/RueangDenYenNiSaoAthit25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/RueangDenYenNiSaoAthit25HD.jpg">
+<title>RUEANG DEN YEN NI SAO ATHIT 2025</title>
+<titlel>เรื่องเด่นเย็นนี้ เสาร์-อาทิตย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 88  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangDenYenNiSaoAthit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/RuthanKhadiKong25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/RuthanKhadiKong25HD.jpg">
+<title>RUTHAN KHADI KONG 2025</title>
+<titlel>รู้ทันคดีโกง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 47  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuthanKhadiKong25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/SaoAthitKhanKhaoChaoTru25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/SaoAthitKhanKhaoChaoTru25HD.jpg">
+<title>SAO ATHIT KHAN KHAO CHAO TRU 2025</title>
+<titlel>เสาร์ อาทิตย์ ขันข่าว เช้าตรู่ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 104  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SaoAthitKhanKhaoChaoTru25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/SommutWa25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/SommutWa25HD.jpg">
+<title>SOMMUT WA 2025</title>
+<titlel>สมมุติว่า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 47  Episode(s) PLAY: MON, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SommutWa25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TaLonKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TaLonKhao25HD.jpg">
+<title>TA LON KHAO 2025</title>
+<titlel>ตะลอนข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 103  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TaLonKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThaiPBSNews25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThaiPBSNews25HD.jpg">
+<title>THAI PBS NEWS 2025</title>
+<titlel>ข่าวเที่ยง THAI PBS</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 102  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiPBSNews25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TingKhaoSutsapda25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TingKhaoSutsapda25HD.jpg">
+<title>TING KHAO SUTSAPDA 2025</title>
+<titlel>ติ่งข่าวสุดสัปดาห์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 52  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TingKhaoSutsapda25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TopNewsTalk25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TopNewsTalk25HD.jpg">
+<title>TOP NEWS TALK 2025</title>
+<titlel>ท็อปนิวทอร์ค 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 50  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TopNewsTalk25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/DesignNews25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/DesignNews25HD.jpg">
+<title>DESIGN NEWS 2025</title>
+<titlel>อยู่สบาย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 52  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DesignNews25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/DigitalThailand25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/DigitalThailand25HD.jpg">
+<title>DIGITAL THAILAND 2025</title>
+<titlel>ดิจิทัลไทยแลนด์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 52  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DigitalThailand25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoChoYoLok25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoChoYoLok25HD.jpg">
+<title>KHAO CHO YO LOK 2025</title>
+<titlel>ข่าวเจาะย่อโลก 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 49  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoChoYoLok25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoManKhiao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoManKhiao25HD.jpg">
+<title>KHAO MAN KHIAO 2025</title>
+<titlel>ข่าวมันส์เขี้ยว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 17  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoManKhiao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoSaepChaphokit25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoSaepChaphokit25HD.jpg">
+<title>KHAO SAEP CHAPHOKIT 2025</title>
+<titlel>ข่าวแสบเฉพาะกิจ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 48  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoSaepChaphokit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhoWelaNok25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhoWelaNok25HD.jpg">
+<title>KHO WELA NOK 2025</title>
+<titlel>ขอเวลานอก 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 50  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhoWelaNok25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/KhonSuRok25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/KhonSuRok25HD.jpg">
+<title>KHON SU ROK 2025</title>
+<titlel>คนสู้โรค 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 97  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonSuRok25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NheeTiew25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NheeTiew25HD.jpg">
+<title>NHEE TIEW 2025</title>
+<titlel>หนีเที่ยว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 52  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NheeTiew25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/PhaPradenLokSutsapda25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/PhaPradenLokSutsapda25HD.jpg">
+<title>PHA PRADEN LOK SUTSAPDA 2025</title>
+<titlel>ผ่าประเด็นโลกสุดสัปดาห์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 52  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhaPradenLokSutsapda25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/SuepsuanKhwamching25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/SuepsuanKhwamching25HD.jpg">
+<title>SUEPSUAN KHWAMCHING 2025</title>
+<titlel>สืบสวนความจริง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 50  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SuepsuanKhwamching25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThailandLIVE25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThailandLIVE25HD.jpg">
+<title>THAILAND LIVE 2025</title>
+<titlel>ฟังเสียงประเทศไทย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 50  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThailandLIVE25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThePeopleShow25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThePeopleShow25HD.jpg">
+<title>THE PEOPLE SHOW 2025</title>
+<titlel>เดอะพีโพโชว์2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 51  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThePeopleShow25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/BaiNeeMeeKamTop25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/BaiNeeMeeKamTop25HD.jpg">
+<title>BAI NEE MEE KAM TOP 2025</title>
+<titlel>บ่ายนี้มีคำตอบ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2025 with 49  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BaiNeeMeeKamTop25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KaoWanSuk25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KaoWanSuk25HD.jpg">
+<title>KAO WAN SUK 2025</title>
+<titlel>ข่าววันศุกร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2025 with 49  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KaoWanSuk25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhuiHaiKhit25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhuiHaiKhit25HD.jpg">
+<title>KHUI HAI KHIT 2025</title>
+<titlel>คุยให้คิด 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2025 with 52  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuiHaiKhit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/WorldPulse25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/WorldPulse25HD.jpg">
+<title>WORLD PULSE 2025</title>
+<titlel>โลกเล่าเรื่อง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2025 with 49  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WorldPulse25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/AoHaiChat25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/AoHaiChat25HD.jpg">
+<title>AO HAI CHAT 2025</title>
+<titlel>เอาให้ชัด 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Dec-2025 with 194  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AoHaiChat25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhuiNokKrop25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhuiNokKrop25HD.jpg">
+<title>KHUI NOK KROP</title>
+<titlel>คุยนอกกรอบกับ สุทธิชัย หยุ่น 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Dec-2025 with 50  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuiNokKrop25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/Ch7HelpVillagers25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/Ch7HelpVillagers25HD.jpg">
+<title>CH 7 HELP VILLAGERS 2025</title>
+<titlel>7 สีช่วยชาวบ้าน 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 23-Dec-2025 with 99  Episode(s) PLAY: MON, TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Ch7HelpVillagers25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChuamongKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChuamongKhao25HD.jpg">
+<title>CHUAMONG KHAO 2025</title>
+<titlel>ชั่วโมงข่าว เสาร์ - อาทิตย์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Dec-2025 with 99  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChuamongKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KrisanaTourYokLor25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KrisanaTourYokLor25HD.jpg">
+<title>KRISANA TOUR YOK LOR 2025</title>
+<titlel>กฤษณะทัวร์ยกล้อ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Dec-2025 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KrisanaTourYokLor25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/PoetChoChoKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/PoetChoChoKhao25HD.jpg">
+<title>POET CHO CHO KHAO 2025</title>
+<titlel>เปิดจอจ้อข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Dec-2025 with 100  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PoetChoChoKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/RueangDiThuaThai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/RueangDiThuaThai25HD.jpg">
+<title>RUEANG DI THUA THAI 2025</title>
+<titlel>เรื่องดี ทั่วไทย 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Dec-2025 with 100  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangDiThuaThai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ThanKhaoSutsapda25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ThanKhaoSutsapda25HD.jpg">
+<title>THAN KHAO SUTSAPDA 2025</title>
+<titlel>ทันข่าว สุดสัปดาห์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Dec-2025 with 101  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThanKhaoSutsapda25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/YakLaoHaiFang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/YakLaoHaiFang25HD.jpg">
+<title>YAK LAO HAI FANG 2025</title>
+<titlel>อยากเล่าให้ฟัง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Dec-2025 with 68  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YakLaoHaiFang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/SisanThanLok25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/SisanThanLok25HD.jpg">
+<title>SISAN THAN LOK 2025</title>
+<titlel>สีสันทันโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Dec-2025 with 46  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SisanThanLok25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ShotDedKonDang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ShotDedKonDang25HD.jpg">
+<title>SHOT DED KON DANG 2025</title>
+<titlel>ชอตเด็ด คนดัง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Dec-2025 with 28  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ShotDedKonDang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TalkTogether25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TalkTogether25HD.jpg">
+<title>TALK TOGETHER</title>
+<titlel>ทอล์คทูเกเธอร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Oct-2025 with 190  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TalkTogether25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhomKhuiKhomKhit25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhomKhuiKhomKhit25HD.jpg">
+<title>KHOMKHUI KHOMKHIT</title>
+<titlel>คมคุยคมคิด</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Oct-2025 with 11  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhomKhuiKhomKhit25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NaKhrap25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NaKhrap25HD.jpg">
+<title>NA KHRAP 2025</title>
+<titlel>ณ ครับ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Oct-2025 with 40  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NaKhrap25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhuiLuiKhlia25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhuiLuiKhlia25HD.jpg">
+<title>KHUI LUI KHLIA</title>
+<titlel>คุย ลุย เคลียร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Sep-2025 with 35  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhuiLuiKhlia25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/PolicyWatch25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/PolicyWatch25HD.jpg">
+<title>POLICY WATCH</title>
+<titlel>จับตาอนาคตประเทศไทย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Sep-2025 with 138  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PolicyWatch25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChiChataNayokThai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChiChataNayokThai25HD.jpg">
+<title>CHI CHATA NAYOK THAI</title>
+<titlel>ชี้ชะตานายกไทย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Aug-2025 with 2  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChiChataNayokThai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhonKhoKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhonKhoKhao25HD.jpg">
+<title>KHON KHO KHAO</title>
+<titlel>คนเคาะข่าว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Aug-2025 with 16  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonKhoKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChaeKhaoSaoSatrong25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChaeKhaoSaoSatrong25HD.jpg">
+<title>CHAE KHAO SAO SATRONG</title>
+<titlel>แชร์ข่าวสาวสตรอง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Jul-2025 with 138  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaeKhaoSaoSatrong25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/PenKhaoLaoRueang25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/PenKhaoLaoRueang25HD.jpg">
+<title>PEN KHAO LAO RUEANG</title>
+<titlel>เป็นข่าวเล่าเรื่อง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Jul-2025 with 131  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PenKhaoLaoRueang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TOPWorldHour2025.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TOPWorldHour2025HD.jpg">
+<title>TOP WORLD HOUR</title>
+<titlel>ชั่วโมงโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jul-2025 with 21  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TOPWorldHour2025.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChoKhaoKham2525.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChoKhaoKham2525HD.jpg">
+<title>CHO KHAO KHAM 25</title>
+<titlel>เจาะข่าวค่ำ 25 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Jul-2025 with 183  Episode(s) PLAY: Everyday  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChoKhaoKham2525.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/SaoSonSon25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/SaoSonSon25HD.jpg">
+<title>SAO SON SON</title>
+<titlel>เสาร์ซน ๆ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Jun-2025 with 25  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SaoSonSon25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TopHeadline25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TopHeadline25HD.jpg">
+<title>TOP HEADLINE</title>
+<titlel>ท็อป 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Jun-2025 with 24  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TopHeadline25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationKhlaiThuk25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationKhlaiThuk25HD.jpg">
+<title>NATION KHLAI THUK</title>
+<titlel>เนชั่นคลายทุกข์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-May-2025 with 21  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationKhlaiThuk25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationRawangPhai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationRawangPhai25HD.jpg">
+<title>NATION RAWANG PHAI</title>
+<titlel>เนชั่นระวังภัย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-May-2025 with 87  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationRawangPhai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/MorningNation25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/MorningNation25HD.jpg">
+<title>MORNING NATION</title>
+<titlel>มอร์นิ่งเนชั่น 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2025 with 86  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MorningNation25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/NationThanKhaoChao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/NationThanKhaoChao25HD.jpg">
+<title>NATION THAN KHAO CHAO 2025</title>
+<titlel>เนชั่นทันข่าวเช้า 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2025 with 120  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NationThanKhaoChao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/MongChinLakMum25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/MongChinLakMum25HD.jpg">
+<title>MONG CHIN LAK MUM</title>
+<titlel>มองจีนหลากมุม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Apr-2025 with 15  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MongChinLakMum25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoWanSao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoWanSao25HD.jpg">
+<title>KHAO WAN SAO</title>
+<titlel>ข่าววันเสาร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Apr-2025 with 15  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoWanSao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/KhaoLaoRueangNokRueangKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/KhaoLaoRueangNokRueangKhao25HD.jpg">
+<title>KHAO LAO RUEANG NOK RUEANG KHAO</title>
+<titlel>ข่าวเล่าเรื่องนอกเรื่องข่าว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Mar-2025 with 11  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhaoLaoRueangNokRueangKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/LaengNgai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/LaengNgai25HD.jpg">
+<title>LAENG NGAI</title>
+<titlel>แล้วไง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Mar-2025 with 1  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LaengNgai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/LuangKhao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/LuangKhao25HD.jpg">
+<title>LUANG KHAO</title>
+<titlel>ล้วงข่าว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Mar-2025 with 41  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LuangKhao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/SanhaMaLao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/SanhaMaLao25HD.jpg">
+<title>SANHA MA LAO</title>
+<titlel>สรรหามาเล่า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Mar-2025 with 13  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SanhaMaLao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/TNNWorldToday25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/TNNWorldToday25HD.jpg">
+<title>TNN WORLD TODAY</title>
+<titlel>ทันทุกความจริง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Feb-2025 with 19  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TNNWorldToday25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/RueangNiTongKhliaTaeChao25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/RueangNiTongKhliaTaeChao25HD.jpg">
+<title>RUEANG NI TONG KHLIA TAE CHAO</title>
+<titlel>เรื่องนี้ต้องเคลียร์แต่เช้า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Feb-2025 with 3  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangNiTongKhliaTaeChao25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/ChaoNiPrathetThai25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/ChaoNiPrathetThai25HD.jpg">
+<title>CHAO NI PRATHET THAI 2025</title>
+<titlel>เช้านี้ประเทศไทย 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Jan-2025 with 23  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChaoNiPrathetThai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/News25/PakthongTongRu25.jpg"
+ hdImg="https://i.malimarcdn.com/News25/PakthongTongRu25HD.jpg">
+<title>PAKTHONG TONG RU 2025</title>
+<titlel>ปากท้องต้องรู้ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Jan-2025 with 12  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PakthongTongRu25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>7</itemCount>
+<totalCount>7</totalCount>
+<item sdImg="https://i.malimarcdn.com/MyVillageSeason2.jpg"
+ hdImg="https://i.malimarcdn.com/MyVillageSeason2HD.jpg">
+<title>MY VILLAGE SEASON 2</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 21-Jul-2015 with 8  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MyVillageSeason2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MyVillageSeason1.jpg"
+ hdImg="https://i.malimarcdn.com/MyVillageSeason1HD.jpg">
+<title>MY VILLAGE SEASON 1</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<description>Updated: 30-May-2015 with 15  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MyVillageSeason1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RTLCv2.jpg"
+ hdImg="https://i.malimarcdn.com/RTLCv2HD.jpg">
+<title>RTLC</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Oct-2025 with 29  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RTLCv2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OhMuangLao_Grid.jpg"
+ hdImg="https://i.malimarcdn.com/OhMuangLao_GridHD.jpg">
+<title>OH MUANG LAO GRID</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OhMuangLao_Grid.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SabaideeLaoGrille.jpg"
+ hdImg="https://i.malimarcdn.com/SabaideeLaoGrilleHD.jpg">
+<title>SABAIDEE THAI LAO GRILLE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Jan-2025 with 17  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SabaideeLaoGrille.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Maniphone2012.jpg"
+ hdImg="https://i.malimarcdn.com/Maniphone2012HD.jpg">
+<title>MANIPHONE</title>
+<titlel>ຂ່າວຄາວລາວຕ່າງແດນ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Maniphone2012.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaoAlphabetSong.jpg"
+ hdImg="https://i.malimarcdn.com/LaoAlphabetSongHD.jpg">
+<id>lao_alphabet_song7026</id>
+<title>LAO ALPHABET SONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>240</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Oct-2014</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Music/LaoAlphabetSong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

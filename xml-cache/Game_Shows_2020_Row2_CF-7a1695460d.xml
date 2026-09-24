@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>34</itemCount>
+<totalCount>34</totalCount>
+<item sdImg="https://i.malimarcdn.com/MaiThongkhamPhetTatPhet20.jpg"
+ hdImg="https://i.malimarcdn.com/MaiThongkhamPhetTatPhet20HD.jpg">
+<title>MAI THONGKHAM PHET TAT PHET 2020</title>
+<titlel>ไมค์ทองคําเพชรตัดเพชร</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2020 with 50  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MaiThongkhamPhetTatPhet20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Super10020.jpg"
+ hdImg="https://i.malimarcdn.com/Super10020HD.jpg">
+<title>SUPER 100 2020</title>
+<titlel>อัจฉะริยะเกินร้อย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2020 with 52  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Super10020.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThePriceisRightThailand20.jpg"
+ hdImg="https://i.malimarcdn.com/ThePriceisRightThailand20HD.jpg">
+<title>THE PRICE IS RIGHT THAILAND 2020</title>
+<titlel>ราคา พารวย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2020 with 51  Episode(s) PLAY: Everyday  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThePriceisRightThailand20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DavinciDek20.jpg"
+ hdImg="https://i.malimarcdn.com/DavinciDek20HD.jpg">
+<title>DAVINCI DEK 2020</title>
+<titlel>เด็กถอดรหัส</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2020 with 50  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DavinciDek20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhapLapNapBaeng20.jpg"
+ hdImg="https://i.malimarcdn.com/PhapLapNapBaeng20HD.jpg">
+<title>PHAP LAP NAP BAENG 2020</title>
+<titlel>ภาพลับนับแบงก์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2020 with 51  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhapLapNapBaeng20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ReTurn20.jpg"
+ hdImg="https://i.malimarcdn.com/ReTurn20HD.jpg">
+<title>RE TURN 2020</title>
+<titlel>ท้าพิสูจน์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2020 with 52  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ReTurn20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TakeMeOutThailand20.jpg"
+ hdImg="https://i.malimarcdn.com/TakeMeOutThailand20HD.jpg">
+<title>TAKE ME OUT THAILAND 2020</title>
+<titlel>เทคมีเอ้าท์ไทยแลนด์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2020 with 51  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TakeMeOutThailand20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KikDuNgoenLan20.jpg"
+ hdImg="https://i.malimarcdn.com/KikDuNgoenLan20HD.jpg">
+<title>KIK DU NGOEN LAN 2020</title>
+<titlel>กิ๊กดู๋ เงินล้าน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Dec-2020 with 47  Episode(s) PLAY:  TUE, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KikDuNgoenLan20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LukthungSuFat20.jpg"
+ hdImg="https://i.malimarcdn.com/LukthungSuFat20HD.jpg">
+<title>LUKTHUNG SU FAT 2020</title>
+<titlel>ลูกทุ่งสู้ฟัด</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Dec-2020 with 204  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LukthungSuFat20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WhoIsNo20.jpg"
+ hdImg="https://i.malimarcdn.com/WhoIsNo20HD.jpg">
+<title>WHO IS NO 2020</title>
+<titlel>ใครคือเบอร์ 1</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Dec-2020 with 74  Episode(s) PLAY:  THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WhoIsNo20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheWallSong20.jpg"
+ hdImg="https://i.malimarcdn.com/TheWallSong20HD.jpg">
+<title>THE WALL SONG 2020</title>
+<titlel>ร้องข้ามกำแพง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Dec-2020 with 16  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheWallSong20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DaraPhaRuai20.jpg"
+ hdImg="https://i.malimarcdn.com/DaraPhaRuai20HD.jpg">
+<title>DARA PHA RUAI 2020</title>
+<titlel>ดาราพารวย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Dec-2020 with 39  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DaraPhaRuai20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FamilyGame20.jpg"
+ hdImg="https://i.malimarcdn.com/FamilyGame20HD.jpg">
+<title>FAMILY GAME 2020</title>
+<titlel>4 ต่อ 4 แฟมิลี่เกม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Dec-2020 with 74  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FamilyGame20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KengChingChingKhaThoem20.jpg"
+ hdImg="https://i.malimarcdn.com/KengChingChingKhaThoem20HD.jpg">
+<title>KENG CHING CHING KHA THOEM 2020</title>
+<titlel>เก่งจริงชิงค่าเทอม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Dec-2020 with 21  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KengChingChingKhaThoem20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MasterChefCelebrityThailand20.jpg"
+ hdImg="https://i.malimarcdn.com/MasterChefCelebrityThailand20HD.jpg">
+<title>MASTER CHEF CELEBRITY THAILAND 2020</title>
+<titlel>มาสเตอร์เชฟ เซเลบริตี้</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Dec-2020 with 8  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MasterChefCelebrityThailand20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RuMaiKhraiSot20.jpg"
+ hdImg="https://i.malimarcdn.com/RuMaiKhraiSot20HD.jpg">
+<title>RU MAI KHRAI SOT 2020</title>
+<titlel>รู้ไหมใครโสด</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Dec-2020 with 45  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RuMaiKhraiSot20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FightForHer20.jpg"
+ hdImg="https://i.malimarcdn.com/FightForHer20HD.jpg">
+<title>FIGHT FOR HER 2020</title>
+<titlel>เธอสั่งลุย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Nov-2020 with 16  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FightForHer20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/StepRightUp20.jpg"
+ hdImg="https://i.malimarcdn.com/StepRightUp20HD.jpg">
+<title>STEP RIGHT UP 2020</title>
+<titlel>ใครเก่ง ใครได้</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Nov-2020 with 35  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/StepRightUp20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Fanwars20.jpg"
+ hdImg="https://i.malimarcdn.com/Fanwars20HD.jpg">
+<title>FANWARS</title>
+<titlel>ดาวปั้นดาว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Mar-2020 with 6  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Fanwars20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheCar20.jpg"
+ hdImg="https://i.malimarcdn.com/TheCar20HD.jpg">
+<title>THE CAR</title>
+<titlel>อัจฉริยะทั้งคัน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-Mar-2020 with 11  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheCar20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FaMaiMaiTangtua20.jpg"
+ hdImg="https://i.malimarcdn.com/FaMaiMaiTangtua20HD.jpg">
+<title>FA MAI MAI TANGTUA</title>
+<titlel>ฟ้าใหม่ไมค์ตั้งตัว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Mar-2020 with 25  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FaMaiMaiTangtua20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KlongKhongkhwan20.jpg"
+ hdImg="https://i.malimarcdn.com/KlongKhongkhwan20HD.jpg">
+<title>KLONG KHONG KHWAN</title>
+<titlel>กล่องของขวัญ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Feb-2020 with 43  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KlongKhongkhwan20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheEyes20.jpg"
+ hdImg="https://i.malimarcdn.com/TheEyes20HD.jpg">
+<title>THE EYES 2020</title>
+<titlel>ดิอายส์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Feb-2020 with 43  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheEyes20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ManoVSMahachon20.jpg"
+ hdImg="https://i.malimarcdn.com/ManoVSMahachon20HD.jpg">
+<title>MANO VS MAHACHON</title>
+<titlel>มโน VS มหาชน</titlel>
+<Mweb>N</Mweb>
+<description>Updated: 9-Feb-2020 with 6  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ManoVSMahachon20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheMaskMirror19.jpg"
+ hdImg="https://i.malimarcdn.com/TheMaskMirror19HD.jpg">
+<title>THE MASK MIRROR</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Feb-2020 with 15  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheMaskMirror19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MaiMotNi20.jpg"
+ hdImg="https://i.malimarcdn.com/MaiMotNi20HD.jpg">
+<title>MAI MOT NI</title>
+<titlel>ไมค์หมดหนี้</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Jan-2020 with 23  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MaiMotNi20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GoldenMicrophone820.jpg"
+ hdImg="https://i.malimarcdn.com/GoldenMicrophone820HD.jpg">
+<title>GOLDEN MICROPHONE 8</title>
+<titlel>ไมค์ทองคำ8</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Jan-2020 with 4  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GoldenMicrophone820.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MyWifeIsASinger20.jpg"
+ hdImg="https://i.malimarcdn.com/MyWifeIsASinger20HD.jpg">
+<title>MY WIFE IS A SINGER</title>
+<titlel>หลงเสียงเธอ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Jan-2020 with 1  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MyWifeIsASinger20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/masterkey19.jpg"
+ hdImg="https://i.malimarcdn.com/masterkey19HD.jpg">
+<title>MASTER KEY 2019</title>
+<titlel>มาสเตอร์คีย์เวทีแจ้งเกิด</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jan-2020 with 242  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/masterkey19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GuessMyAge19.jpg"
+ hdImg="https://i.malimarcdn.com/GuessMyAge19HD.jpg">
+<title>GUESS MY AGE 2019</title>
+<titlel>รู้หน้า ไม่รู้วัย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Jan-2020 with 37  Episode(s) PLAY:  WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GuessMyAge19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/IcanSeeYourVoice19.jpg"
+ hdImg="https://i.malimarcdn.com/IcanSeeYourVoice19HD.jpg">
+<title>I CAN SEE YOUR VOICE 2019</title>
+<titlel>นักร้องซ่อนแอบ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Jan-2020 with 53  Episode(s) PLAY:  TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/IcanSeeYourVoice19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KlongKhongkhwan19.jpg"
+ hdImg="https://i.malimarcdn.com/KlongKhongkhwan19HD.jpg">
+<title>KLONG KHONG KHWAN 2019</title>
+<titlel>กล่องของขวัญ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Jan-2020 with 147  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KlongKhongkhwan19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheEyes19.jpg"
+ hdImg="https://i.malimarcdn.com/TheEyes19HD.jpg">
+<title>THE EYES 2019</title>
+<titlel>ดิอายส์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Jan-2020 with 248  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheEyes19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThePriceisRightThailand19.jpg"
+ hdImg="https://i.malimarcdn.com/ThePriceisRightThailand19HD.jpg">
+<title>THE PRICE IS RIGHT THAILAND 2019</title>
+<titlel>ราคา พารวย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Jan-2020 with 202  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThePriceisRightThailand19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

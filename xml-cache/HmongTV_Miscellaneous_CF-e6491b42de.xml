@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>7</itemCount>
+<totalCount>7</totalCount>
+<item sdImg="https://i.malimarcdn.com/hm/PadKraPaoHmong.jpg"
+ hdImg="https://i.malimarcdn.com/hm/PadKraPaoHmongHD.jpg">
+<id>hmong_pad_kra_pao1753</id>
+<title>HMONG PAD KRA PAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>952</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongCooking/PadKraPao.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/GreenCurryHmong.jpg"
+ hdImg="https://i.malimarcdn.com/hm/GreenCurryHmongHD.jpg">
+<id>hmong_green_curry1752</id>
+<title>HMONG GREEN CURRY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>824</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongCooking/GreenCurry.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/BangkokMarketHmong.jpg"
+ hdImg="https://i.malimarcdn.com/hm/BangkokMarketHmongHD.jpg">
+<id>hmong_bangkok_market1751</id>
+<title>HMONG BANGKOK MARKET</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>898</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongCooking/BangkokMarket.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/EchoSafety.jpg"
+ hdImg="https://i.malimarcdn.com/hm/EchoSafetyHD.jpg">
+<id>hmong_echo_safety1757</id>
+<title>HMONG ECHO SAFETY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>1294</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/ECHOSafetyAndHealth/Safety/SAFETY.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/XeemXais.jpg"
+ hdImg="https://i.malimarcdn.com/hm/XeemXaisHD.jpg">
+<id>xeem_xais1759</id>
+<title>XEEM XAIS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>108</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongAnimation/XeemXais/XeemXais.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/NcaimMusLawm.jpg"
+ hdImg="https://i.malimarcdn.com/hm/NcaimMusLawmHD.jpg">
+<title>NCAIM MUS LAWM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Sep-2013 with 5  Episode(s) PLAY:  THU  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NcaimMusLawm.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/NrauNtsuagZuagPaj.jpg"
+ hdImg="https://i.malimarcdn.com/hm/NrauNtsuagZuagPajHD.jpg">
+<id>nrau_ntsuag_zuag_paj1761</id>
+<title>NRAU NTSUAG ZUAG PAJ</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>450</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Sep-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongAnimation/NraugNtsuag/NrauNtsuagZuagPaj.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

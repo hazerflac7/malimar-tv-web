@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>2</itemCount>
+<totalCount>2</totalCount>
+<item>
+<title>GAME SHOWS 2021 ROW 1</title>
+<titlel>เกมโชว์ 2021</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Game_Shows_2021_Row1_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>GAME SHOWS 2021 ROW 2</title>
+<titlel>เกมโชว์ 2021</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Game_Shows_2021_Row2_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+</feed>

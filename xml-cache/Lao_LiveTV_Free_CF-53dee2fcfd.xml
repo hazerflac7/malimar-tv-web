@@ -1,0 +1,637 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>18</itemCount>
+<totalCount>18</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2026/DrgamhomTV26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/DrgamhomTV26HD.jpg">
+<id>good_idea_tv_usa</id>
+<title>GOOD IDEA TV USA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Thai Entertainment and Shopping Channel 888-988-8933</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/gooditv.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DaoLaneXang.jpg"
+ hdImg="https://i.malimarcdn.com/DaoLaneXangHD.jpg">
+<id>dao_lane_xang</id>
+<title>DAO LANE XANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>559-826-9902</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ISTVv2.jpg"
+ hdImg="https://i.malimarcdn.com/ISTVv2HD.jpg">
+<id>istv</id>
+<title>ISTV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Thai Shopping Channel 888-478-8669</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/laonet.jpg"
+ hdImg="https://i.malimarcdn.com/laonetHD.jpg">
+<id>lao_net_tv</id>
+<title>LAO NET TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao Television</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaoSVTV1.jpg"
+ hdImg="https://i.malimarcdn.com/LaoSVTV1HD.jpg">
+<id>lao_sv_tv</id>
+<title>LAO SV TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao Shopping Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/laoplanet.jpg"
+ hdImg="https://i.malimarcdn.com/laoplanetHD.jpg">
+<id>laos_planet_tv</id>
+<title>LAOS PLANET TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao Shopping Channel 414-628-0593</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/laosplanet.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LOOKTHOONGTVNEW2.jpg"
+ hdImg="https://i.malimarcdn.com/LOOKTHOONGTVNEW2HD.jpg">
+<id>look_thoong_tv_hd</id>
+<title>LOOK THOONG TV HD</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Thai Entertainment Country Music TV 559-579-8477</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/nattvv3.jpg"
+ hdImg="https://i.malimarcdn.com/nattvv3HD.jpg">
+<id>nat_tv</id>
+<title>NAT TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Thai Shopping Channel 818-980-7999</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/airtvchannel.jpg"
+ hdImg="https://i.malimarcdn.com/airtvchannelHD.jpg">
+<id>air_tv</id>
+<title>AIR TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao TV Channel 626-488-7252</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TeaTvLaoSponsor.jpg"
+ hdImg="https://i.malimarcdn.com/TeaTvLaoSponsorHD.jpg">
+<id>tea_tv</id>
+<title>TEA TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Shopping Television 909-634-0151</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/briantv.jpg"
+ hdImg="https://i.malimarcdn.com/briantvHD.jpg">
+<id>brian_tv</id>
+<title>BRIAN TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/houngfa.jpg"
+ hdImg="https://i.malimarcdn.com/houngfaHD.jpg">
+<id>houng_fa_sydara_pha_shop</id>
+<title>HOUNG FA SYDARA PHA SHOP</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor>Thai TV</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao Shopping Channel 714-454-5481</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/laothaius.jpg"
+ hdImg="https://i.malimarcdn.com/laothaiusHD.jpg">
+<id>lao_thai_tv</id>
+<title>LAO THAI TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao Thai Shopping Channel 818-290-3120</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LoneSinhLaov2.jpg"
+ hdImg="https://i.malimarcdn.com/LoneSinhLaov2HD.jpg">
+<id>lone_sinh_lao_tv</id>
+<title>LONE SINH LAO TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao Shopping Channel 281-979-1185</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/lonesinhlao.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/lstv1v3.jpg"
+ hdImg="https://i.malimarcdn.com/lstv1v3HD.jpg">
+<id>ls_tv_1</id>
+<title>LS TV 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor>Lao TV</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao Shopping Channel 714 248 4116</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ningtv.jpg"
+ hdImg="https://i.malimarcdn.com/ningtvHD.jpg">
+<id>ning_tv</id>
+<title>NING TV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao Entertainment</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/UniquelyThai.jpg"
+ hdImg="https://i.malimarcdn.com/UniquelyThaiHD.jpg">
+<id>uniquely_thai</id>
+<title>UNIQUELY THAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Furniture and Decoration 805-824-0249</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/vatilaotv2016.jpg"
+ hdImg="https://i.malimarcdn.com/vatilaotv2016HD.jpg">
+<id>vati_lao</id>
+<title>VATI LAO</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor>Lao TV</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>USA Lao Entertainment and Shopping Channel 619-262-4555</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

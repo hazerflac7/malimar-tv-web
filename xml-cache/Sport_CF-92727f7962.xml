@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>31</itemCount>
+<totalCount>31</totalCount>
+<item sdImg="https://i.malimarcdn.com/Variety26/2026AsianGamesVolleyball26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/2026AsianGamesVolleyball26HD.jpg">
+<title>2026 ASIAN GAMES VOLLEYBALL</title>
+<titlel>เอเชียนเกมส์ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Sep-2026 with 4  Episode(s) PLAY:  TUE  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/2026AsianGamesVolleyball26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/7Boxing26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/7Boxing26HD.jpg">
+<title>7 BOXING</title>
+<titlel>มวยไทย7สี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 37  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/7Boxing26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/ThaiFightLeague26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/ThaiFightLeague26HD.jpg">
+<title>THAI FIGHT LEAGUE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 25  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiFightLeague26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/RWSRajadamnernWorldSeries26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/RWSRajadamnernWorldSeries26HD.jpg">
+<title>RWS RAJADAMNERN WORLD SERIES</title>
+<titlel>RWS ราชดำเนิน เวิลด์ ซีรีส์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 38  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RWSRajadamnernWorldSeries26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/ONELumpinee26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/ONELumpinee26HD.jpg">
+<title>ONE LUMPINEE</title>
+<titlel>วันลุมพินี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Sep-2026 with 33  Episode(s) PLAY:  FRI, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ONELumpinee26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/SukJaoMuoyThai26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/SukJaoMuoyThai26HD.jpg">
+<title>SUK JAO MUOY THAI</title>
+<titlel>ศึกจ้าวมวยไทย 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Sep-2026 with 37  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SukJaoMuoyThai26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/AVCWomensVolleyballContinentalChina2026.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/AVCWomensVolleyballContinentalChina2026HD.jpg">
+<title>AVC WOMENS VOLLEYBALL CONTINENTAL CHINA 2026</title>
+<titlel>วอลเลย์บอลหญิงชิงแชมป์เอเซีย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Aug-2026 with 26  Episode(s) PLAY: MON, FRI, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AVCWomensVolleyballContinentalChina2026.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/VolleyballBYDSeaVCup2026.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/VolleyballBYDSeaVCup2026HD.jpg">
+<title>VOLLEYBALL BYD SEA V CUP 2026</title>
+<titlel>วอลเล่บอล ซีวีคัพ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Aug-2026 with 12  Episode(s) PLAY: MON, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VolleyballBYDSeaVCup2026.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/VolleyballNationsLeague2026.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/VolleyballNationsLeague2026HD.jpg">
+<title>VOLLEYBALL NATIONS LEAGUE 2026</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Jul-2026 with 131  Episode(s) PLAY: MON, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VolleyballNationsLeague2026.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/ThaiFight26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/ThaiFight26HD.jpg">
+<title>THAI FIGHT</title>
+<titlel>ไทยไฟต์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-May-2026 with 5  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiFight26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/ONEFightNight3926.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/ONEFightNight3926HD.jpg">
+<title>ONE FIGHT NIGHT 39</title>
+<titlel>วันไฟไนท์39</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-Feb-2026 with 2  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ONEFightNight3926.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/7Boxing25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/7Boxing25HD.jpg">
+<title>7 BOXING 2025</title>
+<titlel>มวยไทย7สี</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 50  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/7Boxing25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/SportGuruWeekly25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/SportGuruWeekly25HD.jpg">
+<title>SPORT GURU WEEKLY 2025</title>
+<titlel>สปอร์ตกูรู วีคลีย์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 51  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SportGuruWeekly25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/RWSRajadamnernWorldSeries25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/RWSRajadamnernWorldSeries25HD.jpg">
+<title>RWS RAJADAMNERN WORLD SERIES 2025</title>
+<titlel>RWS ราชดำเนิน เวิลด์ ซีรีส์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 50  Episode(s) PLAY: MON, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RWSRajadamnernWorldSeries25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/SukJaoMuoyThai25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/SukJaoMuoyThai25HD.jpg">
+<title>SUK JAO MUOY THAI 2025</title>
+<titlel>ศึกจ้าวมวยไทย 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 50  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SukJaoMuoyThai25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/ThaiFight25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/ThaiFight25HD.jpg">
+<title>THAI FIGHT 2025</title>
+<titlel>ไทยไฟต์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Dec-2025 with 13  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiFight25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/ONELumpinee25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/ONELumpinee25HD.jpg">
+<title>ONE LUMPINEE 2025</title>
+<titlel>วันลุมพินี 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Dec-2025 with 43  Episode(s) PLAY:  FRI, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ONELumpinee25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/33rdSeaGames2025Volleyball.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/33rdSeaGames2025VolleyballHD.jpg">
+<title>33RD SEA GAMES 2025 VOLLEYBALL</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Dec-2025 with 6  Episode(s) PLAY:  WED, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/33rdSeaGames2025Volleyball.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/ThaiFightLeague25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/ThaiFightLeague25HD.jpg">
+<title>THAI FIGHT LEAGUE 2025</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-Dec-2025 with 35  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiFightLeague25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/FairtexFight25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/FairtexFight25HD.jpg">
+<title>FAIRTEX FIGHT</title>
+<titlel>มวยมันพันธุ์ EXTREME 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Dec-2025 with 33  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FairtexFight25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/LumpineeWorldChampionshipSuperChamp25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/LumpineeWorldChampionshipSuperChamp25HD.jpg">
+<title>LUMPINEE WORLD CHAMPIONSHIP SUPER CHAMP</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Nov-2025 with 31  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LumpineeWorldChampionshipSuperChamp25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/VolleyballWomenWorldChampionshipThailand25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/VolleyballWomenWorldChampionshipThailand25HD.jpg">
+<title>VOLLEYBALL WOMEN WORLD CHAMPIONSHIP THAILAND 2025</title>
+<titlel>วอลเล่บอลชิงแชมป์โลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Sep-2025 with 49  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/VolleyballWomenWorldChampionshipThailand25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/AllStarSuperMatch25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/AllStarSuperMatch25HD.jpg">
+<title>ALL STAR SUPER MATCH</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Apr-2025 with 2  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AllStarSuperMatch25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/MuaiManWanSuk25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/MuaiManWanSuk25HD.jpg">
+<title>MUAI MAN WAN SUK</title>
+<titlel>มวยมันวันศุกร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Mar-2025 with 11  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MuaiManWanSuk25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Boxing2025.jpg"
+ hdImg="https://i.malimarcdn.com/Boxing2025HD.jpg">
+<title>BOXING</title>
+<titlel>มวย</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Boxing2025.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MotorWorld2025.jpg"
+ hdImg="https://i.malimarcdn.com/MotorWorld2025HD.jpg">
+<title>MOTOR WORLD</title>
+<titlel>มอเตอร์เวิลด์</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MotorWorld2025.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Sports2023/OtherSports2025.jpg"
+ hdImg="https://i.malimarcdn.com/Sports2023/OtherSports2025HD.jpg">
+<title>OTHER SPORTS</title>
+<titlel>กีฬาอย่างอื่น</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OtherSports2025.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Sports2023/SMMVolleyball25.jpg"
+ hdImg="https://i.malimarcdn.com/Sports2023/SMMVolleyball25HD.jpg">
+<title>SMM VOLLEYBALL</title>
+<titlel>SMM วอลเล่ย์บอล</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SMMVolleyball25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Sports2023/SportsTalk2025.jpg"
+ hdImg="https://i.malimarcdn.com/Sports2023/SportsTalk2025HD.jpg">
+<title>SPORTS TALK</title>
+<titlel>กีฬาทอล์คโชว์</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SportsTalk2025.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Sports2023/Volleyball25.jpg"
+ hdImg="https://i.malimarcdn.com/Sports2023/Volleyball25HD.jpg">
+<title>VOLLEYBALL</title>
+<titlel>วอลเล่ย์บอล</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Volleyball25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Sports2023/WaterSports25.jpg"
+ hdImg="https://i.malimarcdn.com/Sports2023/WaterSports25HD.jpg">
+<title>WATER SPORTS</title>
+<titlel>กีฬาน้ำ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WaterSports25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

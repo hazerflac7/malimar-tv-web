@@ -1,0 +1,777 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>22</itemCount>
+<totalCount>22</totalCount>
+<item sdImg="https://i.malimarcdn.com/WatLuk29.jpg"
+ hdImg="https://i.malimarcdn.com/WatLuk29HD.jpg">
+<id>wat_luk_2910487</id>
+<title>WAT LUK 29</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>254</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatLuk29.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatPhoSai.jpg"
+ hdImg="https://i.malimarcdn.com/WatPhoSaiHD.jpg">
+<id>wat_pho_sai10488</id>
+<title>WAT PHO SAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>188</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatPhoSai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatPhunMun.jpg"
+ hdImg="https://i.malimarcdn.com/WatPhunMunHD.jpg">
+<id>wat_phun_mun10494</id>
+<title>WAT PHUN MUN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>269</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatPhunMun.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatSaPharnThongNuea.jpg"
+ hdImg="https://i.malimarcdn.com/WatSaPharnThongNueaHD.jpg">
+<id>wat_sa_pharn_thong_nuea10496</id>
+<title>WAT SA PHARN THONG NUEA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>245</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatSaPharnThongNuea.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatSaPharnThongTai.jpg"
+ hdImg="https://i.malimarcdn.com/WatSaPharnThongTaiHD.jpg">
+<id>wat_sa_pharn_thong_tai10497</id>
+<title>WAT SA PHARN THONG TAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>277</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatSaPharnThongTai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatSouVunKheRe.jpg"
+ hdImg="https://i.malimarcdn.com/WatSouVunKheReHD.jpg">
+<id>wat_sou_vun_khe_re10498</id>
+<title>WAT SOU VUN KHE RE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>269</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatSouVunKheRe.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatSungSinSai.jpg"
+ hdImg="https://i.malimarcdn.com/WatSungSinSaiHD.jpg">
+<id>wat_sung_sin_sai10499</id>
+<title>WAT SUNG SIN SAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>168</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatSungSinSai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatThongKang.jpg"
+ hdImg="https://i.malimarcdn.com/WatThongKangHD.jpg">
+<id>wat_thong_kang10500</id>
+<title>WAT THONG KANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>260</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatThongKang.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatTumKhokMar.jpg"
+ hdImg="https://i.malimarcdn.com/WatTumKhokMarHD.jpg">
+<id>wat_tum_khok_mar10501</id>
+<title>WAT TUM KHOK MAR</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>184</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatTumKhokMar.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatTumPha.jpg"
+ hdImg="https://i.malimarcdn.com/WatTumPhaHD.jpg">
+<id>wat_tum_pha10502</id>
+<title>WAT TUM PHA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>160</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatTumPha.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatTumPhaLueSee.jpg"
+ hdImg="https://i.malimarcdn.com/WatTumPhaLueSeeHD.jpg">
+<id>wat_tum_pha_lue_see10503</id>
+<title>WAT TUM PHA LUE SEE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>160</length>
+<PlayerBG></PlayerBG>
+<releaseDate>20-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatTumPhaLueSee.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JumPa.jpg"
+ hdImg="https://i.malimarcdn.com/JumPaHD.jpg">
+<id>jum_pa10478</id>
+<title>JUM PA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>242</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/JumPa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LaoItecc.jpg"
+ hdImg="https://i.malimarcdn.com/LaoIteccHD.jpg">
+<id>laoi_tecc10479</id>
+<title>LAOI TECC</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>252</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/LaoItecc.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MalimarHomeUsa.jpg"
+ hdImg="https://i.malimarcdn.com/MalimarHomeUsaHD.jpg">
+<id>malimar_home_usa10480</id>
+<title>MALIMAR HOME USA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>351</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/MalimarHomeUsa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MalimarOffice.jpg"
+ hdImg="https://i.malimarcdn.com/MalimarOfficeHD.jpg">
+<id>malimar_office10482</id>
+<title>MALIMAR OFFICE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>252</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/MalimarOffice.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhuekSa.jpg"
+ hdImg="https://i.malimarcdn.com/PhuekSaHD.jpg">
+<id>phuek_sa10481</id>
+<title>PHUEK SA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>254</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/PhuekSa.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaiyBua.jpg"
+ hdImg="https://i.malimarcdn.com/SaiyBuaHD.jpg">
+<id>saiy_bua10483</id>
+<title>SAIY BUA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>195</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/SaiyBua.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TardPaLai.jpg"
+ hdImg="https://i.malimarcdn.com/TardPaLaiHD.jpg">
+<id>tard_pa_lai10484</id>
+<title>TARD PA LAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>263</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/TardPaLai.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatLaoBuddhaRam.jpg"
+ hdImg="https://i.malimarcdn.com/WatLaoBuddhaRamHD.jpg">
+<id>wa_tlao_buddha_ram10485</id>
+<title>WA TLAO BUDDHA RAM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>222</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatLaoBuddhaRam.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatJomThong.jpg"
+ hdImg="https://i.malimarcdn.com/WatJomThongHD.jpg">
+<id>wat_jom_thong10473</id>
+<title>WAT JOM THONG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>209</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatJomThong.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WatKheMaLaLutTaNaRarm.jpg"
+ hdImg="https://i.malimarcdn.com/WatKheMaLaLutTaNaRarmHD.jpg">
+<id>wat_khe_ma_la_lut_ta_na_rarm10486</id>
+<title>WAT KHE MA LA LUT TA NA RARM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>245</length>
+<PlayerBG></PlayerBG>
+<releaseDate>19-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/WatKheMaLaLutTaNaRarm.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BarnPhonSeNuan.jpg"
+ hdImg="https://i.malimarcdn.com/BarnPhonSeNuanHD.jpg">
+<id>barn_phon_se_nuan10465</id>
+<title>BARN PHON SE NUAN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>414</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Aug-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/OML/Drone/BarnPhonSeNuan.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>7</itemCount>
+<totalCount>7</totalCount>
+<item>
+<title>MUSIC</title>
+<titlel>เพลง</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Music_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>CONCERTS</title>
+<titlel>คอนเสิร์ต</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Concerts_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>LAO MUSIC</title>
+<titlel>ເພງລາວ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Lao_Music_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>HMONGTV | MUSIC</title>
+<titlel></titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HmongTV_Music_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>KHMER MUSIC BOPHA</title>
+<titlel>តន្រ្តីខ្មែរបុប្ផារ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Music_Bopha_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>KHMER CHLANGDEN</title>
+<titlel>តន្រ្តីខ្មែរឆ្លងដែន</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Chlangden_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>KHMER MUSIC SR</title>
+<titlel>ខ្មែរតន្រ្តី</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Khmer_Music_SR_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+</feed>

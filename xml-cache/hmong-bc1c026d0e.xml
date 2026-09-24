@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>6</itemCount>
+<totalCount>6</totalCount>
+<item>
+<title>HMONGTV LIVE</title>
+<titlel>ມົ້ງທີວີ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HmongTV_Live_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>HMONGTV | DRAMA</title>
+<titlel>ລະຄອນພາກພາສາມົ້ງ</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HmongTV_Drama_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>HMONGTV | MOVIE</title>
+<titlel></titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HmongTV_Movie_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>HMONGTV | MUSIC</title>
+<titlel></titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HmongTV_Music_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>HMONGTV | DOCUMENTARY</title>
+<titlel>HMOOG</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HmongTV_Documentary_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+<item>
+<title>HMONGTV | MISCELLANEOUS</title>
+<titlel></titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HmongTV_Miscellaneous_CF.xml</feed>
+<MSUB>FR</MSUB>
+</item>
+</feed>

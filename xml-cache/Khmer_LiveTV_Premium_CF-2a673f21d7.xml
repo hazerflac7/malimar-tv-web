@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>15</itemCount>
+<totalCount>15</totalCount>
+<item sdImg="https://i.malimarcdn.com/kh/2023/APSARATV.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/APSARATVHD.jpg">
+<id>apsara_tv_khmer</id>
+<title>APSARA TV KHMER</title>
+<titlel>ទូរទស្សន៏អប្សរា ខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/apsara.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/ARDBTV.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/ARDBTVHD.jpg">
+<id>ardb_tv_khmer</id>
+<title>ARDB TV KHMER</title>
+<titlel>ទូរទស្សន៍ប៉ុស្តិ អេអឌីបី ខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/ardbtv.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/CTN.jpg"
+ hdImg="https://i.malimarcdn.com/kh/CTNHD.jpg">
+<id>ctn_khmer</id>
+<title>CTN KHMER</title>
+<titlel>ទូរទស្សន៍ប៉ុស្តិ៏ស៊ីធីអិន ខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/ctn.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/premium-khmerbayon.jpg"
+ hdImg="https://i.malimarcdn.com/kh/premium-khmerbayonHD.jpg">
+<id>bayon_hd_khmer</id>
+<title>BAYON HD KHMER</title>
+<titlel>ទូរទស្សន៏បាយ័ន ខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>HD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>HD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/hdliveedge00/bayonhd.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/CTV8.jpg"
+ hdImg="https://i.malimarcdn.com/kh/CTV8HD.jpg">
+<id>ctv8_khmer</id>
+<title>CTV8 KHMER</title>
+<titlel>ទូរទស្សន៍ប៉ុស្តិ៏លេខ ៨</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/ctv8.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/tvk.jpg"
+ hdImg="https://i.malimarcdn.com/kh/tvkHD.jpg">
+<id>tvk_hd_khmer</id>
+<title>TVK HD KHMER</title>
+<titlel>ទូរទស្សន៏ជាតិកម្ពុជា</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>HD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>HD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/hdliveedge00/tvkhd.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/TVK2.jpg"
+ hdImg="https://i.malimarcdn.com/kh/TVK2HD.jpg">
+<id>tvk2_hd_khmer</id>
+<title>TVK2 HD KHMER</title>
+<titlel>ទូរទស្សន៏ជាតិកម្ពុជា២</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>HD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>HD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/tvk2.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/SeaTVNews.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/SeaTVNewsHD.jpg">
+<id>sea_tv_news</id>
+<title>SEA TV NEWS</title>
+<titlel>ទូរទស្សន៍ អាស៊ីអាគ្នេយ៍</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/seatv.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/TV5.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/TV5HD.jpg">
+<id>tv_5_hd_khmer</id>
+<title>TV 5 HD KHMER</title>
+<titlel>ទូរទស្សន៍ប៉ុស្តិ៏លេខ ៥</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/tv5.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/towntvkhmer.jpg"
+ hdImg="https://i.malimarcdn.com/towntvkhmerHD.jpg">
+<id>town_tv_hd_khmer</id>
+<title>TOWN TV HD KHMER</title>
+<titlel>ប៉ុស្តិ ថោន HD ខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/towntv.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2023/TV9HDTV.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2023/TV9HDTVHD.jpg">
+<id>tv9_hd_khmer</id>
+<title>TV9 HD KHMER</title>
+<titlel>ទូរទស្សន៍ប៉ុស្តិ៏លេខ ៩</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/tv9.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/btv.jpg"
+ hdImg="https://i.malimarcdn.com/kh/btvHD.jpg">
+<id>btv_news_khmer</id>
+<title>BTV NEWS KHMER</title>
+<titlel>ទូរទស្សន៏បាយ័នពត៏មាន ខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/btv.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/FreshNews.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/FreshNewsHD.jpg">
+<id>fresh_news_hd_khmer</id>
+<title>FRESH NEWS HD KHMER</title>
+<titlel>ទូរទស្សន៏ព័ត៌មានថ្មីៗ</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>HD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>HD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/hdliveedge00/freshnewshd.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2026/MoiTV26.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2026/MoiTV26HD.jpg">
+<id>moi_tv_khmer</id>
+<title>MOI TV KHMER</title>
+<titlel>ទូរទស្សន៍មហាផ្ទៃ</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>7200</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Live Khmer Channel</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://live.us.malimarcdn.net/khliveedge00/moitv.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/kh/2024/khmertvchannel.jpg"
+ hdImg="https://i.malimarcdn.com/kh/2024/khmertvchannelHD.jpg">
+<id>khmer_tv</id>
+<title>KHMER TV</title>
+<titlel>ទូរទស្សន៍ខ្មែរ</titlel>
+<Mweb>Y</Mweb>
+<idleTimeout>0</idleTimeout>
+<PlayerBG></PlayerBG>
+<releaseDate></releaseDate>
+<rating>Live</rating>
+<from>https://i.malimarcdn.com/channelicon/livetvicon.png</from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis>Khmer TV Inc Los Angeles California USA Broadcasting 24 hours on channel 6 3 Watch on khmertvcom</synopsis>
+<genres>
+<genre>Live</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>True</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

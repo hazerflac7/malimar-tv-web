@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>4</itemCount>
+<totalCount>4</totalCount>
+<item sdImg="https://i.malimarcdn.com/khmer.jpg"
+ hdImg="https://i.malimarcdn.com/khmerHD.jpg">
+<title>KHMER LIVE AND ON DEMAND</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Khmer TV, Drama, Movies, and Music</description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/khmer.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/thai.jpg"
+ hdImg="https://i.malimarcdn.com/thaiHD.jpg">
+<title>THAI LIVE AND ON DEMAND</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Thai TV, Drama, Movies, and Music</description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/thai.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/lao.jpg"
+ hdImg="https://i.malimarcdn.com/laoHD.jpg">
+<title>LAO LIVE AND ON DEMAND</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Lao TV, Drama, Movies, and Music</description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/lao.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hmong.jpg"
+ hdImg="https://i.malimarcdn.com/hmongHD.jpg">
+<title>HMONG LIVE AND ON DEMAND</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Hmong TV, Drama, Movies, and Music</description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/hmong.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

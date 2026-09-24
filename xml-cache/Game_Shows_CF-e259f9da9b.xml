@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>8</itemCount>
+<totalCount>8</totalCount>
+<item sdImg="https://i.malimarcdn.com/Variety25/GameShow25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/GameShow25HD.jpg">
+<title>GAME SHOW 2025</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/GameShow25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/gameshow2024.jpg"
+ hdImg="https://i.malimarcdn.com/gameshow2024HD.jpg">
+<title>GAME SHOW 2024</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/gameshow2024.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/gameshow23.jpg"
+ hdImg="https://i.malimarcdn.com/gameshow23HD.jpg">
+<title>GAME SHOW 2023</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/gameshow23.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/gameshow22.jpg"
+ hdImg="https://i.malimarcdn.com/gameshow22HD.jpg">
+<title>GAME SHOW 2022</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/gameshow22.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/gameshow21.jpg"
+ hdImg="https://i.malimarcdn.com/gameshow21HD.jpg">
+<title>GAME SHOW 2021</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/gameshow21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/gameshow20.jpg"
+ hdImg="https://i.malimarcdn.com/gameshow20HD.jpg">
+<title>GAME SHOW 2020</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/gameshow20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/gameshow19.jpg"
+ hdImg="https://i.malimarcdn.com/gameshow19HD.jpg">
+<title>GAME SHOW 2019</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/gameshow19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/gameshow18.jpg"
+ hdImg="https://i.malimarcdn.com/gameshow18HD.jpg">
+<title>GAME SHOW 2018</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/gameshow18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+</feed>

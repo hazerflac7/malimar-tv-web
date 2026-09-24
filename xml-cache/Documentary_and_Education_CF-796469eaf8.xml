@@ -1,0 +1,1197 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>89</itemCount>
+<totalCount>89</totalCount>
+<item sdImg="https://i.malimarcdn.com/Variety26/ThongLokKwang26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/ThongLokKwang26HD.jpg">
+<title>THONG LOK KWANG</title>
+<titlel>ท่องโลกกว้าง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Sep-2026 with 111  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThongLokKwang26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/LokLakMiti2026.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/LokLakMiti2026HD.jpg">
+<title>LOK LAK MITI</title>
+<titlel>โลกหลากมิติ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Aug-2026 with 3  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LokLakMiti2026.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/EnglishOnTour25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/EnglishOnTour25HD.jpg">
+<title>ENGLISH ON TOUR 2025</title>
+<titlel>อิงลิชออนทัวร์ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 254  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishOnTour25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/LokLakMiti2025.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/LokLakMiti2025HD.jpg">
+<title>LOK LAK MITI 2025</title>
+<titlel>โลกหลากมิติ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 89  Episode(s) PLAY: MON, TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LokLakMiti2025.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/ThongLokKwang25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/ThongLokKwang25HD.jpg">
+<title>THONG LOK KWANG 2025</title>
+<titlel>ท่องโลกกว้าง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2025 with 114  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThongLokKwang25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DocumentaryandEducationByYear.jpg"
+ hdImg="https://i.malimarcdn.com/DocumentaryandEducationByYearHD.jpg">
+<title>DOCUMENTARY AND EDUCATION BY YEAR</title>
+<titlel>สารคดีและการ</titlel>
+<Mweb>Y</Mweb>
+<description></description>
+<feed type="grid">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DocumentaryandEducationByYear.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>None</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/TheWonderfulAnimals25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/TheWonderfulAnimals25HD.jpg">
+<title>THE WONDERFUL ANIMALS</title>
+<titlel>ชีวิตสัตว์มหัศจรรย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Nov-2025 with 3  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheWonderfulAnimals25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/ManMade25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/ManMade25HD.jpg">
+<title>MAN MADE 2025</title>
+<titlel>มนุษย์นักสร้าง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-May-2025 with 17  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ManMade25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/Navigator25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/Navigator25HD.jpg">
+<title>NAVIGATOR</title>
+<titlel>เนวิเกเตอร์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 7-Apr-2025 with 13  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Navigator25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/KhoKhonKhanThep25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/KhoKhonKhanThep25HD.jpg">
+<title>KHO KHON KHAN THEP</title>
+<titlel>ฅ.คน ขั้นเทพ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Jan-2025 with 3  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhoKhonKhanThep25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishOnTour21.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishOnTour21HD.jpg">
+<title>ENGLISH ON TOUR 2021</title>
+<titlel>อิงลิชออนทัวร์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2021 with 256  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishOnTour21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThongLokKwang21.jpg"
+ hdImg="https://i.malimarcdn.com/ThongLokKwang21HD.jpg">
+<title>THONG LOK KWANG 2021</title>
+<titlel>ท่องโลกกว้าง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2021 with 138  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThongLokKwang21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhoKhonKhanThep21.jpg"
+ hdImg="https://i.malimarcdn.com/KhoKhonKhanThep21HD.jpg">
+<title>KHO KHON KHAN THEP 2021</title>
+<titlel>ฅ.คน ขั้นเทพ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2021 with 158  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhoKhonKhanThep21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LokLakMiti21.jpg"
+ hdImg="https://i.malimarcdn.com/LokLakMiti21HD.jpg">
+<title>LOK LAK MITI 2021</title>
+<titlel>โลกหลากมิติ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2021 with 138  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LokLakMiti21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SchoolTownKing.jpg"
+ hdImg="https://i.malimarcdn.com/SchoolTownKingHD.jpg">
+<id>school_town_king19081</id>
+<title>SCHOOL TOWN KING</title>
+<titlel>แร็ปทะลุฝ้า ราชาไม่หยุดฝัน</titlel>
+<Mweb>N</Mweb>
+<length>7406</length>
+<PlayerBG></PlayerBG>
+<releaseDate>1-Dec-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/SchoolTownKing.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThongthiaoSutKhopFa21.jpg"
+ hdImg="https://i.malimarcdn.com/ThongthiaoSutKhopFa21HD.jpg">
+<title>THONGTHIAO SUT KHOP FA</title>
+<titlel>ท่องเที่ยวสุดขอบฟ้า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Sep-2021 with 12  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThongthiaoSutKhopFa21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ComeAndSee.jpg"
+ hdImg="https://i.malimarcdn.com/ComeAndSeeHD.jpg">
+<id>come_and_see18606</id>
+<title>COME AND SEE</title>
+<titlel>เอหิปัสสิโก</titlel>
+<Mweb>N</Mweb>
+<length>5034</length>
+<PlayerBG></PlayerBG>
+<releaseDate>18-Aug-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/ComeAndSee.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Localist21.jpg"
+ hdImg="https://i.malimarcdn.com/Localist21HD.jpg">
+<title>LOCALIST</title>
+<titlel>ชีวิตนอกกรุง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Jul-2021 with 6  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Localist21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Planetdemic21.jpg"
+ hdImg="https://i.malimarcdn.com/Planetdemic21HD.jpg">
+<title>PLANETDEMIC</title>
+<titlel>โรคซ่อนโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Jun-2021 with 3  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Planetdemic21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheSenses21.jpg"
+ hdImg="https://i.malimarcdn.com/TheSenses21HD.jpg">
+<title>THE SENSES</title>
+<titlel>ประเทศไทยในสัมผัส</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-May-2021 with 5  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheSenses21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/XpeditionChina21.jpg"
+ hdImg="https://i.malimarcdn.com/XpeditionChina21HD.jpg">
+<title>XPEDITION CHINA</title>
+<titlel>เปิดโลกมหัศจรรย์แดนมังกร</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-May-2021 with 13  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/XpeditionChina21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Dharamsala.jpg"
+ hdImg="https://i.malimarcdn.com/DharamsalaHD.jpg">
+<id>dharamsala18146</id>
+<title>DHARAMSALA</title>
+<titlel>ดารัมซาล่า</titlel>
+<Mweb>N</Mweb>
+<length>6219</length>
+<PlayerBG></PlayerBG>
+<releaseDate>27-May-2021</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie21/Dharamsala.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/La21.jpg"
+ hdImg="https://i.malimarcdn.com/La21HD.jpg">
+<title>LA</title>
+<titlel>ล่า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Apr-2021 with 17  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/La21.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishOnTour20.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishOnTour20HD.jpg">
+<title>ENGLISH ON TOUR 2020</title>
+<titlel>อิงลิชออนทัวร์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2020 with 262  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishOnTour20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhoKhonKhanThep20.jpg"
+ hdImg="https://i.malimarcdn.com/KhoKhonKhanThep20HD.jpg">
+<title>KHO KHON KHAN THEP 2020</title>
+<titlel>ฅ.คน ขั้นเทพ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 31-Dec-2020 with 200  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhoKhonKhanThep20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LokLakMiti20.jpg"
+ hdImg="https://i.malimarcdn.com/LokLakMiti20HD.jpg">
+<title>LOK LAK MITI 2020</title>
+<titlel>โลกหลากมิติ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2020 with 163  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LokLakMiti20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThongLokKwang20.jpg"
+ hdImg="https://i.malimarcdn.com/ThongLokKwang20HD.jpg">
+<title>THONG LOK KWANG 2020</title>
+<titlel>ท่องโลกกว้าง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Dec-2020 with 184  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThongLokKwang20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/La20.jpg"
+ hdImg="https://i.malimarcdn.com/La20HD.jpg">
+<title>LA 2020</title>
+<titlel>ล่า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Dec-2020 with 49  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/La20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PhueanNuYuPa20.jpg"
+ hdImg="https://i.malimarcdn.com/PhueanNuYuPa20HD.jpg">
+<title>PHUEAN NU YU PA</title>
+<titlel>เพื่อนหนูอยู่ป่า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Sep-2020 with 13  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PhueanNuYuPa20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HopeFrozen.jpg"
+ hdImg="https://i.malimarcdn.com/HopeFrozenHD.jpg">
+<id>hope_frozen16502</id>
+<title>HOPE FROZEN</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>4778</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Sep-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/HopeFrozen.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Aquarium20.jpg"
+ hdImg="https://i.malimarcdn.com/Aquarium20HD.jpg">
+<title>AQUARIUM</title>
+<titlel>โลกใต้น้ำ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Jul-2020 with 5  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Aquarium20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BNK48OneTake.jpg"
+ hdImg="https://i.malimarcdn.com/BNK48OneTakeHD.jpg">
+<id>bnk_48_one_take16116</id>
+<title>BNK 48 ONE TAKE</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>5131</length>
+<PlayerBG></PlayerBG>
+<releaseDate>25-Jun-2020</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie20/BNK48OneTake.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/NathiRathuek20.jpg"
+ hdImg="https://i.malimarcdn.com/NathiRathuek20HD.jpg">
+<title>NATHI RATHUEK</title>
+<titlel>นาทีระทึก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Apr-2020 with 23  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NathiRathuek20.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HuachaiNaksu.jpg"
+ hdImg="https://i.malimarcdn.com/HuachaiNaksuHD.jpg">
+<title>HUACHAI NAKSU</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Mar-2020 with 84  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HuachaiNaksu.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KhonBandanFai.jpg"
+ hdImg="https://i.malimarcdn.com/KhonBandanFaiHD.jpg">
+<title>KHON BANDAN FAI</title>
+<titlel>คนบันดาลไฟ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Mar-2020 with 21  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhonBandanFai.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Localist.jpg"
+ hdImg="https://i.malimarcdn.com/LocalistHD.jpg">
+<title>LOCALIST 2020</title>
+<titlel>ชีวิตนอกกรุง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Mar-2020 with 34  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Localist.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WonderfulAnimals19.jpg"
+ hdImg="https://i.malimarcdn.com/WonderfulAnimals19HD.jpg">
+<title>WONDERFUL ANIMALS</title>
+<titlel>ชีวิตสัตว์ มหัศจรรย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Mar-2020 with 94  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WonderfulAnimals19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KoreaHunter.jpg"
+ hdImg="https://i.malimarcdn.com/KoreaHunterHD.jpg">
+<title>KOREA HUNTER</title>
+<titlel>ความลับแห่งเอเชีย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 24-Feb-2020 with 73  Episode(s) PLAY: MON, TUE, WED, THU, FRI, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KoreaHunter.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/XijiangRiver.jpg"
+ hdImg="https://i.malimarcdn.com/XijiangRiverHD.jpg">
+<title>XIJIANG RIVER</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 3-Feb-2020 with 16  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/XijiangRiver.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/UncommonSchool.jpg"
+ hdImg="https://i.malimarcdn.com/UncommonSchoolHD.jpg">
+<title>UNCOMMON SCHOOL</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Jan-2020 with 12  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/UncommonSchool.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishOnTour19.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishOnTour19HD.jpg">
+<title>ENGLISH ON TOUR 2019</title>
+<titlel>อิงลิชออนทัวร์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jan-2020 with 256  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishOnTour19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BluePlanet2.jpg"
+ hdImg="https://i.malimarcdn.com/BluePlanet2HD.jpg">
+<title>BLUE PLANET 2</title>
+<titlel>โลกสีฟ้า</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Dec-2019 with 7  Episode(s) PLAY: MON, TUE, WED, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BluePlanet2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThailandsUrbanWild.jpg"
+ hdImg="https://i.malimarcdn.com/ThailandsUrbanWildHD.jpg">
+<title>THAILANDS URBAN WILD</title>
+<titlel>สัตว์ป่วนเมือง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Nov-2019 with 13  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThailandsUrbanWild.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiArt.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiArtHD.jpg">
+<title>THAI ART</title>
+<titlel>ไทยศิลป์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Sep-2019 with 12  Episode(s) PLAY: MON, TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThaiArt.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ThaiCaveRescue.jpg"
+ hdImg="https://i.malimarcdn.com/ThaiCaveRescueHD.jpg">
+<id>thai_cave_rescue14362</id>
+<title>THAI CAVE RESCUE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>2513</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Jul-2019</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Documentary/ThaiCaveRescue/ThaiCaveRescue.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FromRussiaToIranCrossingTheWildFrointer19.jpg"
+ hdImg="https://i.malimarcdn.com/FromRussiaToIranCrossingTheWildFrointer19HD.jpg">
+<title>FROM RUSSIA TO IRAN CROSSING THE WILD FROINTER</title>
+<titlel>ทึ่งทั่วโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 13-Jul-2019 with 6  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FromRussiaToIranCrossingTheWildFrointer19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WalkingTheAmerica19.jpg"
+ hdImg="https://i.malimarcdn.com/WalkingTheAmerica19HD.jpg">
+<title>WALKING THE AMERICA</title>
+<titlel>ทึ่งทั่วโลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Jun-2019 with 6  Episode(s) PLAY:  SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WalkingTheAmerica19.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/RueangLaoRattanakosin.jpg"
+ hdImg="https://i.malimarcdn.com/RueangLaoRattanakosinHD.jpg">
+<title>RUEANG LAO RATTANAKOSIN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Mar-2019 with 8  Episode(s) PLAY:  WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RueangLaoRattanakosin.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WonderfulAnimals.jpg"
+ hdImg="https://i.malimarcdn.com/WonderfulAnimalsHD.jpg">
+<title>WONDERFUL ANIMALS 2018</title>
+<titlel>ชีวิตสัตว์ มหัศจรรย์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Mar-2019 with 300  Episode(s) PLAY: MON, TUE, WED, THU, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WonderfulAnimals.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/GirlsDontCry.jpg"
+ hdImg="https://i.malimarcdn.com/GirlsDontCryHD.jpg">
+<id>bnk_48_girls_dont_cry13947</id>
+<title>BNK 48 GIRLS DONT CRY</title>
+<titlel></titlel>
+<Mweb>N</Mweb>
+<length>6465</length>
+<PlayerBG></PlayerBG>
+<releaseDate>17-Mar-2019</releaseDate>
+<rating>TV-14</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Movie</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie19/BN48GirlsDonCry.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SecretsOfTheUniverse.jpg"
+ hdImg="https://i.malimarcdn.com/SecretsOfTheUniverseHD.jpg">
+<title>SECRETS OF THE UNIVERSE</title>
+<titlel>ความลับแห่งจักรวาล</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 4-Mar-2019 with 13  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SecretsOfTheUniverse.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ShaolinKungFu.jpg"
+ hdImg="https://i.malimarcdn.com/ShaolinKungFuHD.jpg">
+<title>SHAOLIN KUNG FU</title>
+<titlel>กังฟูเส้าหลิน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Feb-2019 with 10  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ShaolinKungFu.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SaneSatLok.jpg"
+ hdImg="https://i.malimarcdn.com/SaneSatLokHD.jpg">
+<title>SANE SAT LOK</title>
+<titlel>เสน่ห์สัตว์โลก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Jan-2019 with 180  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SaneSatLok.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishOnTour18.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishOnTour18HD.jpg">
+<title>ENGLISH ON TOUR 2018</title>
+<titlel>อิงลิชออนทัวร์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2018 with 252  Episode(s) PLAY: MON, TUE, WED, THU, FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishOnTour18.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChiwitLapTaiThale.jpg"
+ hdImg="https://i.malimarcdn.com/ChiwitLapTaiThaleHD.jpg">
+<title>CHIWIT LAP TAI THALE</title>
+<titlel>ชีวิตลับใต้ทะเล</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2018 with 17  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChiwitLapTaiThale.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MegaStructures.jpg"
+ hdImg="https://i.malimarcdn.com/MegaStructuresHD.jpg">
+<title>MEGA STRUCTURES</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Dec-2018 with 21  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MegaStructures.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MegaFactories.jpg"
+ hdImg="https://i.malimarcdn.com/MegaFactoriesHD.jpg">
+<title>MEGA FACTORIES</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 11-Dec-2018 with 45  Episode(s) PLAY: MON, TUE, WED, THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MegaFactories.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FoodFanaticThailand.jpg"
+ hdImg="https://i.malimarcdn.com/FoodFanaticThailandHD.jpg">
+<title>FOOD FANATIC THAILAND</title>
+<titlel>ทัวร์ตัวแตก</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 15-Nov-2018 with 15  Episode(s) PLAY:  TUE, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FoodFanaticThailand.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SanSinPhaendinSayam.jpg"
+ hdImg="https://i.malimarcdn.com/SanSinPhaendinSayamHD.jpg">
+<title>SAN SIN PHAENDIN SAYAM</title>
+<titlel>สานศิลป์ แผ่นดินสยาม</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-Nov-2018 with 6  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SanSinPhaendinSayam.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BuffaloGirls.jpg"
+ hdImg="https://i.malimarcdn.com/BuffaloGirlsHD.jpg">
+<id>buffalo_girls11959</id>
+<title>BUFFALO GIRLS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3844</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Nov-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/BuffaloGirls.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EarthOneAmazingDay.jpg"
+ hdImg="https://i.malimarcdn.com/EarthOneAmazingDayHD.jpg">
+<id>earth_one_amazing_day12223</id>
+<title>EARTH ONE AMAZING DAY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5415</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Nov-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/EarthOneAmazingDay.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HumanFlow.jpg"
+ hdImg="https://i.malimarcdn.com/HumanFlowHD.jpg">
+<id>human_flow11962</id>
+<title>HUMAN FLOW</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>8085</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Nov-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/HumanFlow.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PrisonFighters.jpg"
+ hdImg="https://i.malimarcdn.com/PrisonFightersHD.jpg">
+<id>prison_fighters12111</id>
+<title>PRISON FIGHTERS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>5195</length>
+<PlayerBG></PlayerBG>
+<releaseDate>12-Nov-2018</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie18/PrisonFighters.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/FoodVenture.jpg"
+ hdImg="https://i.malimarcdn.com/FoodVentureHD.jpg">
+<title>FOOD VENTURE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 8-Nov-2018 with 20  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FoodVenture.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PinkInTheBlue.jpg"
+ hdImg="https://i.malimarcdn.com/PinkInTheBlueHD.jpg">
+<title>PINK IN THE BLUE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 1-Nov-2018 with 13  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PinkInTheBlue.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ItchyFeet17.jpg"
+ hdImg="https://i.malimarcdn.com/ItchyFeet17HD.jpg">
+<title>ITCHY FEET</title>
+<titlel>ภาษาอังกฤษติดเที่ยว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 12-Feb-2017 with 7  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ItchyFeet17.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/JiroDreamsOfSushi2011.jpg"
+ hdImg="https://i.malimarcdn.com/JiroDreamsOfSushi2011HD.jpg">
+<id>jiro_dreams_of_sushi9769</id>
+<title>JIRO DREAMS OF SUSHI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>4948</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Jan-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Drama</genre>
+<genre>Drama</genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Movie/JiroDreamsOfSushi2011.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/PLAZA.jpg"
+ hdImg="https://i.malimarcdn.com/PLAZAHD.jpg">
+<title>PLAZA</title>
+<titlel>ภาษา</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Dec-2015 with 65  Episode(s) PLAY:  TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PLAZA.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/TheBreakdown.jpg"
+ hdImg="https://i.malimarcdn.com/TheBreakdownHD.jpg">
+<title>THE BREAKDOWN</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Dec-2015 with 58  Episode(s) PLAY:  TUE, WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TheBreakdown.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishTidloo.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishTidlooHD.jpg">
+<title>ENGLISH TID LOO</title>
+<titlel>ภาษาอังกฤษติดล้อ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Aug-2015 with 27  Episode(s) PLAY:  WED, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishTidloo.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OneMinuteEnglish.jpg"
+ hdImg="https://i.malimarcdn.com/OneMinuteEnglishHD.jpg">
+<title>ONE MINUTE ENGLISH</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Jun-2015 with 28  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OneMinuteEnglish.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Pasapaplern.jpg"
+ hdImg="https://i.malimarcdn.com/PasapaplernHD.jpg">
+<title>PASA PAPLERN</title>
+<titlel>ภาษาพาเพลิน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Jun-2015 with 18  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Pasapaplern.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChineseDishes2014.jpg"
+ hdImg="https://i.malimarcdn.com/ChineseDishes2014HD.jpg">
+<title>CHINESE DISHES 2014</title>
+<titlel>โต๊ะจีน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Jun-2015 with 124  Episode(s) PLAY: MON, TUE, WED, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChineseDishes2014.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishDelivery.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishDeliveryHD.jpg">
+<title>ENGLISH DELIVERY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 25-Feb-2015 with 8  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishDelivery.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishOnWheels.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishOnWheelsHD.jpg">
+<title>ENGLISH ON WHEELS 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2014 with 39  Episode(s) PLAY: MON, WED, THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishOnWheels.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishTidloo14.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishTidloo14HD.jpg">
+<title>ENGLISH TID LOO 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Dec-2014 with 41  Episode(s) PLAY: MON  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishTidloo14.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChrisDelivery.jpg"
+ hdImg="https://i.malimarcdn.com/ChrisDeliveryHD.jpg">
+<title>CHRIS DELIVERY</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2014 with 26  Episode(s) PLAY:  FRI, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChrisDelivery.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ClickEverything.jpg"
+ hdImg="https://i.malimarcdn.com/ClickEverythingHD.jpg">
+<title>CLICK EVERYTHING</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Apr-2014 with 42  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ClickEverything.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DEnglishlevel2.jpg"
+ hdImg="https://i.malimarcdn.com/DEnglishlevel2HD.jpg">
+<title>D ENGLISH LEVEL 2</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Apr-2014 with 11  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DEnglishlevel2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishBreakfast2013.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishBreakfast2013HD.jpg">
+<title>ENGLISH BREAKFAST 2013</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Apr-2014 with 38  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishBreakfast2013.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/EnglishBreakfast2014.jpg"
+ hdImg="https://i.malimarcdn.com/EnglishBreakfast2014HD.jpg">
+<title>ENGLISH BREAKFAST 2014</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Apr-2014 with 14  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EnglishBreakfast2014.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/KoreanLang.jpg"
+ hdImg="https://i.malimarcdn.com/KoreanLangHD.jpg">
+<title>KOREAN LANGUAGE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Apr-2014 with 8  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KoreanLang.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SayItRight.jpg"
+ hdImg="https://i.malimarcdn.com/SayItRightHD.jpg">
+<title>SAY IT RIGHT</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Apr-2014 with 1  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SayItRight.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/SpeakingThai.jpg"
+ hdImg="https://i.malimarcdn.com/SpeakingThaiHD.jpg">
+<title>SPEAKING THAI</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Apr-2014 with 10  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SpeakingThai.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/WinkWinkEnglish.jpg"
+ hdImg="https://i.malimarcdn.com/WinkWinkEnglishHD.jpg">
+<title>WINK WINK ENGLISH</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 17-Apr-2014 with 122  Episode(s) PLAY:  THU  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WinkWinkEnglish.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/BasicJapanese.jpg"
+ hdImg="https://i.malimarcdn.com/BasicJapaneseHD.jpg">
+<title>BASIC JAPANESE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Apr-2014 with 10  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BasicJapanese.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ChineseDishes2013.jpg"
+ hdImg="https://i.malimarcdn.com/ChineseDishes2013HD.jpg">
+<title>CHINESE DISHES 2013</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Apr-2014 with 4  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChineseDishes2013.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DEnglishlevel1.jpg"
+ hdImg="https://i.malimarcdn.com/DEnglishlevel1HD.jpg">
+<title>D ENGLISH LEVEL 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Apr-2014 with 19  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DEnglishlevel1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/learningchinese.jpg"
+ hdImg="https://i.malimarcdn.com/learningchineseHD.jpg">
+<title>LEARNING CHINESE</title>
+<titlel>เรียนภาษาจีน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 16-Apr-2014 with 14  Episode(s) PLAY:  WED  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/learningchinese.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

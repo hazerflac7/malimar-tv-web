@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>13</itemCount>
+<totalCount>13</totalCount>
+<item sdImg="https://i.malimarcdn.com/BadFriendTheSeries.jpg"
+ hdImg="https://i.malimarcdn.com/BadFriendTheSeriesHD.jpg">
+<title>BAD FRIEND THE SERIES</title>
+<titlel>ເພື່ອນຮ້າຍ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Sep-2022 with 8  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BadFriendTheSeries.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/IHadHistory.jpg"
+ hdImg="https://i.malimarcdn.com/IHadHistoryHD.jpg">
+<title>I HAD HISTORY</title>
+<titlel>ຄົນມີປະຫວັດ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Sep-2022 with 4  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/IHadHistory.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/ForeverLove.jpg"
+ hdImg="https://i.malimarcdn.com/ForeverLoveHD.jpg">
+<title>FOREVER LOVE</title>
+<titlel>ຮັກເຈົ້າທຸກຊາດໄປ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Sep-2022 with 4  Episode(s) PLAY:  SAT  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ForeverLove.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MyMelodyTheSeries.jpg"
+ hdImg="https://i.malimarcdn.com/MyMelodyTheSeriesHD.jpg">
+<title>MY MELODY THE SERIES</title>
+<titlel>ທຳນອງຫົວໃຈ ໄວລຸ້ນປັ້ນຝັນ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 10-Sep-2022 with 7  Episode(s) PLAY:  SAT  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MyMelodyTheSeries.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/UnlockTheNationalTreasure.jpg"
+ hdImg="https://i.malimarcdn.com/UnlockTheNationalTreasureHD.jpg">
+<title>UNLOCK THE NATIONAL TREASURE</title>
+<titlel>ໄຂປິດສະໜາ ລ່າຂຸມຊັບພັນປີ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Sep-2022 with 4  Episode(s) PLAY:  TUE  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/UnlockTheNationalTreasure.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DiaryLoveTheSeriesPart2.jpg"
+ hdImg="https://i.malimarcdn.com/DiaryLoveTheSeriesPart2HD.jpg">
+<title>DIARY LOVE THE SERIES PART 2</title>
+<titlel>ຮັກວຸ້ນໆຄຸນໜູເນ່ເນ້ພາກ2</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Sep-2022 with 6  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DiaryLoveTheSeriesPart2.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/HouseTheSeries1.jpg"
+ hdImg="https://i.malimarcdn.com/HouseTheSeries1HD.jpg">
+<title>HOUSE THE SERIES</title>
+<titlel>ເຮົາ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Sep-2022 with 8  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HouseTheSeries1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OnYourSideTheSeriesSeason3.jpg"
+ hdImg="https://i.malimarcdn.com/OnYourSideTheSeriesSeason3HD.jpg">
+<title>ON YOUR SIDE THE SERIES SEASON 3</title>
+<titlel>ຮັກນີ້ສີບົວ3</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 2-Sep-2022 with 8  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OnYourSideTheSeriesSeason3.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/DiaryLoveTheSeriesPart1.jpg"
+ hdImg="https://i.malimarcdn.com/DiaryLoveTheSeriesPart1HD.jpg">
+<title>DIARY LOVE THE SERIES PART 1</title>
+<titlel>ຮັກວຸ້ນໆຄຸນໜູເນ່ເນ້</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Aug-2022 with 5  Episode(s) PLAY:  TUE  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/DiaryLoveTheSeriesPart1.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/LoveDelivery.jpg"
+ hdImg="https://i.malimarcdn.com/LoveDeliveryHD.jpg">
+<title>LOVE DELIVERY</title>
+<titlel>ຮັກຕ້ອງສົ່ງ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Aug-2022 with 4  Episode(s) PLAY:  TUE  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LoveDelivery.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OhMy4TheSeries.jpg"
+ hdImg="https://i.malimarcdn.com/OhMy4TheSeriesHD.jpg">
+<title>OH MY 4 THE SERIES</title>
+<titlel>ຮັກນີ້ສີ່ຄົນ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Aug-2022 with 10  Episode(s) PLAY: MON, TUE  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OhMy4TheSeries.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/OneLoveTheSeries.jpg"
+ hdImg="https://i.malimarcdn.com/OneLoveTheSeriesHD.jpg">
+<title>ONE LOVE THE SERIES</title>
+<titlel>ກູໂຫດໃດ໋ມຶງໄຫວຫວາ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Aug-2022 with 8  Episode(s) PLAY:  TUE  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/OneLoveTheSeries.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/AtTheHorizon.jpg"
+ hdImg="https://i.malimarcdn.com/AtTheHorizonHD.jpg">
+<title>AT THE HORIZON</title>
+<titlel>ປາຍທາງ</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2014 with 4  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/AtTheHorizon.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

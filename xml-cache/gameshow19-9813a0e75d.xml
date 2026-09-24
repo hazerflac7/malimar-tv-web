@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>3</itemCount>
+<totalCount>3</totalCount>
+<item>
+<title>GAME SHOWS 2019 ROW 1</title>
+<titlel>เกมโชว์ 2019</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Game_Shows_2019_Row1_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>GAME SHOWS 2019 ROW 2</title>
+<titlel>เกมโชว์ 2019</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Game_Shows_2019_Row2_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+<item>
+<title>GAME SHOWS 2019 ROW 3</title>
+<titlel>เกมโชว์ 2019</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Game_Shows_2019_Row3_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+</feed>

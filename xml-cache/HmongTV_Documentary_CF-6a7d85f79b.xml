@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>10</itemCount>
+<totalCount>10</totalCount>
+<item sdImg="https://i.malimarcdn.com/hm/BombHarvestInLaos.jpg"
+ hdImg="https://i.malimarcdn.com/hm/BombHarvestInLaosHD.jpg">
+<title>HMONG BOMB HARVEST IN LAOS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Aug-2013 with 2  Episode(s) PLAY:  WED  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BombHarvestInLaos.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/HeatIllness.jpg"
+ hdImg="https://i.malimarcdn.com/hm/HeatIllnessHD.jpg">
+<id>hmong_heat_illness1723</id>
+<title>HMONG HEAT ILLNESS</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>543</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Aug-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongDocumentary/HeatIllness/HeatIllness.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/HmongIdol2009.jpg"
+ hdImg="https://i.malimarcdn.com/hm/HmongIdol2009HD.jpg">
+<id>hmong_idol_20091724</id>
+<title>HMONG IDOL 2009</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>3264</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Aug-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongDocumentary/HmongIdol2009/HmongIdol2009.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/NkaujHmoobUSA.jpg"
+ hdImg="https://i.malimarcdn.com/hm/NkaujHmoobUSAHD.jpg">
+<id>nkauj_hmoob_usa1725</id>
+<title>NKAUJ HMOOB USA</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Aug-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongDocumentary/NkaujHmoobUSA/NkaujHmoobUSA.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/WaterNature.jpg"
+ hdImg="https://i.malimarcdn.com/hm/WaterNatureHD.jpg">
+<id>water_nature1726</id>
+<title>WATER NATURE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>21-Aug-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongDocumentary/WaterNature/WaterNature.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/HmongArmforce.jpg"
+ hdImg="https://i.malimarcdn.com/hm/HmongArmforceHD.jpg">
+<id>hmong_arm_force1481</id>
+<title>HMONG ARM FORCE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>529</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Mar-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongDocumentary/HmongArmforce/HmongArmforce.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/WaterFest2009.jpg"
+ hdImg="https://i.malimarcdn.com/hm/WaterFest2009HD.jpg">
+<id>hmong_water_fest1484</id>
+<title>HMONG WATER FEST</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>2353</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Mar-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongDocumentary/WaterFest/WaterFest2009.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/flowers.jpg"
+ hdImg="https://i.malimarcdn.com/hm/flowersHD.jpg">
+<id>hmong_flowers_part_11503</id>
+<title>HMONG FLOWERS PART 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>407</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Mar-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongDocumentary/Flowers/PajTawgHmoNtuj.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/YosHavZoov.jpg"
+ hdImg="https://i.malimarcdn.com/hm/YosHavZoovHD.jpg">
+<title>YOS HAV ZOOV</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 21-Aug-2013 with 3  Episode(s) PLAY:  WED  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YosHavZoov.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/Paj2013.jpg"
+ hdImg="https://i.malimarcdn.com/hm/Paj2013HD.jpg">
+<id>hmong_flowers_part_21762</id>
+<title>HMONG FLOWERS PART 2</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>271</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Mar-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongDocumentary/Flowers/Paj2013.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

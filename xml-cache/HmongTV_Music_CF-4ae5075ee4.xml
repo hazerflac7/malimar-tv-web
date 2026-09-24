@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>32</itemCount>
+<totalCount>32</totalCount>
+<item sdImg="https://i.malimarcdn.com/NkaujMuamNraugNu.jpg"
+ hdImg="https://i.malimarcdn.com/NkaujMuamNraugNuHD.jpg">
+<id>nkauj_muam_nraug_nu10732</id>
+<title>NKAUJ MUAM NRAUG NU</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>343</length>
+<PlayerBG></PlayerBG>
+<releaseDate>5-Oct-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongMusic/NkaujMuamNraugNu.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/MusZooNraugHmoobSiabDub.jpg"
+ hdImg="https://i.malimarcdn.com/MusZooNraugHmoobSiabDubHD.jpg">
+<id>mus_zoo_nraug_hmoob_siab_dub10725</id>
+<title>MUS ZOO NRAUG HMOOB SIAB DUB</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>279</length>
+<PlayerBG></PlayerBG>
+<releaseDate>2-Oct-2017</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor>Sarky Mekmorakoth</actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre></genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongMusic/MusZooNraugHmoobSiabDub.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/FoomTuag.jpg"
+ hdImg="https://i.malimarcdn.com/hm/FoomTuagHD.jpg">
+<title>FOOM TUAG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Sep-2014 with 10  Episode(s) PLAY:  SAT  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FoomTuag.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/LiskoobThiabNtxwm.jpg"
+ hdImg="https://i.malimarcdn.com/hm/LiskoobThiabNtxwmHD.jpg">
+<title>LISKOOB THIAB NTXWM</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Jul-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/LiskoobThiabNtxwm.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/RovMusXiengkhouang.jpg"
+ hdImg="https://i.malimarcdn.com/hm/RovMusXiengkhouangHD.jpg">
+<title>ROV MUS XIENGKHOUANG</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 18-Jul-2014 with 11  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/RovMusXiengkhouang.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/hmongM1.jpg"
+ hdImg="https://i.malimarcdn.com/hm/hmongM1HD.jpg">
+<title>HMONG M</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jul-2014 with 14  Episode(s) PLAY:  FRI, SUN  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/hmongM1.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/HnubLauj6.jpg"
+ hdImg="https://i.malimarcdn.com/hm/HnubLauj6HD.jpg">
+<title>HNUB LAUJ 6</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/HnubLauj6.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/INisYang1.jpg"
+ hdImg="https://i.malimarcdn.com/hm/INisYang1HD.jpg">
+<title>I NIS YANG 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/INisYang1.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/KabLiaLauj4.jpg"
+ hdImg="https://i.malimarcdn.com/hm/KabLiaLauj4HD.jpg">
+<title>KAB LIA LAUJ VOL 4</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KabLiaLauj4.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/KabXiaNiam1.jpg"
+ hdImg="https://i.malimarcdn.com/hm/KabXiaNiam1HD.jpg">
+<title>KAB XIA NIAM VOL 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KabXiaNiam1.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/KhabLis12.jpg"
+ hdImg="https://i.malimarcdn.com/hm/KhabLis12HD.jpg">
+<title>KHAB LIS VOL 12</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhabLis12.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/MaivLisThoj4.jpg"
+ hdImg="https://i.malimarcdn.com/hm/MaivLisThoj4HD.jpg">
+<title>MAIV LIS THOJ VOL 4</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MaivLisThoj4.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/NkaujHliVwj4.jpg"
+ hdImg="https://i.malimarcdn.com/hm/NkaujHliVwj4HD.jpg">
+<title>NKAUJ HLI VWJ 4</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NkaujHliVwj4.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/NKaujnoogHawj11.jpg"
+ hdImg="https://i.malimarcdn.com/hm/NKaujnoogHawj11HD.jpg">
+<title>NKAUJNOOG HAWJ 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NKaujnoogHawj11.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/NtajNeebYaj3.jpg"
+ hdImg="https://i.malimarcdn.com/hm/NtajNeebYaj3HD.jpg">
+<title>NTAJ NEEB YAJ 3</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/NtajNeebYaj3.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/PajNcaimToj1.jpg"
+ hdImg="https://i.malimarcdn.com/hm/PajNcaimToj1HD.jpg">
+<title>PAJ NCAIM TOJ VOL 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PajNcaimToj1.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/PajNcaimToj2.jpg"
+ hdImg="https://i.malimarcdn.com/hm/PajNcaimToj2HD.jpg">
+<title>PAJ NCAIM TOJ VOL 2</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PajNcaimToj2.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/PajzaubThoj7.jpg"
+ hdImg="https://i.malimarcdn.com/hm/PajzaubThoj7HD.jpg">
+<title>PAZAUB THOJ VOL 7</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PajzaubThoj7.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/PobTsuasXyooj1.jpg"
+ hdImg="https://i.malimarcdn.com/hm/PobTsuasXyooj1HD.jpg">
+<title>POB TSUAS XYOOJ 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PobTsuasXyooj1.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/PobtsuasXyooj3.jpg"
+ hdImg="https://i.malimarcdn.com/hm/PobtsuasXyooj3HD.jpg">
+<title>POB TSUAS XYOOJ 3</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PobtsuasXyooj3.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/SuabXyooj3.jpg"
+ hdImg="https://i.malimarcdn.com/hm/SuabXyooj3HD.jpg">
+<title>SUAB XYOOJ VOL 3</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SuabXyooj3.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/SuabXyooy2.jpg"
+ hdImg="https://i.malimarcdn.com/hm/SuabXyooy2HD.jpg">
+<title>SUAB XYOOY 2</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SuabXyooy2.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/SuabcuaLaujZebThoj1.jpg"
+ hdImg="https://i.malimarcdn.com/hm/SuabcuaLaujZebThoj1HD.jpg">
+<title>SUABCUA LAUJ ZEB THOJ 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SuabcuaLaujZebThoj1.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/ThujKeebVaj3.jpg"
+ hdImg="https://i.malimarcdn.com/hm/ThujKeebVaj3HD.jpg">
+<title>THUJ KEEB VAJ VOL 3</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ThujKeebVaj3.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/TsasLis1.jpg"
+ hdImg="https://i.malimarcdn.com/hm/TsasLis1HD.jpg">
+<title>TSAS LIS VOL 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TsasLis1.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/TsisYogTejLausKevNtshaw.jpg"
+ hdImg="https://i.malimarcdn.com/hm/TsisYogTejLausKevNtshawHD.jpg">
+<title>TSIS YOG TEJ LAUS KEV NTSHAW</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TsisYogTejLausKevNtshaw.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/UaNeejKhuamNtuv1.jpg"
+ hdImg="https://i.malimarcdn.com/hm/UaNeejKhuamNtuv1HD.jpg">
+<title>UA NEEJ KHUAM NTUV 1</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 6-Jun-2014 with 10  Episode(s) PLAY:  FRI  : Lao</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/UaNeejKhuamNtuv1.xml</feed>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/KongShu.jpg"
+ hdImg="https://i.malimarcdn.com/hm/KongShuHD.jpg">
+<id>kong_shu1738</id>
+<title>KONG SHU</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Mar-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongMusic/HmongPop-Rock/KongShu/KongShu.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/MaivXyooj.jpg"
+ hdImg="https://i.malimarcdn.com/hm/MaivXyoojHD.jpg">
+<id>maiv_xyooj1505</id>
+<title>MAIV XYOOJ</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Mar-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongMusic/HmongPop-Rock/MaivXyooj/KojDagXwb.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/MosHlubLive.jpg"
+ hdImg="https://i.malimarcdn.com/hm/MosHlubLiveHD.jpg">
+<id>mos_hlub_live1741</id>
+<title>MOS HLUB LIVE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Mar-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongMusic/HmongMusicLive/MosHlubLive.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/TouLeeWaKhue.jpg"
+ hdImg="https://i.malimarcdn.com/hm/TouLeeWaKhueHD.jpg">
+<id>tou_lee_wa_khue1506</id>
+<title>TOU LEE WA KHUE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Mar-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongMusic/HmongPop-Rock/TouLeeWaKhue/MobKuvLubSiab.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/hm/UaSiabTsisHuKojNpe.jpg"
+ hdImg="https://i.malimarcdn.com/hm/UaSiabTsisHuKojNpeHD.jpg">
+<id>ua_siab_tsis_hu_koj_npe1736</id>
+<title>UA SIAB TSIS HU KOJ NPE</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<length>0</length>
+<PlayerBG></PlayerBG>
+<releaseDate>29-Mar-2013</releaseDate>
+<rating>TV-G</rating>
+<from></from>
+<actors>
+<actor></actor>
+<actor></actor>
+<actor></actor>
+</actors>
+<synopsis></synopsis>
+<genres>
+<genre>Music</genre>
+<genre></genre>
+<genre></genre>
+</genres>
+<contentType>Video</contentType>
+<contentQuality>SD</contentQuality>
+<streamFormat>hls</streamFormat>
+<live>False</live>
+<media>
+<streamQuality>SD</streamQuality>
+<streamBitrate>0</streamBitrate>
+<streamUrl>https://vodhls.malimarcdn.net/Hmong14/HmongMusic/HmongPop-Rock/NtxhiYaj/UaSiabTsisHuKojNpe.m3u8</streamUrl>
+</media>
+<SwitchingStrategy>full-adaptation</SwitchingStrategy>
+<MSUB>FR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

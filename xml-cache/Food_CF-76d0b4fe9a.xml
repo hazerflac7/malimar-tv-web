@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--EPFeed-->
+<startIndex>0</startIndex>
+<itemCount>18</itemCount>
+<totalCount>18</totalCount>
+<item sdImg="https://i.malimarcdn.com/Variety26/KhlapAroi226.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/KhlapAroi226HD.jpg">
+<title>KHLAP AROI 2</title>
+<titlel>คลับอร่อย2</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 18  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhlapAroi226.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/KhritMaLaeo26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/KhritMaLaeo26HD.jpg">
+<title>KHRIT MA LAEO 2026</title>
+<titlel>คริตมาแล้ว</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 20-Sep-2026 with 27  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhritMaLaeo26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/TalatsotPhraRam426.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/TalatsotPhraRam426HD.jpg">
+<title>TALATSOT PHRA RAM 4</title>
+<titlel>ตลาดสดพระราม4 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 36  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TalatsotPhraRam426.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/WalkIn26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/WalkIn26HD.jpg">
+<title>WALK IN</title>
+<titlel>วอคอิน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 19-Sep-2026 with 26  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WalkIn26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety26/SayHi26.jpg"
+ hdImg="https://i.malimarcdn.com/Variety26/SayHi26HD.jpg">
+<title>SAY HI</title>
+<titlel>เซไฮ 2026</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 14-Aug-2026 with 24  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SayHi26.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/EaterTheJourney25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/EaterTheJourney25HD.jpg">
+<title>EATER THE JOURNEY 2025</title>
+<titlel></titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 45  Episode(s) PLAY:  WED, SAT, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/EaterTheJourney25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/FoodWork25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/FoodWork25HD.jpg">
+<title>FOOD WORK 2025</title>
+<titlel>ฟู้ด เวิลด์</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 28-Dec-2025 with 49  Episode(s) PLAY:  THU, SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/FoodWork25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/BigKitchen25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/BigKitchen25HD.jpg">
+<title>BIG KITCHEN 2025</title>
+<titlel>เดอะบิ๊ก คิทเช่น 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 52  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/BigKitchen25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/JoyDay25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/JoyDay25HD.jpg">
+<title>JOY DAY 2025</title>
+<titlel>ถนนแห่งการเดินทาง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 44  Episode(s) PLAY:  THU, SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/JoyDay25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/MueproChoPrung25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/MueproChoPrung25HD.jpg">
+<title>MUEPRO CHO PRUNG 2025</title>
+<titlel>มือโปรโชว์ปรุง</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 53  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/MueproChoPrung25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/PoetTamNanKapPhaoThong25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/PoetTamNanKapPhaoThong25HD.jpg">
+<title>POET TAM NAN KAP PHAO THONG 2025</title>
+<titlel>เปิดตำนานกับเผ่าทอง 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 50  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/PoetTamNanKapPhaoThong25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/TalatsotPhraRam425.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/TalatsotPhraRam425HD.jpg">
+<title>TALATSOT PHRA RAM 4 2025</title>
+<titlel>ตลาดสดพระราม4 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 51  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/TalatsotPhraRam425.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/WalkIn25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/WalkIn25HD.jpg">
+<title>WALK IN 2025</title>
+<titlel>วอคอิน</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 27-Dec-2025 with 41  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/WalkIn25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/YingSukSamoson25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/YingSukSamoson25HD.jpg">
+<title>YING SUK SAMOSON 2025</title>
+<titlel>ยิ่งสุขสโมสร</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 26-Dec-2025 with 52  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/YingSukSamoson25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/SayHi25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/SayHi25HD.jpg">
+<title>SAY HI 2025</title>
+<titlel>เซไฮ 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 29-Aug-2025 with 35  Episode(s) PLAY:  FRI  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/SayHi25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/ChillOut25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/ChillOut25HD.jpg">
+<title>CHILL OUT</title>
+<titlel>บันทึกท่องเที่ยว 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 5-Jul-2025 with 26  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/ChillOut25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/KinNaiPaiDuaiKan25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/KinNaiPaiDuaiKan25HD.jpg">
+<title>KIN NAI PAI DUAI KAN</title>
+<titlel>กินไหน ไปด้วยกัน 2025</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 30-Mar-2025 with 13  Episode(s) PLAY:  SUN  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KinNaiPaiDuaiKan25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+<item sdImg="https://i.malimarcdn.com/Variety25/KhlapAroi25.jpg"
+ hdImg="https://i.malimarcdn.com/Variety25/KhlapAroi25HD.jpg">
+<title>KHLAP AROI</title>
+<titlel>คลับอร่อย</titlel>
+<Mweb>Y</Mweb>
+<description>Updated: 22-Feb-2025 with 8  Episode(s) PLAY:  SAT  : Thai</description>
+<feed type="episodes">https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/KhlapAroi25.xml</feed>
+<MSUB>PR</MSUB>
+<MTOKEN>Fastly</MTOKEN>
+</item>
+</feed>

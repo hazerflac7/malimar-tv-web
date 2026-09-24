@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+<!--sliderGrid-->
+<startIndex>0</startIndex>
+<itemCount>1</itemCount>
+<totalCount>1</totalCount>
+<item>
+<title>GAME SHOWS 2025 ROW 1</title>
+<titlel>เกมโชว์ 2025</titlel>
+<feed>https://malimartv.s3-accelerate.amazonaws.com/roku/xml/Home/Game_Shows_2025_Row1_CF.xml</feed>
+<MSUB>PR</MSUB>
+</item>
+</feed>
