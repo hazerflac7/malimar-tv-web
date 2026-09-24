@@ -16,3 +16,7 @@ TV-first HTML/CSS/JavaScript interface for navigating Malimar with a D-pad remot
 - `app.js`
 
 Serve these files over HTTP/HTTPS (for example GitHub Pages). Opening `index.html` directly as `file://` may trigger browser cross-origin restrictions.
+
+## GitHub Pages
+
+This repository includes `.github/workflows/pages.yml`. A push to `main` deploys the static TV interface with GitHub Pages.
