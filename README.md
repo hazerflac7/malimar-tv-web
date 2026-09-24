@@ -1,16 +1,18 @@
-# Malimar TV Web Prototype
+# Malimar TV Web v2
 
-TV-first HTML/CSS/JS prototype with D-pad navigation.
+TV-first HTML/CSS/JavaScript interface for navigating Malimar with a D-pad remote.
 
-## Run
-Serve the folder over HTTP (opening index.html as file:// can block fetch):
+## v2 changes
+- Loads Malimar's real `HomeGrid.xml`.
+- Loads each HomeGrid row feed instead of using the v1 demo/fallback catalog.
+- Uses each show's native XML episode feed (for example `TreasureLovers26.xml`).
+- Uses Malimar episode IDs such as `EP284043` to open the normal Malimar website episode page.
+- Does not attempt to play the raw premium HLS URL; Malimar's website remains responsible for subscription/session authorization.
+- D-pad/arrow, Enter/OK and Back/Escape navigation remain browser-native.
 
-    python -m http.server 8080
+## Files
+- `index.html`
+- `tv.css`
+- `app.js`
 
-Then open http://DEVICE-IP:8080/ or http://127.0.0.1:8080/.
-
-## Controls
-Arrow/D-pad = move, Enter/OK = select/play, Escape/Backspace/Android BACK = back.
-
-## Notes
-The app attempts the known Malimar XML catalog endpoints. If browser CORS blocks those XML requests it falls back to two demo catalog cards so remote navigation can still be tested. Episode playback intentionally opens the Malimar episode webpage rather than fetching the raw HLS stream directly.
+Serve these files over HTTP/HTTPS (for example GitHub Pages). Opening `index.html` directly as `file://` may trigger browser cross-origin restrictions.
