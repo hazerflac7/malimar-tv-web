@@ -1,22 +1,7 @@
-# Malimar TV Web v2
+# Malimar TV Web v3
 
-TV-first HTML/CSS/JavaScript interface for navigating Malimar with a D-pad remote.
+TV-remote-oriented web interface for Malimar's web service.
 
-## v2 changes
-- Loads Malimar's real `HomeGrid.xml`.
-- Loads each HomeGrid row feed instead of using the v1 demo/fallback catalog.
-- Uses each show's native XML episode feed (for example `TreasureLovers26.xml`).
-- Uses Malimar episode IDs such as `EP284043` to open the normal Malimar website episode page.
-- Does not attempt to play the raw premium HLS URL; Malimar's website remains responsible for subscription/session authorization.
-- D-pad/arrow, Enter/OK and Back/Escape navigation remain browser-native.
+V3 avoids browser CORS failures by mirroring Malimar's publicly readable XML catalog during the GitHub Pages deployment workflow. The browser reads those XML snapshots from the same GitHub Pages origin. Images remain on Malimar's CDN, and premium playback is handed to Malimar's normal episode webpage so account/session authorization remains with Malimar.
 
-## Files
-- `index.html`
-- `tv.css`
-- `app.js`
-
-Serve these files over HTTP/HTTPS (for example GitHub Pages). Opening `index.html` directly as `file://` may trigger browser cross-origin restrictions.
-
-## GitHub Pages
-
-This repository includes `.github/workflows/pages.yml`. A push to `main` deploys the static TV interface with GitHub Pages.
+Controls: D-pad/arrow keys move focus, Enter/OK selects, Back/Escape returns.

@@ -5,6 +5,7 @@ const CONFIG={
 };
 
 let rows=[];
+let xmlMirror={};
 let focus={row:0,col:0};
 let mode='home';
 let episodeFocus=0;
@@ -23,8 +24,9 @@ const showKeyFromFeed=url=>{const m=String(url||'').match(/\/([^/?]+)\.xml(?:\?|
 const esc=(s='')=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
 async function getXml(url){
-  const r=await fetch(url,{cache:'no-store',mode:'cors'});
-  if(!r.ok)throw Error(`HTTP ${r.status} ${url}`);
+  const source=xmlMirror[url]||url;
+  const r=await fetch(source,{cache:'no-store',mode:xmlMirror[url]?'same-origin':'cors'});
+  if(!r.ok)throw Error(`HTTP ${r.status} ${source}`);
   const xml=new DOMParser().parseFromString(await r.text(),'text/xml');
   const pe=xml.querySelector('parsererror');
   if(pe)throw Error('Invalid XML: '+url);
@@ -79,6 +81,10 @@ function parseEpisodes(xml,show){
 
 async function boot(){
   status.textContent='Loading Malimar…';
+  try{
+    const mr=await fetch('xml-cache/manifest.json',{cache:'no-store'});
+    if(mr.ok)xmlMirror=await mr.json();
+  }catch(e){console.warn('XML mirror unavailable',e)}
   let grid;
   try{grid=await getXml(CONFIG.homeGrid)}catch(e){
     try{grid=await getXml(CONFIG.homeGridFallback)}catch(e2){return fatal('Malimar XML could not be loaded in this browser. '+e2.message)}
@@ -94,7 +100,7 @@ async function boot(){
   }));
 
   rows=loaded.filter(r=>r.items.length);
-  if(!rows.length)return fatal('HomeGrid loaded, but its row feeds could not be loaded. This browser may be blocking cross-origin XML requests.');
+  if(!rows.length)return fatal('HomeGrid loaded, but no cached row feeds were available. Check the GitHub Pages sync workflow.');
   status.textContent=`${rows.length} rows • ${rows.reduce((n,r)=>n+r.items.length,0)} items`;
   renderHome();
   focusCard(0,0);

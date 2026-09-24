@@ -24,6 +24,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Sync Malimar public XML catalog
+        run: python3 tools/sync_xml.py
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
