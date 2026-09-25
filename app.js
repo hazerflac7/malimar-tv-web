@@ -152,13 +152,25 @@ async function openItem(item){
     }catch(e){ console.warn('Nested feed failed',item.feed,e); }
   }
 
-  // Leaf items (not another XML catalog) need an activation path.
-  // Prefer Malimar's own web route when an item id is supplied; otherwise
-  // allow a public/free stream URL to be handed to the WebView.
+  // Free/live streams can be handed to the Shield native player.
+  // Premium items continue through Malimar's normal authorization route.
+  if(item.streamUrl && item.msub !== 'PR' &&
+     window.AndroidPlayer &&
+     typeof AndroidPlayer.play === 'function'){
+    AndroidPlayer.play(
+      item.title || '',
+      item.streamUrl,
+      item.mtoken || 'None'
+    );
+    return;
+  }
+
+  // Keep premium/account-controlled content on Malimar's normal route.
   if(item.id){
     location.href=CONFIG.episodePage+encodeURIComponent(item.id)+(item.show?'?show='+encodeURIComponent(item.show):'');
     return;
   }
+
   if(item.streamUrl){
     location.href=item.streamUrl;
     return;
