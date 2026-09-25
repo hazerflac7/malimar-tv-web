@@ -10,23 +10,20 @@ SEEDS = [
 ]
 manifest = {}
 seen = set()
-
 def name_for(url):
     base = pathlib.PurePosixPath(urlparse(url).path).name or 'feed.xml'
     stem = base[:-4] if base.lower().endswith('.xml') else base
     return f"{stem}-{hashlib.sha256(url.encode()).hexdigest()[:10]}.xml"
-
 def fetch(url, depth=0):
-    if url in seen or depth > 3 or not url.startswith('https://'):
+    if url in seen or depth > 7 or not url.startswith('https://'):
         return
     seen.add(url)
-    req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 MalimarTVWeb/3'})
+    req=urllib.request.Request(url,headers={'User-Agent':'Mozilla/5.0 MalimarTVWeb/5'})
     try:
         with urllib.request.urlopen(req, timeout=25) as r:
             data=r.read()
     except Exception as e:
-        print('WARN', url, e)
-        return
+        print('WARN', url, e); return
     fn=name_for(url)
     (OUT/fn).write_bytes(data)
     manifest[url]=f'xml-cache/{fn}'
@@ -39,7 +36,6 @@ def fetch(url, depth=0):
         child=(el.text or '').strip()
         if child.startswith('https://') and child.lower().split('?',1)[0].endswith('.xml'):
             fetch(child, depth+1)
-
 for u in SEEDS: fetch(u)
 (OUT/'manifest.json').write_text(json.dumps(manifest, indent=2, sort_keys=True), encoding='utf-8')
 print(f'Cached {len(manifest)} XML feeds')

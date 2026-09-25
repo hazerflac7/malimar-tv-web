@@ -136,7 +136,7 @@ function focusCard(r,c){
 async function openItem(item){
   // The show feeds we discovered are explicitly type="episodes". Use those as the native episode screen.
   if(item.feed && (item.feedType==='episodes' || item.show)) return openShow(item);
-  // Some HomeGrid rows contain another catalog layer. Load it as a temporary native row instead of guessing playback.
+  // Some HomeGrid rows contain another catalog layer.
   if(item.feed){
     try{
       const items=parseCatalog(await getXml(item.feed));
@@ -149,7 +149,19 @@ async function openItem(item){
         focusSubmenu();
         return;
       }
-    }catch(e){}
+    }catch(e){ console.warn('Nested feed failed',item.feed,e); }
+  }
+
+  // Leaf items (not another XML catalog) need an activation path.
+  // Prefer Malimar's own web route when an item id is supplied; otherwise
+  // allow a public/free stream URL to be handed to the WebView.
+  if(item.id){
+    location.href=CONFIG.episodePage+encodeURIComponent(item.id)+(item.show?'?show='+encodeURIComponent(item.show):'');
+    return;
+  }
+  if(item.streamUrl){
+    location.href=item.streamUrl;
+    return;
   }
 }
 
