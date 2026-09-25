@@ -163,6 +163,18 @@ async function openItem(item){
     location.href=item.streamUrl;
     return;
   }
+  // v6: activate leaf/live entries that have no child XML feed.
+  if(!item.feed){
+    if(item.id){
+      location.href=CONFIG.episodePage+encodeURIComponent(item.id)+(item.show?'?show='+encodeURIComponent(item.show):'');
+      return;
+    }
+    if(item.streamUrl){
+      location.href=item.streamUrl;
+      return;
+    }
+  }
+
 }
 
 async function openShow(item){
